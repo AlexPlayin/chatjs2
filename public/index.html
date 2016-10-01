@@ -1,0 +1,13 @@
+<html><head></head>
+<body>
+    <input type="text" id="name"></input>
+<script src="libs/jquery.js"></script>
+    <script>
+    $('#name').keypress(function (e) {
+        if (e.which == 13) {
+        window.location = 'chat.html?user=' + $('#name').val();
+        }
+    });
+</script>
+    </body>
+</html>

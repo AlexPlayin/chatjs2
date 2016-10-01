@@ -1,0 +1,2773 @@
+
+[12:40.9] [CORE] Server is starting
+[12:40.9] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[12:40.9] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[12:40.10] [CORE] New user with ID /#nbIFuYCrSk50xonSAAAA trying to connect
+[12:51.13] [CORE] Server is starting
+[12:51.13] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[12:51.13] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:55.52] [CORE] New user with ID /#6ixsagO0waSq9Z_eAAAA trying to connect
+[13:56.4] [CHAT] User [/#6ixsagO0waSq9Z_eAAAA] sent message : Hh
+[14:31.28] [CORE] Server is starting
+[14:31.28] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:31.28] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:31.39] [CORE] New user with ID /#Dct6ZnN_0GTXfJBFAAAA trying to connect
+[14:33.24] [CORE] Server is starting
+[14:33.24] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:33.24] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:33.24] [CORE] New user with ID /#OO_EweUzCVsbQ38oAAAA trying to connect
+[14:33.30] [CHAT] User [/#OO_EweUzCVsbQ38oAAAA] requested message. Handshake was not completed!
+[14:40.54] [CORE] New user with ID /#FJ1D7fry-rrlL8K7AAAB trying to connect
+[14:41.18] [CORE] New user with ID /#eWMCuA0JIxtOzCJFAAAC trying to connect
+[14:41.20] [CORE] New user with ID /#DxXKa5TGgW8Y6NeiAAAD trying to connect
+[14:41.20] [CORE] New user with ID /#bz1sCUokiaKG8L5WAAAE trying to connect
+[14:41.20] [CORE] New user with ID /#cOmVGM2_-X8kTJM5AAAF trying to connect
+[14:41.21] [CORE] New user with ID /#hsRUbMxLCi0xcbrLAAAG trying to connect
+[14:41.21] [CORE] New user with ID /#6_wIyPMU1O2V6VL1AAAH trying to connect
+[14:41.21] [CORE] New user with ID /#0PpKN8ggCnTJ8mK2AAAI trying to connect
+[14:41.24] [CHAT] User [/#0PpKN8ggCnTJ8mK2AAAI] requested message. Handshake was not completed!
+[14:43.9] [CORE] New user with ID /#KloydFD5VjcIYrGYAAAJ trying to connect
+[14:43.10] [CORE] New user with ID /#0fg-CC9ufh67uiRQAAAK trying to connect
+[14:43.10] [CORE] New user with ID /#eVFJkM81a-Fz0YSkAAAL trying to connect
+[14:43.11] [CORE] New user with ID /#o9pWKJ5z2MZLOqoVAAAM trying to connect
+[14:43.14] [CHAT] User [/#o9pWKJ5z2MZLOqoVAAAM] requested message. Handshake was not completed!
+[14:43.29] [CORE] New user with ID /#OVG94cGI5WYuzNr6AAAN trying to connect
+[14:43.32] [CHAT] User [/#OVG94cGI5WYuzNr6AAAN] requested message. Handshake was not completed!
+[14:44.44] [CORE] Server is starting
+[14:44.44] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:44.44] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:44.45] [CORE] New user with ID /#n1nd6BntntlZ2jveAAAA trying to connect
+[14:44.45] [CHAT] User [/#n1nd6BntntlZ2jveAAAA] requested status: No handshake
+[14:45.53] [CORE] Server is starting
+[14:45.53] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:45.53] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:45.56] [CORE] New user with ID /#sfBPjhwBMU3cILs2AAAA trying to connect
+[14:45.56] [CHAT] User [/#sfBPjhwBMU3cILs2AAAA] requested status: No handshake
+[14:45.56] [CORE] New user with ID /#BNSYpC6p7FGP0v8nAAAB trying to connect
+[14:45.56] [CHAT] Handshake for User /#BNSYpC6p7FGP0v8nAAABcompleted
+[14:45.56] [CHAT] User [/#BNSYpC6p7FGP0v8nAAAB] requested status: Handshake ok
+[14:46.1] [CHAT] User [/#BNSYpC6p7FGP0v8nAAAB] sent message : dfs
+[14:46.10] [CORE] New user with ID /#uKS_iPEtdV2ESpddAAAC trying to connect
+[14:46.10] [CHAT] Handshake for User /#uKS_iPEtdV2ESpddAAACcompleted
+[14:46.10] [CHAT] User [/#uKS_iPEtdV2ESpddAAAC] requested status: Handshake ok
+[14:52.38] [CORE] Server is starting
+[14:52.38] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:52.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:52.38] [CORE] New user with ID /#s6sN9HQh75n214IyAAAA trying to connect
+[14:52.38] [CHAT] Handshake for User /#s6sN9HQh75n214IyAAAAcompleted
+[14:52.38] [CHAT] User [/#s6sN9HQh75n214IyAAAA] requested status: Handshake ok
+[14:53.1] [CORE] Server is starting
+[14:53.1] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:53.1] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:53.14] [CORE] New user with ID /#GvyQagDbElsoza-MAAAA trying to connect
+[14:53.14] [CHAT] Handshake for User /#GvyQagDbElsoza-MAAAAcompleted
+[14:53.14] [CHAT] User [/#GvyQagDbElsoza-MAAAA] requested status: Handshake ok
+[14:55.16] [CORE] Server is starting
+[14:55.16] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:55.16] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:55.21] [CORE] New user with ID /#hGEOwUNN54RqKbdyAAAA trying to connect
+[14:55.21] [CHAT] Handshake for User /#hGEOwUNN54RqKbdyAAAAcompleted
+[14:55.21] [CHAT] User [/#hGEOwUNN54RqKbdyAAAA] requested status: Handshake ok
+[14:55.57] [CORE] Server is starting
+[14:55.57] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:55.57] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:55.59] [CORE] New user with ID /#2lnFQX6eGF5AK6GKAAAA trying to connect
+[14:56.0] [CHAT] Handshake for User /#2lnFQX6eGF5AK6GKAAAAcompleted
+[14:56.0] [CHAT] User [/#2lnFQX6eGF5AK6GKAAAA] requested status: Handshake ok
+[14:56.34] [CORE] Server is starting
+[14:56.34] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:56.34] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:56.38] [CORE] New user with ID /#qbD0_LOM21GSerqlAAAA trying to connect
+[14:56.38] [CHAT] Handshake for User /#qbD0_LOM21GSerqlAAAAcompleted
+[14:56.39] [CHAT] User [/#qbD0_LOM21GSerqlAAAA] requested status: Handshake ok
+[14:56.56] [CORE] Server is starting
+[14:56.56] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:56.56] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:57.0] [CORE] New user with ID /#upvDNyEXr0XF_6WYAAAA trying to connect
+[14:57.0] [CHAT] Handshake for User /#upvDNyEXr0XF_6WYAAAAcompleted
+[14:57.0] [CHAT] User [/#upvDNyEXr0XF_6WYAAAA] requested status: Handshake ok
+[14:58.18] [CORE] Server is starting
+[14:58.18] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:58.18] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[14:59.4] [CORE] New user with ID /#6b3eRVr6wDrMzFj6AAAA trying to connect
+[14:59.4] [CHAT] Handshake for User /#6b3eRVr6wDrMzFj6AAAAcompleted
+[14:59.4] [CHAT] User [/#6b3eRVr6wDrMzFj6AAAA] requested status: Handshake ok
+[14:59.15] [CORE] User with ID /#6b3eRVr6wDrMzFj6AAAA disconnected.
+[14:59.25] [CORE] Server is starting
+[14:59.25] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[14:59.25] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:11.46] [CORE] New user with ID /#1Po5JeNdS5n0p3T8AAAA trying to connect
+[15:11.46] [CHAT] Handshake for User /#1Po5JeNdS5n0p3T8AAAA completed
+[15:11.47] [CHAT] User [/#1Po5JeNdS5n0p3T8AAAA] requested status: Handshake ok
+[12:54.39] [CORE] Server is starting
+[12:54.39] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[12:54.39] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[13:2.18] [CORE] Server is starting
+[13:2.18] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[13:2.18] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:3.20] [CORE] Server is starting
+[13:3.20] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[13:3.20] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:5.42] [CORE] Server is starting
+[13:5.42] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[13:5.42] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:8.2] [CORE] New user with ID /#hrY6O8NPbjJ5zK0SAAAA trying to connect
+[13:8.2] [CHAT] Handshake for User /#hrY6O8NPbjJ5zK0SAAAA completed
+[13:8.2] [CHAT] User [/#hrY6O8NPbjJ5zK0SAAAA] requested status: Handshake ok
+[13:8.18] [CHAT] User [/#hrY6O8NPbjJ5zK0SAAAA] sent message : asdf
+[13:13.13] [CORE] New user with ID /#A6hY6sd7CtAr7LfoAAAB trying to connect
+[13:13.13] [CHAT] Handshake for User /#A6hY6sd7CtAr7LfoAAAB completed
+[13:13.13] [CHAT] User [/#A6hY6sd7CtAr7LfoAAAB] requested status: Handshake ok
+[13:16.56] [CHAT] User [/#A6hY6sd7CtAr7LfoAAAB] sent message : asdf
+[13:17.1] [CHAT] User [/#A6hY6sd7CtAr7LfoAAAB] sent message : f
+[13:17.6] [CHAT] User [/#hrY6O8NPbjJ5zK0SAAAA] sent message : asf
+[13:17.9] [CHAT] User [/#A6hY6sd7CtAr7LfoAAAB] sent message : asf
+[13:17.14] [CORE] User with ID /#A6hY6sd7CtAr7LfoAAAB disconnected
+[13:17.18] [CORE] New user with ID /#1_6tu8mrxDyUQl76AAAC trying to connect
+[13:17.18] [CHAT] Handshake for User /#1_6tu8mrxDyUQl76AAAC completed
+[13:17.18] [CHAT] User [/#1_6tu8mrxDyUQl76AAAC] requested status: Handshake ok
+[13:19.16] [CORE] Server is starting
+[13:19.16] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[13:19.16] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:19.16] [CORE] New user with ID /#6gy74HfDV8b548DVAAAA trying to connect
+[13:19.16] [CORE] New user with ID /#uoHOCmiQ_9S9KHgwAAAB trying to connect
+[13:19.17] [CHAT] Handshake for User /#uoHOCmiQ_9S9KHgwAAAB completed
+[13:19.17] [CHAT] Handshake for User /#6gy74HfDV8b548DVAAAA completed
+[13:19.17] [CHAT] User [/#6gy74HfDV8b548DVAAAA] requested status: Handshake ok
+[13:19.17] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] requested status: Handshake ok
+[13:19.24] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] sent message : af
+[13:19.27] [CORE] New user with ID /#m1Ocw4v_IEjkehTMAAAC trying to connect
+[13:19.27] [CHAT] Handshake for User /#m1Ocw4v_IEjkehTMAAAC completed
+[13:19.27] [CHAT] User [/#m1Ocw4v_IEjkehTMAAAC] requested status: Handshake ok
+[13:31.25] [CHAT] User [/#6gy74HfDV8b548DVAAAA] sent message : sadfasdf
+[13:31.26] [CHAT] User [/#6gy74HfDV8b548DVAAAA] sent message : 
+[13:31.29] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] sent message : f
+[13:31.31] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] sent message : asdf
+[13:31.32] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] sent message : 
+[13:31.32] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] sent message : 
+[13:31.32] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] sent message : 
+[13:31.32] [CHAT] User [/#uoHOCmiQ_9S9KHgwAAAB] sent message : 
+[13:32.58] [CORE] User with ID /#uoHOCmiQ_9S9KHgwAAAB disconnected
+[13:32.58] [CORE] New user with ID /#gpxynIOFbrp7cMp4AAAD trying to connect
+[13:32.58] [CHAT] Handshake for User /#gpxynIOFbrp7cMp4AAAD completed
+[13:32.58] [CHAT] User [/#gpxynIOFbrp7cMp4AAAD] requested status: Handshake ok
+[13:33.6] [CHAT] User [/#gpxynIOFbrp7cMp4AAAD] sent message : 
+[13:33.7] [CHAT] User [/#gpxynIOFbrp7cMp4AAAD] sent message : 
+[13:33.7] [CHAT] User [/#gpxynIOFbrp7cMp4AAAD] sent message : 
+[13:33.7] [CHAT] User [/#gpxynIOFbrp7cMp4AAAD] sent message : 
+[13:33.17] [CORE] User with ID /#gpxynIOFbrp7cMp4AAAD disconnected
+[13:33.17] [CORE] New user with ID /#I4uxJx3Dz8sb07uEAAAE trying to connect
+[13:33.17] [CHAT] Handshake for User /#I4uxJx3Dz8sb07uEAAAE completed
+[13:33.17] [CHAT] User [/#I4uxJx3Dz8sb07uEAAAE] requested status: Handshake ok
+[13:33.19] [CORE] User with ID /#I4uxJx3Dz8sb07uEAAAE disconnected
+[13:33.19] [CORE] New user with ID /#SBdwwYsTySKFmry3AAAF trying to connect
+[13:33.19] [CHAT] Handshake for User /#SBdwwYsTySKFmry3AAAF completed
+[13:33.19] [CHAT] User [/#SBdwwYsTySKFmry3AAAF] requested status: Handshake ok
+[13:33.20] [CHAT] User [/#SBdwwYsTySKFmry3AAAF] sent message : 
+[13:33.21] [CHAT] User [/#SBdwwYsTySKFmry3AAAF] sent message : 
+[13:34.19] [CORE] User with ID /#SBdwwYsTySKFmry3AAAF disconnected
+[13:34.19] [CORE] New user with ID /#DLnAtqm03SZcoAfjAAAG trying to connect
+[13:34.19] [CHAT] Handshake for User /#DLnAtqm03SZcoAfjAAAG completed
+[13:34.19] [CHAT] User [/#DLnAtqm03SZcoAfjAAAG] requested status: Handshake ok
+[13:36.40] [CORE] Server is starting
+[13:36.40] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[13:36.40] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:36.41] [CORE] New user with ID /#izry3P1k7mY26-GMAAAA trying to connect
+[13:36.41] [CHAT] Handshake for User /#izry3P1k7mY26-GMAAAA completed
+[13:36.41] [CHAT] User [/#izry3P1k7mY26-GMAAAA] requested status: Handshake ok
+[13:36.43] [CORE] New user with ID /#swrZu-9WseKXmTuWAAAB trying to connect
+[13:36.43] [CHAT] Handshake for User /#swrZu-9WseKXmTuWAAAB completed
+[13:36.43] [CHAT] User [/#swrZu-9WseKXmTuWAAAB] requested status: Handshake ok
+[13:36.44] [CORE] New user with ID /#nR0-x_lPl5mNnZ4VAAAC trying to connect
+[13:36.44] [CHAT] Handshake for User /#nR0-x_lPl5mNnZ4VAAAC completed
+[13:36.44] [CHAT] User [/#nR0-x_lPl5mNnZ4VAAAC] requested status: Handshake ok
+[13:37.55] [CORE] Server is starting
+[13:37.55] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[13:37.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:37.55] [CORE] New user with ID /#O9rGF3v3ckntySaWAAAA trying to connect
+[13:37.55] [CORE] New user with ID /#xC9aFcKOSOUSUHwGAAAC trying to connect
+[13:37.55] [CORE] New user with ID /#NCuhC3apdCTM0lf6AAAB trying to connect
+[13:37.55] [CHAT] Handshake for User /#O9rGF3v3ckntySaWAAAA completed
+[13:37.55] [CHAT] Handshake for User /#NCuhC3apdCTM0lf6AAAB completed
+[13:37.55] [CHAT] User [/#NCuhC3apdCTM0lf6AAAB] requested status: Handshake ok
+[13:37.55] [CHAT] Handshake for User /#xC9aFcKOSOUSUHwGAAAC completed
+[13:37.55] [CHAT] User [/#O9rGF3v3ckntySaWAAAA] requested status: Handshake ok
+[13:37.55] [CHAT] User [/#xC9aFcKOSOUSUHwGAAAC] requested status: Handshake ok
+[13:38.0] [CHAT] User [/#O9rGF3v3ckntySaWAAAA] sent message : asd
+[13:48.28] [CORE] User with ID /#xC9aFcKOSOUSUHwGAAAC disconnected
+[13:50.11] [CORE] New user with ID /#3SmIdFjxnKiz9H62AAAD trying to connect
+[13:50.11] [CHAT] Handshake for User /#3SmIdFjxnKiz9H62AAAD completed
+[13:50.12] [CHAT] User [/#3SmIdFjxnKiz9H62AAAD] requested status: Handshake ok
+[13:56.52] [CORE] User with ID /#O9rGF3v3ckntySaWAAAA disconnected
+[14:3.8] [CORE] New user with ID /#bMN2PeaIjypfFm3xAAAE trying to connect
+[14:3.8] [CHAT] Handshake for User /#bMN2PeaIjypfFm3xAAAE completed
+[14:3.8] [CHAT] User [/#bMN2PeaIjypfFm3xAAAE] requested status: Handshake ok
+[14:3.29] [CORE] User with ID /#bMN2PeaIjypfFm3xAAAE disconnected
+[14:3.29] [CORE] New user with ID /#TxZsrKf7IGk3M2esAAAF trying to connect
+[14:3.29] [CHAT] Handshake for User /#TxZsrKf7IGk3M2esAAAF completed
+[14:3.29] [CHAT] User [/#TxZsrKf7IGk3M2esAAAF] requested status: Handshake ok
+[14:3.31] [CHAT] User [/#TxZsrKf7IGk3M2esAAAF] sent message : sadf
+[14:3.32] [CHAT] User [/#TxZsrKf7IGk3M2esAAAF] sent message : f
+[14:9.28] [CORE] New user with ID /#Iq-t3LEzYqg8EB1KAAAG trying to connect
+[14:9.29] [CHAT] Handshake for User /#Iq-t3LEzYqg8EB1KAAAG completed
+[14:9.29] [CHAT] User [/#Iq-t3LEzYqg8EB1KAAAG] requested status: Handshake ok
+[14:9.33] [CHAT] User [/#Iq-t3LEzYqg8EB1KAAAG] sent message : B
+[14:9.44] [CORE] User with ID /#Iq-t3LEzYqg8EB1KAAAG disconnected
+[14:33.21] [CORE] User with ID /#TxZsrKf7IGk3M2esAAAF disconnected
+[14:33.21] [CORE] New user with ID /#9l-dQbiBVBp6hM0zAAAH trying to connect
+[14:33.21] [CHAT] Handshake for User /#9l-dQbiBVBp6hM0zAAAH completed
+[14:33.21] [CHAT] User [/#9l-dQbiBVBp6hM0zAAAH] requested status: Handshake ok
+[14:33.26] [CORE] User with ID /#NCuhC3apdCTM0lf6AAAB disconnected
+[14:33.26] [CORE] User with ID /#3SmIdFjxnKiz9H62AAAD disconnected
+[14:33.26] [CORE] User with ID /#9l-dQbiBVBp6hM0zAAAH disconnected
+[14:33.54] [CORE] New user with ID /#DqXVMh2Id0SgCuukAAAI trying to connect
+[14:33.54] [CHAT] Handshake for User /#DqXVMh2Id0SgCuukAAAI completed
+[14:33.55] [CHAT] User [/#DqXVMh2Id0SgCuukAAAI] requested status: Handshake ok
+[14:33.59] [CORE] User with ID /#DqXVMh2Id0SgCuukAAAI disconnected
+[16:39.50] [CORE] Server is starting
+[16:39.50] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:39.50] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:40.7] [CORE] New user with ID /#7kaJMjALPXzwDPwUAAAA trying to connect
+[16:40.7] [CHAT] Handshake for User /#7kaJMjALPXzwDPwUAAAA completed
+[16:40.7] [CHAT] User [/#7kaJMjALPXzwDPwUAAAA] requested status: Handshake ok
+[16:40.12] [CHAT] User [/#7kaJMjALPXzwDPwUAAAA] sent message : fjfvhf
+[16:49.55] [CHAT] Starting to load banned users
+[16:49.55] [CHAT] Finished loading all banned users
+[16:49.55] [CORE] Server is starting
+[16:49.55] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:49.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:49.55] [CORE] New user with ID /#xsp_g6KQpfi5fLuKAAAA trying to connect
+[16:49.55] [CHAT] Handshake for User /#xsp_g6KQpfi5fLuKAAAA completed
+[16:49.55] [CHAT] User [/#xsp_g6KQpfi5fLuKAAAA] requested status: Handshake ok
+[16:50.59] [CHAT] Starting to load banned users
+[16:50.59] [CHAT] Finished loading 0 banned users
+[16:50.59] [CORE] Server is starting
+[16:50.59] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:50.59] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:50.59] [CORE] New user with ID /#ScihTvcigXX3RJwSAAAA trying to connect
+[16:50.59] [CHAT] Handshake for User /#ScihTvcigXX3RJwSAAAA completed
+[16:50.59] [CHAT] User [/#ScihTvcigXX3RJwSAAAA] requested status: Handshake ok
+[16:51.18] [CHAT] Starting to load banned users
+[16:51.18] [CHAT] Finished loading 0 banned users
+[16:51.18] [CORE] Server is starting
+[16:51.18] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:51.18] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:51.19] [CORE] New user with ID /#dIs2oOiZKuJ0875IAAAA trying to connect
+[16:51.19] [CHAT] Handshake for User /#dIs2oOiZKuJ0875IAAAA completed
+[16:51.19] [CHAT] User [/#dIs2oOiZKuJ0875IAAAA] requested status: Handshake ok
+[16:51.29] [CHAT] Starting to load banned users
+[16:51.29] [CHAT] Finished loading 0 banned users
+[16:51.29] [CORE] Server is starting
+[16:51.29] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:51.29] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:51.29] [CORE] New user with ID /#5HYVoWLZfjKGitthAAAA trying to connect
+[16:51.29] [CHAT] Handshake for User /#5HYVoWLZfjKGitthAAAA completed
+[16:51.29] [CHAT] User [/#5HYVoWLZfjKGitthAAAA] requested status: Handshake ok
+[16:51.45] [CHAT] Starting to load banned users
+[16:52.49] [CHAT] Starting to load banned users
+[16:52.49] [CHAT] Finished loading 0 banned users
+[16:52.49] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:52.49] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:52.49] [CORE] Server is starting
+[16:52.53] [CORE] New user with ID /#2SxDM28IDIT7_YrHAAAA trying to connect
+[16:52.53] [CHAT] Handshake for User /#2SxDM28IDIT7_YrHAAAA completed
+[16:52.53] [CHAT] User [/#2SxDM28IDIT7_YrHAAAA] requested status: Handshake ok
+[16:54.56] [CHAT] Starting to load banned users
+[16:54.56] [CORE] Server is starting
+[16:54.56] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:54.56] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:54.56] [CHAT] Finished loading 0 banned users
+[16:54.56] [CORE] New user with ID /#G5rBYJ7Je3p1lYvEAAAA trying to connect
+[16:54.56] [CHAT] Handshake for User /#G5rBYJ7Je3p1lYvEAAAA completed
+[16:54.56] [CHAT] User [/#G5rBYJ7Je3p1lYvEAAAA] requested status: Handshake ok
+[16:57.24] [CHAT] Starting to load banned users
+[16:57.24] [CHAT] Finished loading 0 banned users
+[16:57.24] [CORE] Server is starting
+[16:57.24] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:57.24] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:57.24] [CORE] New user with ID /#H7iUUO0jSnbCgUk9AAAA trying to connect
+[16:57.24] [CHAT] Handshake for User /#H7iUUO0jSnbCgUk9AAAA completed
+[16:57.24] [CHAT] User [/#H7iUUO0jSnbCgUk9AAAA] requested status: Handshake ok
+[16:57.46] [CHAT] Starting to load banned users
+[16:57.46] [CHAT] Finished loading 0 banned users
+[16:57.46] [CORE] Server is starting
+[16:57.46] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:57.46] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:57.46] [CORE] New user with ID /#YfdyPJSydNETZ5yhAAAA trying to connect
+[16:57.46] [CHAT] Handshake for User /#YfdyPJSydNETZ5yhAAAA completed
+[16:57.46] [CHAT] User [/#YfdyPJSydNETZ5yhAAAA] requested status: Handshake ok
+[16:59.1] [CHAT] Starting to load banned users
+[16:59.1] [CHAT] Finished loading 0 banned users
+[16:59.1] [CORE] Server is starting
+[16:59.1] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:59.1] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:59.1] [CORE] New user with ID /#nUJ1CN9mMRYHQsn-AAAA trying to connect
+[16:59.1] [CHAT] Handshake for User /#nUJ1CN9mMRYHQsn-AAAA completed
+[16:59.1] [CHAT] User [/#nUJ1CN9mMRYHQsn-AAAA] requested status: Handshake ok
+[16:59.48] [CHAT] Starting to load banned users
+[16:59.48] [CORE] Server is starting
+[16:59.48] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:59.48] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:59.48] [CHAT] Finished loading 0 banned users
+[16:59.48] [CORE] New user with ID /#ikz5uS_jJ33yZcL-AAAA trying to connect
+[16:59.48] [CHAT] Handshake for User /#ikz5uS_jJ33yZcL-AAAA completed
+[16:59.48] [CHAT] User [/#ikz5uS_jJ33yZcL-AAAA] requested status: Handshake ok
+[17:0.18] [CHAT] Starting to load banned users
+[17:0.18] [CORE] Server is starting
+[17:0.18] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:0.18] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:0.18] loading a user
+[17:0.18] loading a user
+[17:0.18] [CHAT] Finished loading 2 banned users
+[17:0.18] [CORE] New user with ID /#-0LNw_RzsWjZBEbTAAAA trying to connect
+[17:0.19] [CHAT] Handshake for User /#-0LNw_RzsWjZBEbTAAAA completed
+[17:0.19] [CHAT] User [/#-0LNw_RzsWjZBEbTAAAA] requested status: Handshake ok
+[17:0.37] [CHAT] Starting to load banned users
+[17:0.37] [CORE] Server is starting
+[17:0.37] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:0.37] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:0.37] [CHAT] Finished loading 2 banned users
+[17:0.37] [CORE] New user with ID /#Moe2ohE89oAX7XJwAAAA trying to connect
+[17:0.37] [CHAT] Handshake for User /#Moe2ohE89oAX7XJwAAAA completed
+[17:0.37] [CHAT] User [/#Moe2ohE89oAX7XJwAAAA] requested status: Handshake ok
+[17:2.20] [CHAT] Starting to load banned users
+[17:2.20] [CORE] Server is starting
+[17:2.20] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:2.20] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:2.20] [CHAT] Finished loading 2 banned users
+[17:2.20] [CORE] New user with ID /#WhGsNI54_55uf37WAAAA trying to connect
+[17:2.20] [CHAT] Handshake for User /#WhGsNI54_55uf37WAAAA completed
+[17:2.20] [CHAT] User [/#WhGsNI54_55uf37WAAAA] requested status: Handshake ok
+[17:4.3] [CHAT] Starting to load banned users
+[17:4.3] [CORE] Server is starting
+[17:4.3] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:4.3] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:4.3] [CHAT] Finished loading 2 banned users
+[17:4.3] [CORE] New user with ID /#vFARQszowfz7Tr05AAAA trying to connect
+[17:4.3] [CHAT] Handshake for User /#vFARQszowfz7Tr05AAAA completed
+[17:4.3] [CHAT] User [/#vFARQszowfz7Tr05AAAA] requested status: Handshake ok
+[17:4.9] [CORE] User with ID /#vFARQszowfz7Tr05AAAA disconnected
+[17:4.14] [CORE] New user with ID /#N8-ZwMYX4zI9RSZFAAAB trying to connect
+[17:4.14] [CHAT] Banned user Peter tried to connect.
+[17:4.14] [CORE] User with ID /#N8-ZwMYX4zI9RSZFAAAB disconnected
+[17:5.53] [CHAT] Starting to load banned users
+[17:5.53] [CORE] Server is starting
+[17:5.53] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:5.53] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:5.53] [CHAT] Finished loading 2 banned users
+[17:5.53] [CORE] New user with ID /#1OaefiLCdBMHcIVXAAAA trying to connect
+[17:5.53] [CHAT] Banned user Peter tried to connect.
+[17:5.53] [CORE] User with ID /#1OaefiLCdBMHcIVXAAAA disconnected
+[17:7.6] [CHAT] Starting to load banned users
+[17:7.6] [CORE] Server is starting
+[17:7.6] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:7.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:7.6] [CHAT] Finished loading 2 banned users
+[17:7.17] [CHAT] Starting to load banned users
+[17:7.17] [CORE] Server is starting
+[17:7.17] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:7.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:7.17] [CHAT] Finished loading 2 banned users
+[17:7.31] [CHAT] Starting to load banned users
+[17:7.31] [CORE] Server is starting
+[17:7.31] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:7.31] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:7.31] [CHAT] Finished loading 2 banned users
+[17:7.40] [CORE] New user with ID /#DoM_2dD5tr4qO2AMAAAA trying to connect
+[17:7.40] [CHAT] Handshake for User /#DoM_2dD5tr4qO2AMAAAA completed
+[17:7.40] [CHAT] User [/#DoM_2dD5tr4qO2AMAAAA] requested status: Handshake ok
+[17:7.45] [CORE] New user with ID /#WGIBBv1hWlOF_UFUAAAB trying to connect
+[17:7.45] [CHAT] Banned user Peter tried to connect.
+[17:7.45] [CORE] User with ID /#WGIBBv1hWlOF_UFUAAAB disconnected
+[17:8.10] [CHAT] Starting to load banned users
+[17:8.11] [CORE] Server is starting
+[17:8.11] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:8.11] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:8.11] [CHAT] Finished loading 2 banned users
+[17:8.11] [CORE] New user with ID /#K2zP_0LO8FojTlq0AAAA trying to connect
+[17:8.11] [CHAT] Handshake for User /#K2zP_0LO8FojTlq0AAAA completed
+[17:8.11] [CHAT] User [/#K2zP_0LO8FojTlq0AAAA] requested status: Handshake ok
+[17:8.22] [CORE] New user with ID /#PlQVeeOrmerMV0x5AAAB trying to connect
+[17:8.22] [CHAT] Banned user Peter tried to connect.
+[17:8.22] [CORE] User with ID /#PlQVeeOrmerMV0x5AAAB disconnected
+[17:8.43] [CHAT] Starting to load banned users
+[17:8.43] [CORE] Server is starting
+[17:8.43] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:8.43] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:8.43] [CHAT] Finished loading 2 banned users
+[17:8.43] [CORE] New user with ID /#eBNEBivxIGAYQmKcAAAA trying to connect
+[17:8.43] [CHAT] Handshake for User /#eBNEBivxIGAYQmKcAAAA completed
+[17:8.43] [CHAT] User [/#eBNEBivxIGAYQmKcAAAA] requested status: Handshake ok
+[17:8.46] [CORE] New user with ID /#TpasVP3YqXxodK-nAAAB trying to connect
+[17:8.46] [CHAT] Banned user Peter tried to connect.
+[17:8.46] [CORE] User with ID /#TpasVP3YqXxodK-nAAAB disconnected
+[17:24.39] [CHAT] Starting to load banned users
+[17:24.39] [CORE] Server is starting
+[17:24.39] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:24.39] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:24.39] [CHAT] Finished loading 2 banned users
+[17:24.39] [CORE] New user with ID /#41wFlOKFy8Cb_4f1AAAA trying to connect
+[17:24.39] [CHAT] Handshake for User /#41wFlOKFy8Cb_4f1AAAA completed
+[17:24.39] [CHAT] User [/#41wFlOKFy8Cb_4f1AAAA] requested status: Handshake ok
+[17:24.43] [CORE] New user with ID /#MaRoRibEf9BxeNHsAAAB trying to connect
+[17:24.43] [CHAT] Banned user Peter tried to connect
+[17:24.43] [CORE] User with ID /#MaRoRibEf9BxeNHsAAAB disconnected
+[17:24.49] [CORE] New user with ID /#4QAgqlNtLZ4pD3ooAAAC trying to connect
+[17:24.49] [CHAT] Handshake for User /#4QAgqlNtLZ4pD3ooAAAC completed
+[17:24.49] [CHAT] User [/#4QAgqlNtLZ4pD3ooAAAC] requested status: Handshake ok
+[17:25.48] [CHAT] Starting to load banned users
+[17:25.49] [CORE] Server is starting
+[17:25.49] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:25.49] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:25.49] [CHAT] Finished loading 2 banned users
+[17:25.49] [CORE] New user with ID /#RMsVxHOGISWYajNPAAAA trying to connect
+[17:25.49] [CORE] New user with ID /#jKQfAUWlM3vyx-iPAAAB trying to connect
+[17:25.49] [CHAT] Handshake for User /#jKQfAUWlM3vyx-iPAAAB completed
+[17:25.49] [CHAT] Handshake for User /#RMsVxHOGISWYajNPAAAA completed
+[17:25.49] [CHAT] User [/#jKQfAUWlM3vyx-iPAAAB] requested status: Handshake ok
+[17:25.49] [CHAT] User [/#RMsVxHOGISWYajNPAAAA] requested status: Handshake ok
+[17:26.46] [CHAT] Starting to load banned users
+[17:26.46] [CORE] Server is starting
+[17:26.46] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:26.46] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:26.46] [CORE] New user with ID /#0-1QsxQva_7fN4OGAAAA trying to connect
+[17:26.46] [CHAT] Finished loading 3 banned users
+[17:26.47] [CHAT] Handshake for User /#0-1QsxQva_7fN4OGAAAA completed
+[17:26.47] [CHAT] User [/#0-1QsxQva_7fN4OGAAAA] requested status: Handshake ok
+[17:26.49] [CORE] New user with ID /#QHMBSVQNqRHNfoNjAAAB trying to connect
+[17:26.49] [CHAT] Banned user a tried to connect
+[17:26.49] [CORE] User with ID /#QHMBSVQNqRHNfoNjAAAB disconnected
+[17:27.2] [CORE] New user with ID /#kPgzF2-o3_Zza8b1AAAC trying to connect
+[17:27.2] [CHAT] Handshake for User /#kPgzF2-o3_Zza8b1AAAC completed
+[17:27.2] [CHAT] User [/#kPgzF2-o3_Zza8b1AAAC] requested status: Handshake ok
+[17:27.54] [CHAT] Starting to load banned users
+[17:27.54] [CORE] Server is starting
+[17:27.54] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:27.54] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:27.54] [CHAT] Finished loading 4 banned users
+[17:27.54] [CORE] New user with ID /#XqM0LO6-_VaDKQyxAAAA trying to connect
+[17:27.54] [CHAT] Handshake for User /#XqM0LO6-_VaDKQyxAAAA completed
+[17:27.54] [CHAT] User [/#XqM0LO6-_VaDKQyxAAAA] requested status: Handshake ok
+[17:27.54] [CORE] New user with ID /#bhyuCvEn8OdO19ZyAAAB trying to connect
+[17:27.54] [CHAT] Banned user d tried to connect
+[17:27.54] [CORE] User with ID /#bhyuCvEn8OdO19ZyAAAB disconnected
+[17:28.0] [CORE] New user with ID /#UxMpT13re17lMdp3AAAC trying to connect
+[17:28.0] [CHAT] Handshake for User /#UxMpT13re17lMdp3AAAC completed
+[17:28.0] [CHAT] User [/#UxMpT13re17lMdp3AAAC] requested status: Handshake ok
+[17:29.4] [CHAT] Starting to load banned users
+[17:29.4] [CORE] Server is starting
+[17:29.4] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:29.4] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:29.4] [CHAT] Finished loading 5 banned users
+[17:29.6] [CORE] New user with ID /#JpHEEn_fNbPYmMi0AAAA trying to connect
+[17:29.6] [CHAT] Handshake for User /#JpHEEn_fNbPYmMi0AAAA completed
+[17:29.6] [CHAT] User [/#JpHEEn_fNbPYmMi0AAAA] requested status: Handshake ok
+[17:29.7] [CORE] New user with ID /#66kj4bRfrLM8f6yIAAAB trying to connect
+[17:29.7] [CHAT] Banned user df tried to connect
+[17:29.7] [CORE] User with ID /#66kj4bRfrLM8f6yIAAAB disconnected
+[17:29.16] [CORE] New user with ID /#VE4rjgSaSoeSBqGRAAAC trying to connect
+[17:29.16] [CHAT] Handshake for User /#VE4rjgSaSoeSBqGRAAAC completed
+[17:29.16] [CHAT] User [/#VE4rjgSaSoeSBqGRAAAC] requested status: Handshake ok
+[17:34.47] [CHAT] Starting to load banned users
+[17:34.47] [CORE] Server is starting
+[17:34.47] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:34.47] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:34.47] [CHAT] Finished loading 6 banned users
+[17:34.47] [CORE] New user with ID /#qYq-sD6-RoufgnsLAAAA trying to connect
+[17:34.47] [CHAT] Handshake for User /#qYq-sD6-RoufgnsLAAAA completed
+[17:34.47] [CHAT] User [/#qYq-sD6-RoufgnsLAAAA] requested status: Handshake ok
+[17:34.47] [CORE] New user with ID /#UGo7IS_2c2NIvm5mAAAB trying to connect
+[17:34.47] [CHAT] Banned user dfd tried to connect
+[17:34.47] [CORE] User with ID /#UGo7IS_2c2NIvm5mAAAB disconnected
+[17:34.51] [CORE] New user with ID /#ay7wZAgW2kSzOg6KAAAC trying to connect
+[17:34.51] [CHAT] Handshake for User /#ay7wZAgW2kSzOg6KAAAC completed
+[17:34.51] [CHAT] User [/#ay7wZAgW2kSzOg6KAAAC] requested status: Handshake ok
+[17:35.17] [CHAT] Starting to load banned users
+[17:35.17] [CORE] Server is starting
+[17:35.17] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:35.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:35.17] [CORE] New user with ID /#QI9-MB0IEZ_jh3yjAAAA trying to connect
+[17:35.17] [CHAT] Finished loading 7 banned users
+[17:35.17] [CHAT] Banned user dd tried to connect
+[17:35.17] [CORE] User with ID /#QI9-MB0IEZ_jh3yjAAAA disconnected
+[17:35.19] [CORE] New user with ID /#e2GL82ST1FMgXBM5AAAB trying to connect
+[17:35.19] [CHAT] Handshake for User /#e2GL82ST1FMgXBM5AAAB completed
+[17:35.19] [CHAT] User [/#e2GL82ST1FMgXBM5AAAB] requested status: Handshake ok
+[17:35.25] [CORE] New user with ID /#V0xXOeQtfVEUa0oiAAAC trying to connect
+[17:35.25] [CHAT] Handshake for User /#V0xXOeQtfVEUa0oiAAAC completed
+[17:35.25] [CHAT] User [/#V0xXOeQtfVEUa0oiAAAC] requested status: Handshake ok
+[17:36.1] [CHAT] Starting to load banned users
+[17:36.1] [CORE] Server is starting
+[17:36.1] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:36.1] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:36.1] [CHAT] Finished loading 8 banned users
+[17:36.1] [CORE] New user with ID /#jjrTVNVAdKvC1IBkAAAA trying to connect
+[17:36.1] [CORE] New user with ID /#5Tni_mPS59-GinHsAAAB trying to connect
+[17:36.1] [CHAT] Handshake for User /#5Tni_mPS59-GinHsAAAB completed
+[17:36.1] [CHAT] Banned user ddd tried to connect
+[17:36.1] [CORE] User with ID /#jjrTVNVAdKvC1IBkAAAA disconnected
+[17:36.1] [CHAT] User [/#5Tni_mPS59-GinHsAAAB] requested status: Handshake ok
+[17:36.8] [CORE] New user with ID /#jNg1ttQJoFjx7zGUAAAC trying to connect
+[17:36.8] [CHAT] Handshake for User /#jNg1ttQJoFjx7zGUAAAC completed
+[17:36.8] [CHAT] User [/#jNg1ttQJoFjx7zGUAAAC] requested status: Handshake ok
+[17:37.2] [CHAT] Starting to load banned users
+[17:37.2] [CORE] Server is starting
+[17:37.2] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:37.2] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:37.2] [CHAT] Finished loading 9 banned users
+[17:37.2] [CORE] New user with ID /#r_U_HTrHZpWlcwJPAAAA trying to connect
+[17:37.2] [CHAT] Handshake for User /#r_U_HTrHZpWlcwJPAAAA completed
+[17:37.2] [CHAT] User [/#r_U_HTrHZpWlcwJPAAAA] requested status: Handshake ok
+[17:37.2] [CORE] New user with ID /#asA60rWlOAkAkTsxAAAB trying to connect
+[17:37.3] [CHAT] Banned user dddf tried to connect
+[17:37.3] [CORE] User with ID /#asA60rWlOAkAkTsxAAAB disconnected
+[17:37.9] [CORE] New user with ID /#XaevyKa58RTXqJM9AAAC trying to connect
+[17:37.9] [CHAT] Handshake for User /#XaevyKa58RTXqJM9AAAC completed
+[17:37.9] [CHAT] User [/#XaevyKa58RTXqJM9AAAC] requested status: Handshake ok
+[17:39.7] [CHAT] Starting to load banned users
+[17:39.7] [CORE] Server is starting
+[17:39.7] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:39.7] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:39.7] [CHAT] Finished loading 10 banned users
+[17:39.8] [CORE] New user with ID /#sNyQfpSSV1gwZ4h0AAAA trying to connect
+[17:39.8] [CORE] New user with ID /#ELoqg8APVOehdW4dAAAB trying to connect
+[17:39.8] [CHAT] Banned user dddff tried to connect
+[17:39.8] [CORE] User with ID /#ELoqg8APVOehdW4dAAAB disconnected
+[17:39.8] [CHAT] Handshake for User /#sNyQfpSSV1gwZ4h0AAAA completed
+[17:39.8] [CHAT] User [/#sNyQfpSSV1gwZ4h0AAAA] requested status: Handshake ok
+[17:39.14] [CORE] New user with ID /#VnrSdQuz22T_nh4TAAAC trying to connect
+[17:39.14] [CHAT] Handshake for User /#VnrSdQuz22T_nh4TAAAC completed
+[17:39.14] [CHAT] User [/#VnrSdQuz22T_nh4TAAAC] requested status: Handshake ok
+[17:40.13] [CHAT] Starting to load banned users
+[17:40.13] [CORE] Server is starting
+[17:40.13] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:40.13] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:40.13] [CHAT] Finished loading 10 banned users
+[17:40.13] [CORE] New user with ID /#bu3ZsIEMUoS4teoNAAAA trying to connect
+[17:40.13] [CORE] New user with ID /#Se21V_HHFiNkGhPHAAAB trying to connect
+[17:40.13] [CHAT] Handshake for User /#Se21V_HHFiNkGhPHAAAB completed
+[17:40.13] [CHAT] User [/#Se21V_HHFiNkGhPHAAAB] requested status: Handshake ok
+[17:40.13] [CHAT] Handshake for User /#bu3ZsIEMUoS4teoNAAAA completed
+[17:40.13] [CHAT] User [/#bu3ZsIEMUoS4teoNAAAA] requested status: Handshake ok
+[17:40.54] [CHAT] Starting to load banned users
+[17:40.54] [CORE] Server is starting
+[17:40.54] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:40.54] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:40.54] [CORE] New user with ID /#wmUbi1RBh4sHLDbMAAAA trying to connect
+[17:40.54] [CHAT] Finished loading 10 banned users
+[17:40.54] [CORE] New user with ID /#KHih7KePbnPZH1gSAAAB trying to connect
+[17:40.54] [CHAT] Handshake for User /#KHih7KePbnPZH1gSAAAB completed
+[17:40.54] [CHAT] User [/#KHih7KePbnPZH1gSAAAB] requested status: Handshake ok
+[17:40.54] [CHAT] Handshake for User /#wmUbi1RBh4sHLDbMAAAA completed
+[17:40.54] [CHAT] User [/#wmUbi1RBh4sHLDbMAAAA] requested status: Handshake ok
+[17:41.22] [CHAT] Starting to load banned users
+[17:41.22] [CORE] Server is starting
+[17:41.22] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:41.22] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:41.22] [CHAT] Finished loading 10 banned users
+[17:41.22] [CORE] New user with ID /#ev3MPoywM2v9S6ehAAAA trying to connect
+[17:41.22] [CHAT] Handshake for User /#ev3MPoywM2v9S6ehAAAA completed
+[17:41.22] [CHAT] User [/#ev3MPoywM2v9S6ehAAAA] requested status: Handshake ok
+[17:41.24] [CORE] New user with ID /#pUa86yK5K53nl_arAAAB trying to connect
+[17:41.24] [CHAT] Handshake for User /#pUa86yK5K53nl_arAAAB completed
+[17:41.24] [CHAT] User [/#pUa86yK5K53nl_arAAAB] requested status: Handshake ok
+[17:42.17] [CHAT] Starting to load banned users
+[17:42.17] [CORE] Server is starting
+[17:42.17] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:42.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:42.17] [CHAT] Finished loading 10 banned users
+[17:42.17] [CORE] New user with ID /#5p8hRT85IYuIKXuWAAAA trying to connect
+[17:42.17] [CHAT] Handshake for User /#5p8hRT85IYuIKXuWAAAA completed
+[17:42.17] [CHAT] User [/#5p8hRT85IYuIKXuWAAAA] requested status: Handshake ok
+[17:43.38] [CHAT] Starting to load banned users
+[17:43.38] [CORE] Server is starting
+[17:43.38] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:43.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:43.38] [CHAT] Finished loading 10 banned users
+[17:43.42] [CORE] New user with ID /#tM2ClBWvuyY63s-WAAAA trying to connect
+[17:43.42] [CHAT] Handshake for User /#tM2ClBWvuyY63s-WAAAA completed
+[17:43.42] [CHAT] User [/#tM2ClBWvuyY63s-WAAAA] requested status: Handshake ok
+[17:45.38] [CHAT] Starting to load banned users
+[17:45.38] [CORE] Server is starting
+[17:45.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:45.38] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:45.38] [CHAT] Finished loading 10 banned users
+[17:45.42] [CORE] New user with ID /#b9Bsqh_OnvsNVCHkAAAA trying to connect
+[17:45.42] [CHAT] Handshake for User /#b9Bsqh_OnvsNVCHkAAAA completed
+[17:45.42] [CHAT] User [/#b9Bsqh_OnvsNVCHkAAAA] requested status: Handshake ok
+[17:45.43] [CORE] New user with ID /#I0hAxAhftHE30PcrAAAB trying to connect
+[17:45.43] [CHAT] Handshake for User /#I0hAxAhftHE30PcrAAAB completed
+[17:45.43] [CHAT] User [/#I0hAxAhftHE30PcrAAAB] requested status: Handshake ok
+[17:46.27] [CHAT] Starting to load banned users
+[17:46.27] [CORE] Server is starting
+[17:46.27] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:46.27] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:46.27] [CHAT] Finished loading 10 banned users
+[17:46.27] [CORE] New user with ID /#JnBuOUb5loWYd7oJAAAA trying to connect
+[17:46.27] [CORE] New user with ID /#tH7uFVUtZlVl-zKEAAAB trying to connect
+[17:46.28] [CHAT] Handshake for User /#tH7uFVUtZlVl-zKEAAAB completed
+[17:46.28] [CHAT] User [/#tH7uFVUtZlVl-zKEAAAB] requested status: Handshake ok
+[17:46.28] [CHAT] Handshake for User /#JnBuOUb5loWYd7oJAAAA completed
+[17:46.28] [CHAT] User [/#JnBuOUb5loWYd7oJAAAA] requested status: Handshake ok
+[17:47.32] [CHAT] Starting to load banned users
+[17:47.32] [CORE] Server is starting
+[17:47.32] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:47.32] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:47.32] [CHAT] Finished loading 10 banned users
+[17:47.32] [CORE] New user with ID /#o6AJx2ZmMKTWaVYCAAAA trying to connect
+[17:47.32] [CORE] New user with ID /#7a2Ws7X36-r0LiI6AAAB trying to connect
+[17:47.32] [CHAT] Handshake for User /#7a2Ws7X36-r0LiI6AAAB completed
+[17:47.32] [CHAT] User [/#7a2Ws7X36-r0LiI6AAAB] requested status: Handshake ok
+[17:47.32] [CHAT] Handshake for User /#o6AJx2ZmMKTWaVYCAAAA completed
+[17:47.32] [CHAT] User [/#o6AJx2ZmMKTWaVYCAAAA] requested status: Handshake ok
+[17:50.55] [CHAT] Starting to load banned users
+[17:50.55] [CORE] Server is starting
+[17:50.55] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:50.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:50.55] [CHAT] Finished loading 10 banned users
+[17:50.55] [CORE] New user with ID /#ElXwoBT3Y6OqgubMAAAA trying to connect
+[17:50.55] [CHAT] Handshake for User /#ElXwoBT3Y6OqgubMAAAA completed
+[17:50.55] [CHAT] User [/#ElXwoBT3Y6OqgubMAAAA] requested status: Handshake ok
+[17:50.55] [CORE] New user with ID /#vGSy1UDJef7kl1GtAAAB trying to connect
+[17:50.55] [CHAT] Handshake for User /#vGSy1UDJef7kl1GtAAAB completed
+[17:50.55] [CHAT] User [/#vGSy1UDJef7kl1GtAAAB] requested status: Handshake ok
+[17:51.35] [CHAT] Starting to load banned users
+[17:51.35] [CORE] Server is starting
+[17:51.35] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:51.35] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:51.35] [CHAT] Finished loading 10 banned users
+[17:51.35] [CORE] New user with ID /#IVTZzW7LheDOksaIAAAA trying to connect
+[17:51.35] [CHAT] Handshake for User /#IVTZzW7LheDOksaIAAAA completed
+[17:51.35] [CHAT] User [/#IVTZzW7LheDOksaIAAAA] requested status: Handshake ok
+[17:51.35] [CORE] New user with ID /#t0DZtPurwkk5--vZAAAB trying to connect
+[17:51.35] [CHAT] Handshake for User /#t0DZtPurwkk5--vZAAAB completed
+[17:51.35] [CHAT] User [/#t0DZtPurwkk5--vZAAAB] requested status: Handshake ok
+[17:52.10] [CHAT] Starting to load banned users
+[17:52.10] [CORE] Server is starting
+[17:52.10] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:52.10] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:52.10] [CHAT] Finished loading 10 banned users
+[17:52.10] [CORE] New user with ID /#NBwts04gEcIUMLmRAAAA trying to connect
+[17:52.10] [CORE] New user with ID /#yGz5sm3DgTrhsRwPAAAB trying to connect
+[17:52.10] [CHAT] Handshake for User /#yGz5sm3DgTrhsRwPAAAB completed
+[17:52.10] [CHAT] User [/#yGz5sm3DgTrhsRwPAAAB] requested status: Handshake ok
+[17:52.10] [CHAT] Handshake for User /#NBwts04gEcIUMLmRAAAA completed
+[17:52.10] [CHAT] User [/#NBwts04gEcIUMLmRAAAA] requested status: Handshake ok
+[17:52.46] [CHAT] Starting to load banned users
+[17:52.46] [CORE] Server is starting
+[17:52.46] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:52.46] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:52.46] [CHAT] Finished loading 10 banned users
+[17:52.46] [CORE] New user with ID /#V1mubOFISQLyRntCAAAA trying to connect
+[17:52.46] [CHAT] Handshake for User /#V1mubOFISQLyRntCAAAA completed
+[17:52.46] [CHAT] User [/#V1mubOFISQLyRntCAAAA] requested status: Handshake ok
+[17:52.46] [CORE] New user with ID /#c8icJ-jt3M2xDQMEAAAB trying to connect
+[17:52.46] [CHAT] Handshake for User /#c8icJ-jt3M2xDQMEAAAB completed
+[17:52.46] [CHAT] User [/#c8icJ-jt3M2xDQMEAAAB] requested status: Handshake ok
+[17:54.5] [CHAT] Starting to load banned users
+[17:54.5] [CORE] Server is starting
+[17:54.5] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:54.5] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:54.5] [CHAT] Finished loading 10 banned users
+[17:54.5] [CORE] New user with ID /#70hK021Hrj6VP2hbAAAA trying to connect
+[17:54.5] [CORE] New user with ID /#ZP63eZQtKbtTFPsbAAAB trying to connect
+[17:54.5] [CHAT] Handshake for User /#ZP63eZQtKbtTFPsbAAAB completed
+[17:54.5] [CHAT] User [/#ZP63eZQtKbtTFPsbAAAB] requested status: Handshake ok
+[17:54.5] [CHAT] Handshake for User /#70hK021Hrj6VP2hbAAAA completed
+[17:54.5] [CHAT] User [/#70hK021Hrj6VP2hbAAAA] requested status: Handshake ok
+[17:54.17] [CHAT] Starting to load banned users
+[17:54.17] [CORE] Server is starting
+[17:54.17] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:54.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:54.17] [CHAT] Finished loading 10 banned users
+[17:54.17] [CORE] New user with ID /#ZfTFylBeqKbAvYoyAAAA trying to connect
+[17:54.17] [CHAT] Handshake for User /#ZfTFylBeqKbAvYoyAAAA completed
+[17:54.17] [CHAT] User [/#ZfTFylBeqKbAvYoyAAAA] requested status: Handshake ok
+[17:54.17] [CORE] New user with ID /#LWDpJCbmEjipeXQYAAAB trying to connect
+[17:54.17] [CHAT] Handshake for User /#LWDpJCbmEjipeXQYAAAB completed
+[17:54.17] [CHAT] User [/#LWDpJCbmEjipeXQYAAAB] requested status: Handshake ok
+[17:54.39] [CHAT] Starting to load banned users
+[17:54.39] [CORE] Server is starting
+[17:54.39] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:54.39] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:54.39] [CORE] New user with ID /#XF7XLt_RyWmYdAqXAAAA trying to connect
+[17:54.39] [CHAT] Finished loading 10 banned users
+[17:54.39] [CORE] New user with ID /#yfPgVV2UcCMAzS8PAAAB trying to connect
+[17:54.39] [CHAT] Handshake for User /#yfPgVV2UcCMAzS8PAAAB completed
+[17:54.39] [CHAT] User [/#yfPgVV2UcCMAzS8PAAAB] requested status: Handshake ok
+[17:54.39] [CHAT] Handshake for User /#XF7XLt_RyWmYdAqXAAAA completed
+[17:54.39] [CHAT] User [/#XF7XLt_RyWmYdAqXAAAA] requested status: Handshake ok
+[17:56.48] [CHAT] Starting to load banned users
+[17:56.48] [CORE] Server is starting
+[17:56.48] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:56.49] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:56.49] [CHAT] Finished loading 10 banned users
+[17:56.49] [CORE] New user with ID /#Rl5FRxuazDo4CNY9AAAA trying to connect
+[17:56.49] [CORE] New user with ID /#RjiIqd3mczv61MWVAAAB trying to connect
+[17:56.49] [CHAT] Handshake for User /#RjiIqd3mczv61MWVAAAB completed
+[17:56.49] [CHAT] User [/#RjiIqd3mczv61MWVAAAB] requested status: Handshake ok
+[17:56.49] [CHAT] Handshake for User /#Rl5FRxuazDo4CNY9AAAA completed
+[17:56.49] [CHAT] User [/#Rl5FRxuazDo4CNY9AAAA] requested status: Handshake ok
+[17:56.49] [CORE] User with ID /#Rl5FRxuazDo4CNY9AAAA disconnected
+[17:58.39] [CHAT] Starting to load banned users
+[17:58.39] [CORE] Server is starting
+[17:58.39] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:58.39] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:58.39] [CHAT] Finished loading 10 banned users
+[17:58.39] [CORE] New user with ID /#eoD-2stSAWIswrInAAAA trying to connect
+[17:58.39] [CHAT] Handshake for User /#eoD-2stSAWIswrInAAAA completed
+[17:58.39] [CHAT] User [/#eoD-2stSAWIswrInAAAA] requested status: Handshake ok
+[17:58.39] [CORE] New user with ID /#VjNjg5CYi4BagLrRAAAB trying to connect
+[17:58.39] [CHAT] Handshake for User /#VjNjg5CYi4BagLrRAAAB completed
+[17:58.40] [CHAT] User [/#VjNjg5CYi4BagLrRAAAB] requested status: Handshake ok
+[17:58.43] [CORE] User with ID /#eoD-2stSAWIswrInAAAA disconnected
+[17:59.24] [CHAT] Starting to load banned users
+[17:59.24] [CORE] Server is starting
+[17:59.24] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:59.24] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:59.24] [CORE] New user with ID /#p6L0coj_Fbf0mspUAAAA trying to connect
+[17:59.24] [CHAT] Finished loading 10 banned users
+[17:59.24] [CHAT] Handshake for User /#p6L0coj_Fbf0mspUAAAA completed
+[17:59.24] [CHAT] User [/#p6L0coj_Fbf0mspUAAAA] requested status: Handshake ok
+[17:59.24] [CORE] New user with ID /#VzAYrYXFyJVxo32XAAAB trying to connect
+[17:59.24] [CHAT] Handshake for User /#VzAYrYXFyJVxo32XAAAB completed
+[17:59.25] [CHAT] User [/#VzAYrYXFyJVxo32XAAAB] requested status: Handshake ok
+[17:59.32] [CORE] User with ID /#p6L0coj_Fbf0mspUAAAA disconnected
+[17:59.41] [CHAT] User [/#VzAYrYXFyJVxo32XAAAB] sent message : ds
+[18:0.13] [CHAT] Starting to load banned users
+[18:0.13] [CORE] Server is starting
+[18:0.13] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:0.13] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:0.13] [CHAT] Finished loading 10 banned users
+[18:0.13] [CORE] New user with ID /#Vr4aTABWDGet2L0hAAAA trying to connect
+[18:0.13] [CHAT] Handshake for User /#Vr4aTABWDGet2L0hAAAA completed
+[18:0.13] [CHAT] User [/#Vr4aTABWDGet2L0hAAAA] requested status: Handshake ok
+[18:0.13] [CORE] New user with ID /#-JVl_0ZuoKWTCRatAAAB trying to connect
+[18:0.13] [CHAT] Handshake for User /#-JVl_0ZuoKWTCRatAAAB completed
+[18:0.13] [CHAT] User [/#-JVl_0ZuoKWTCRatAAAB] requested status: Handshake ok
+[18:1.37] [CHAT] Starting to load banned users
+[18:1.37] [CORE] Server is starting
+[18:1.37] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:1.37] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:1.37] [CHAT] Finished loading 10 banned users
+[18:1.37] [CORE] New user with ID /#lLoUo5YWnYXD-jtKAAAA trying to connect
+[18:1.37] [CORE] New user with ID /#sKtiemThE32ejcobAAAB trying to connect
+[18:1.37] [CHAT] Handshake for User /#sKtiemThE32ejcobAAAB completed
+[18:1.37] [CHAT] User [/#sKtiemThE32ejcobAAAB] requested status: Handshake ok
+[18:1.37] [CHAT] Handshake for User /#lLoUo5YWnYXD-jtKAAAA completed
+[18:1.37] [CHAT] User [/#lLoUo5YWnYXD-jtKAAAA] requested status: Handshake ok
+[18:2.27] [CHAT] Starting to load banned users
+[18:2.27] [CORE] Server is starting
+[18:2.27] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:2.27] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:2.27] [CHAT] Finished loading 10 banned users
+[18:2.27] [CORE] New user with ID /#mg6UW919cVBOkfPkAAAA trying to connect
+[18:2.27] [CHAT] Handshake for User /#mg6UW919cVBOkfPkAAAA completed
+[18:2.27] [CHAT] User [/#mg6UW919cVBOkfPkAAAA] requested status: Handshake ok
+[18:2.27] [CORE] New user with ID /#fwd3Fe_LhbrpfDopAAAB trying to connect
+[18:2.27] [CHAT] Handshake for User /#fwd3Fe_LhbrpfDopAAAB completed
+[18:2.27] [CHAT] User [/#fwd3Fe_LhbrpfDopAAAB] requested status: Handshake ok
+[18:3.24] [CHAT] Starting to load banned users
+[18:3.24] [CORE] Server is starting
+[18:3.24] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:3.24] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:3.24] [CHAT] Finished loading 10 banned users
+[18:3.25] [CORE] New user with ID /#6se-qfd1ljzNfA7eAAAA trying to connect
+[18:3.25] [CHAT] Handshake for User /#6se-qfd1ljzNfA7eAAAA completed
+[18:3.25] [CHAT] User [/#6se-qfd1ljzNfA7eAAAA] requested status: Handshake ok
+[18:3.25] [CORE] New user with ID /#-uvN0yNrRrQsZLlGAAAB trying to connect
+[18:3.25] [CHAT] Handshake for User /#-uvN0yNrRrQsZLlGAAAB completed
+[18:3.25] [CHAT] User [/#-uvN0yNrRrQsZLlGAAAB] requested status: Handshake ok
+[18:9.17] [CHAT] Starting to load banned users
+[18:9.17] [CORE] Server is starting
+[18:9.17] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:9.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:9.17] [CHAT] Finished loading 10 banned users
+[18:9.18] [CORE] New user with ID /#4R0i0q571DeDMX-OAAAA trying to connect
+[18:9.18] [CHAT] Handshake for User /#4R0i0q571DeDMX-OAAAA completed
+[18:9.18] [CHAT] User [/#4R0i0q571DeDMX-OAAAA] requested status: Handshake ok
+[18:9.22] [CORE] New user with ID /#Wfa1fxM_Xm3U_XqLAAAB trying to connect
+[18:9.22] [CHAT] Handshake for User /#Wfa1fxM_Xm3U_XqLAAAB completed
+[18:9.22] [CHAT] User [/#4R0i0q571DeDMX-OAAAA] sent message : dfd
+[18:9.23] [CHAT] User [/#Wfa1fxM_Xm3U_XqLAAAB] requested status: Handshake ok
+[18:9.27] [CHAT] User [/#4R0i0q571DeDMX-OAAAA] sent message : sdf
+[18:10.36] [CHAT] Starting to load banned users
+[18:10.36] [CORE] Server is starting
+[18:10.36] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:10.36] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:10.36] [CHAT] Finished loading 10 banned users
+[18:10.39] [CORE] New user with ID /#s8UuJMyclur-rjTIAAAA trying to connect
+[18:10.39] [CHAT] Handshake for User /#s8UuJMyclur-rjTIAAAA completed
+[18:10.39] [CHAT] User [/#s8UuJMyclur-rjTIAAAA] requested status: Handshake ok
+[18:10.40] [CORE] New user with ID /#pbp0iLpQv5ZzM_k6AAAB trying to connect
+[18:10.40] [CHAT] Handshake for User /#pbp0iLpQv5ZzM_k6AAAB completed
+[18:10.40] [CHAT] User [/#pbp0iLpQv5ZzM_k6AAAB] requested status: Handshake ok
+[18:10.43] [CORE] User with ID /#s8UuJMyclur-rjTIAAAA disconnected
+[18:12.18] [CHAT] Starting to load banned users
+[18:12.18] [CORE] Server is starting
+[18:12.18] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:12.18] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:12.18] [CHAT] Finished loading 10 banned users
+[18:12.18] [CORE] New user with ID /#Dm94Bk03jPMexKegAAAA trying to connect
+[18:12.18] [CHAT] Handshake for User /#Dm94Bk03jPMexKegAAAA completed
+[18:12.18] [CHAT] User [/#Dm94Bk03jPMexKegAAAA] requested status: Handshake ok
+[18:12.19] [CORE] New user with ID /#muUeFyUrFVwKq-_rAAAB trying to connect
+[18:12.19] [CHAT] Handshake for User /#muUeFyUrFVwKq-_rAAAB completed
+[18:12.20] [CHAT] User [/#muUeFyUrFVwKq-_rAAAB] requested status: Handshake ok
+[18:13.11] [CHAT] Starting to load banned users
+[18:13.11] [CORE] Server is starting
+[18:13.11] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:13.11] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:13.11] [CHAT] Finished loading 10 banned users
+[18:13.11] [CORE] New user with ID /#-8-ussMKGslDjfK4AAAA trying to connect
+[18:13.11] [CHAT] Handshake for User /#-8-ussMKGslDjfK4AAAA completed
+[18:13.11] [CHAT] User [/#-8-ussMKGslDjfK4AAAA] requested status: Handshake ok
+[18:13.12] [CORE] New user with ID /#seZ_a1OjwQoHJZkIAAAB trying to connect
+[18:13.12] [CHAT] Handshake for User /#seZ_a1OjwQoHJZkIAAAB completed
+[18:13.12] [CHAT] User [/#seZ_a1OjwQoHJZkIAAAB] requested status: Handshake ok
+[18:14.28] [CHAT] Starting to load banned users
+[18:14.28] [CORE] Server is starting
+[18:14.28] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:14.28] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:14.28] [CHAT] Finished loading 10 banned users
+[18:14.28] [CORE] New user with ID /#qjbZJD6wnFeCsFNfAAAA trying to connect
+[18:14.29] [CORE] New user with ID /#j-ri-OcMw5UsAnOeAAAB trying to connect
+[18:14.29] [CHAT] Handshake for User /#qjbZJD6wnFeCsFNfAAAA completed
+[18:14.29] [CHAT] User [/#qjbZJD6wnFeCsFNfAAAA] requested status: Handshake ok
+[18:14.29] [CHAT] Handshake for User /#j-ri-OcMw5UsAnOeAAAB completed
+[18:14.29] [CHAT] User [/#j-ri-OcMw5UsAnOeAAAB] requested status: Handshake ok
+[18:15.15] [CHAT] Starting to load banned users
+[18:15.15] [CORE] Server is starting
+[18:15.15] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:15.15] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:15.15] [CORE] New user with ID /#Tyo8FWxHAdmU2IsXAAAA trying to connect
+[18:15.15] [CHAT] Finished loading 10 banned users
+[18:15.15] [CHAT] Handshake for User /#Tyo8FWxHAdmU2IsXAAAA completed
+[18:15.15] [CHAT] User [/#Tyo8FWxHAdmU2IsXAAAA] requested status: Handshake ok
+[18:15.16] [CORE] New user with ID /#SNFCyg3b6Yw2e4oCAAAB trying to connect
+[18:15.16] [CHAT] Handshake for User /#SNFCyg3b6Yw2e4oCAAAB completed
+[18:15.16] [CHAT] User [/#SNFCyg3b6Yw2e4oCAAAB] requested status: Handshake ok
+[18:20.17] [CHAT] Starting to load banned users
+[18:20.17] [CORE] Server is starting
+[18:20.17] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:20.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:20.17] [CHAT] Finished loading 10 banned users
+[18:20.18] [CORE] New user with ID /#0OmjSceNzw88zg5-AAAA trying to connect
+[18:20.18] [CORE] New user with ID /#mYrWIwPoTwSHQHSAAAAB trying to connect
+[18:20.18] [CHAT] Handshake for User /#0OmjSceNzw88zg5-AAAA completed
+[18:20.18] [CHAT] Handshake for User /#mYrWIwPoTwSHQHSAAAAB completed
+[18:20.18] [CHAT] User [/#mYrWIwPoTwSHQHSAAAAB] requested status: Handshake ok
+[18:20.18] [CHAT] User [/#0OmjSceNzw88zg5-AAAA] requested status: Handshake ok
+[18:20.40] [CHAT] Starting to load banned users
+[18:20.40] [CORE] Server is starting
+[18:20.40] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:20.40] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:20.40] [CHAT] Finished loading 10 banned users
+[18:20.40] [CORE] New user with ID /#fNSEo4SRB3XaZX93AAAA trying to connect
+[18:20.40] [CHAT] Handshake for User /#fNSEo4SRB3XaZX93AAAA completed
+[18:20.40] [CHAT] User [/#fNSEo4SRB3XaZX93AAAA] requested status: Handshake ok
+[18:20.40] [CORE] New user with ID /#7lNkQK4Gx54zwXrgAAAB trying to connect
+[18:20.40] [CHAT] Handshake for User /#7lNkQK4Gx54zwXrgAAAB completed
+[18:20.40] [CHAT] User [/#7lNkQK4Gx54zwXrgAAAB] requested status: Handshake ok
+[18:21.22] [CHAT] Starting to load banned users
+[18:21.22] [CORE] Server is starting
+[18:21.22] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:21.22] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:21.22] [CHAT] Finished loading 10 banned users
+[18:21.23] [CORE] New user with ID /#F3Adu5yHoyC5ohDMAAAA trying to connect
+[18:21.23] [CHAT] Handshake for User /#F3Adu5yHoyC5ohDMAAAA completed
+[18:21.23] [CHAT] User [/#F3Adu5yHoyC5ohDMAAAA] requested status: Handshake ok
+[18:21.23] [CORE] New user with ID /#aD8h3tuZjQ0xPN77AAAB trying to connect
+[18:21.23] [CHAT] Handshake for User /#aD8h3tuZjQ0xPN77AAAB completed
+[18:21.23] [CHAT] User [/#aD8h3tuZjQ0xPN77AAAB] requested status: Handshake ok
+[18:32.41] [CHAT] Starting to load banned users
+[18:32.41] [CORE] Server is starting
+[18:32.41] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:32.41] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:32.41] [CHAT] Finished loading 10 banned users
+[18:32.43] [CORE] New user with ID /#MwzqRdxBHv191wA3AAAA trying to connect
+[18:32.43] [CHAT] Handshake for User /#MwzqRdxBHv191wA3AAAA completed
+[18:32.43] [CHAT] User [/#MwzqRdxBHv191wA3AAAA] requested status: Handshake ok
+[18:32.45] [CORE] New user with ID /#LDdqckvKRdaGVl8zAAAB trying to connect
+[18:32.45] [CHAT] Handshake for User /#LDdqckvKRdaGVl8zAAAB completed
+[18:32.46] [CHAT] User [/#LDdqckvKRdaGVl8zAAAB] requested status: Handshake ok
+[18:36.23] [CHAT] Starting to load banned users
+[18:36.23] [CORE] Server is starting
+[18:36.23] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:36.23] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:36.23] [CORE] New user with ID /#_HKNko7vhoG97CsjAAAA trying to connect
+[18:36.23] [CHAT] Finished loading 10 banned users
+[18:36.23] [CHAT] Handshake for User /#_HKNko7vhoG97CsjAAAA completed
+[18:36.23] [CHAT] User [/#_HKNko7vhoG97CsjAAAA] requested status: Handshake ok
+[18:36.25] [CORE] New user with ID /#KfuPob9E3-ZfbLleAAAB trying to connect
+[18:36.25] [CHAT] Handshake for User /#KfuPob9E3-ZfbLleAAAB completed
+[18:36.25] [CHAT] User [/#KfuPob9E3-ZfbLleAAAB] requested status: Handshake ok
+[18:49.27] [CHAT] Starting to load banned users
+[18:49.27] [CORE] Server is starting
+[18:49.27] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:49.27] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:49.38] [CHAT] Starting to load banned users
+[18:49.38] [CORE] Server is starting
+[18:49.38] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:49.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:49.38] [CHAT] Finished loading 11 banned users
+[18:49.41] [CORE] New user with ID /#deCDpI0EZuWO-4lmAAAA trying to connect
+[18:49.41] [CHAT] Handshake for User /#deCDpI0EZuWO-4lmAAAA completed
+[18:49.41] [CHAT] User [/#deCDpI0EZuWO-4lmAAAA] requested status: Handshake ok
+[18:49.43] [CORE] New user with ID /#HU00tO4T4fUTR_gYAAAB trying to connect
+[18:49.43] [CHAT] Banned user ddf tried to connect
+[18:49.48] [CORE] New user with ID /#KMdZ5QCvH2DjvC8bAAAC trying to connect
+[18:49.48] [CHAT] Handshake for User /#KMdZ5QCvH2DjvC8bAAAC completed
+[18:49.48] [CHAT] User [/#KMdZ5QCvH2DjvC8bAAAC] requested status: Handshake ok
+[18:50.17] [CHAT] Starting to load banned users
+[18:50.17] [CORE] Server is starting
+[18:50.17] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:50.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:50.17] [CORE] New user with ID /#dHSB2obpFxQxz6qKAAAA trying to connect
+[18:50.17] [CHAT] Finished loading 12 banned users
+[18:50.17] [CHAT] Banned user ddf2 tried to connect
+[18:50.17] [CORE] New user with ID /#gsuIKRBq38bJqXgaAAAB trying to connect
+[18:50.17] [CHAT] Handshake for User /#gsuIKRBq38bJqXgaAAAB completed
+[18:50.17] [CHAT] User [/#gsuIKRBq38bJqXgaAAAB] requested status: Handshake ok
+[18:50.23] [CORE] New user with ID /#V99IaysgysMQToT9AAAC trying to connect
+[18:50.23] [CHAT] Handshake for User /#V99IaysgysMQToT9AAAC completed
+[18:50.23] [CHAT] User [/#V99IaysgysMQToT9AAAC] requested status: Handshake ok
+[18:51.22] [CHAT] Starting to load banned users
+[18:51.22] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:51.22] [CORE] Server is starting
+[18:51.22] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:51.22] [CHAT] Finished loading 13 banned users
+[18:51.25] [CORE] New user with ID /#oiEXE_XPosmwM6L8AAAA trying to connect
+[18:51.25] [CHAT] Handshake for User /#oiEXE_XPosmwM6L8AAAA completed
+[18:51.25] [CHAT] User [/#oiEXE_XPosmwM6L8AAAA] requested status: Handshake ok
+[18:51.28] [CORE] New user with ID /#v9xJ-lV9OoBV4ThxAAAB trying to connect
+[18:51.28] [CHAT] Banned user ddf23 tried to connect
+[18:51.36] [CORE] New user with ID /#Jywg4x2Ktn20CMGzAAAC trying to connect
+[18:51.36] [CHAT] Handshake for User /#Jywg4x2Ktn20CMGzAAAC completed
+[18:51.36] [CHAT] User [/#Jywg4x2Ktn20CMGzAAAC] requested status: Handshake ok
+[18:52.52] [CHAT] Starting to load banned users
+[18:52.52] [CORE] Server is starting
+[18:52.52] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:52.52] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:52.52] [CHAT] Finished loading 14 banned users
+[18:52.52] [CORE] New user with ID /#rP_j82IhgsjsSiw0AAAA trying to connect
+[18:52.52] [CORE] New user with ID /#m3u82pWKU8LS68o9AAAB trying to connect
+[18:52.52] [CHAT] Banned user ddf24 tried to connect
+[18:52.52] [CHAT] Handshake for User /#m3u82pWKU8LS68o9AAAB completed
+[18:52.52] [CHAT] User [/#m3u82pWKU8LS68o9AAAB] requested status: Handshake ok
+[18:53.9] [CHAT] Starting to load banned users
+[18:53.9] [CORE] Server is starting
+[18:53.9] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:53.9] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:53.9] [CHAT] Finished loading 0 banned users
+[18:53.9] [CORE] New user with ID /#HFT6y9DTBgybn5eEAAAA trying to connect
+[18:53.9] [CHAT] Handshake for User /#HFT6y9DTBgybn5eEAAAA completed
+[18:53.9] [CHAT] User [/#HFT6y9DTBgybn5eEAAAA] requested status: Handshake ok
+[18:53.15] [CORE] New user with ID /#Rr73AKt7GMY3cnmhAAAB trying to connect
+[18:53.15] [CHAT] Handshake for User /#Rr73AKt7GMY3cnmhAAAB completed
+[18:53.15] [CHAT] User [/#Rr73AKt7GMY3cnmhAAAB] requested status: Handshake ok
+[18:53.24] [CORE] User with ID /#Rr73AKt7GMY3cnmhAAAB disconnected
+[18:57.10] [CHAT] Starting to load banned users
+[18:57.10] [CORE] Server is starting
+[18:57.10] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[18:57.10] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:57.10] [CHAT] Finished loading 1 banned users
+[18:57.11] [CORE] New user with ID /#mMWaU_mnQZ5BCDCrAAAA trying to connect
+[18:57.11] [CHAT] Handshake for User /#mMWaU_mnQZ5BCDCrAAAA completed
+[18:57.11] [CHAT] User [/#mMWaU_mnQZ5BCDCrAAAA] requested status: Handshake ok
+[18:57.28] [CORE] New user with ID /#Flt4XM7ntlbWALROAAAB trying to connect
+[18:57.28] [CHAT] Handshake for User /#Flt4XM7ntlbWALROAAAB completed
+[18:57.28] [CHAT] User [/#Flt4XM7ntlbWALROAAAB] requested status: Handshake ok
+[18:57.46] [CORE] User with ID /#mMWaU_mnQZ5BCDCrAAAA disconnected
+[18:57.47] [CORE] User with ID /#Flt4XM7ntlbWALROAAAB disconnected
+[19:14.3] [CORE] New user with ID /#MW5TN2uFQD8L4su1AAAC trying to connect
+[19:14.4] [CHAT] Handshake for User /#MW5TN2uFQD8L4su1AAAC completed
+[19:14.4] [CHAT] User [/#MW5TN2uFQD8L4su1AAAC] requested status: Handshake ok
+[19:14.32] [CORE] New user with ID /#tMuI9P-bkImHJw3EAAAD trying to connect
+[19:14.32] [CHAT] Handshake for User /#tMuI9P-bkImHJw3EAAAD completed
+[19:14.32] [CHAT] User [/#tMuI9P-bkImHJw3EAAAD] requested status: Handshake ok
+[19:14.42] [CHAT] User [/#tMuI9P-bkImHJw3EAAAD] sent message : Hallo
+[19:14.52] [CHAT] User [/#MW5TN2uFQD8L4su1AAAC] sent message : Hallo
+[19:15.23] [CORE] User with ID /#tMuI9P-bkImHJw3EAAAD disconnected
+[19:15.24] [CORE] New user with ID /#nxmRwUkJnCJO0xYxAAAE trying to connect
+[19:15.24] [CHAT] Banned user Testuser tried to connect
+[19:15.24] [CORE] New user with ID /#TxcZ43B_tjg-m8piAAAF trying to connect
+[19:15.24] [CHAT] Banned user Testuser tried to connect
+[19:15.55] [CHAT] User [/#MW5TN2uFQD8L4su1AAAC] sent message : Gg
+[19:16.0] [CORE] New user with ID /#PES3rdVE61OSFek3AAAG trying to connect
+[19:16.0] [CHAT] Banned user Testuser tried to connect
+[19:16.4] [CORE] New user with ID /#CvBOBkUraBET1PfaAAAH trying to connect
+[19:16.4] [CHAT] Banned user Testuser tried to connect
+[19:16.29] [CORE] User with ID /#MW5TN2uFQD8L4su1AAAC disconnected
+[19:5.46] [CHAT] Starting to load banned users
+[19:5.46] [CORE] Server is starting
+[19:5.46] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:5.46] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:5.46] [CHAT] Finished loading 2 banned users
+[19:6.0] [CORE] New user with ID /#XPT3bEF1VlZDw4ezAAAA trying to connect
+[19:6.0] [CHAT] Handshake for User /#XPT3bEF1VlZDw4ezAAAA completed
+[19:6.0] [CHAT] User [/#XPT3bEF1VlZDw4ezAAAA] requested status: Handshake ok
+[19:6.18] [CORE] User with ID /#XPT3bEF1VlZDw4ezAAAA disconnected
+[19:6.18] [CORE] New user with ID /#5ilA9KpGe013G5vPAAAB trying to connect
+[19:6.18] [CHAT] Banned user Testuser tried to connect
+[19:6.34] [CORE] New user with ID /#UwBJNRf6G4X-zJq1AAAC trying to connect
+[19:6.34] [CHAT] Banned user Testuser tried to connect
+[19:6.35] [CORE] New user with ID /#I_xD8kY7W9N2swUEAAAD trying to connect
+[19:6.35] [CHAT] Banned user Testuser tried to connect
+[19:6.35] [CORE] New user with ID /#qQ1Y2cSHEzqvlAawAAAE trying to connect
+[19:6.35] [CHAT] Banned user Testuser tried to connect
+[19:6.59] [CHAT] Starting to load banned users
+[19:6.59] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:6.59] [CORE] Server is starting
+[19:6.59] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:6.59] [CHAT] Finished loading 2 banned users
+[19:7.3] [CORE] New user with ID /#pbECdSHbJzsUGUhyAAAA trying to connect
+[19:7.3] [CHAT] Handshake for User /#pbECdSHbJzsUGUhyAAAA completed
+[19:7.3] [CHAT] User [/#pbECdSHbJzsUGUhyAAAA] requested status: Handshake ok
+[19:9.7] [CHAT] Starting to load banned users
+[19:9.7] [CORE] Server is starting
+[19:9.7] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:9.7] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:9.7] [CHAT] Finished loading 2 banned users
+[19:9.9] [CORE] New user with ID /#8SbMuUh9xciCZcONAAAA trying to connect
+[19:9.9] [CHAT] Handshake for User /#8SbMuUh9xciCZcONAAAA completed
+[19:9.9] [CHAT] User [/#8SbMuUh9xciCZcONAAAA] requested status: Handshake ok
+[19:9.13] [CORE] New user with ID /#_6RcjoF4WDmkgvGsAAAB trying to connect
+[19:9.13] [CHAT] Handshake for User /#_6RcjoF4WDmkgvGsAAAB completed
+[19:9.13] [CHAT] User [/#_6RcjoF4WDmkgvGsAAAB] requested status: Handshake ok
+[19:9.39] [CHAT] Starting to load banned users
+[19:9.39] [CORE] Server is starting
+[19:9.39] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:9.39] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:9.39] [CHAT] Finished loading 2 banned users
+[19:9.39] [CORE] New user with ID /#SrzeE0nFNcuEQZvjAAAA trying to connect
+[19:9.39] [CHAT] Handshake for User /#SrzeE0nFNcuEQZvjAAAA completed
+[19:9.39] [CHAT] User [/#SrzeE0nFNcuEQZvjAAAA] requested status: Handshake ok
+[19:9.40] [CORE] New user with ID /#oMdyY5XDqXdmUfGhAAAB trying to connect
+[19:9.40] [CHAT] Handshake for User /#oMdyY5XDqXdmUfGhAAAB completed
+[19:9.40] [CHAT] User [/#oMdyY5XDqXdmUfGhAAAB] requested status: Handshake ok
+[19:11.53] [CHAT] Starting to load banned users
+[19:11.53] [CORE] Server is starting
+[19:11.53] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:11.53] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:11.53] [CHAT] Finished loading 2 banned users
+[19:11.54] [CORE] New user with ID /#-C35K-gXw5XA_LvWAAAA trying to connect
+[19:11.54] [CHAT] Handshake for User /#-C35K-gXw5XA_LvWAAAA completed
+[19:11.54] [CHAT] User [/#-C35K-gXw5XA_LvWAAAA] requested status: Handshake ok
+[19:11.58] [CORE] New user with ID /#_YP21maC6el1b-1qAAAB trying to connect
+[19:11.58] [CHAT] Handshake for User /#_YP21maC6el1b-1qAAAB completed
+[19:11.58] [CHAT] User [/#_YP21maC6el1b-1qAAAB] requested status: Handshake ok
+[19:12.0] [CORE] User with ID /#-C35K-gXw5XA_LvWAAAA disconnected
+[19:13.0] [CHAT] Starting to load banned users
+[19:13.0] [CORE] Server is starting
+[19:13.0] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:13.0] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:13.0] [CHAT] Finished loading 2 banned users
+[19:13.0] [CORE] New user with ID /#qoLr3PFR9IReYoxoAAAA trying to connect
+[19:13.0] [CORE] New user with ID /#RAFRU_NLO-vx9qp9AAAB trying to connect
+[19:13.0] [CHAT] Handshake for User /#qoLr3PFR9IReYoxoAAAA completed
+[19:13.0] [CHAT] Handshake for User /#RAFRU_NLO-vx9qp9AAAB completed
+[19:13.0] [CHAT] User [/#qoLr3PFR9IReYoxoAAAA] requested status: Handshake ok
+[19:13.0] [CHAT] User [/#RAFRU_NLO-vx9qp9AAAB] requested status: Handshake ok
+[19:13.4] [CORE] User with ID /#qoLr3PFR9IReYoxoAAAA disconnected
+[19:13.19] [CHAT] Starting to load banned users
+[19:13.19] [CORE] Server is starting
+[19:13.19] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:13.19] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:13.19] [CORE] New user with ID /#Nxbzeoj0LGfeSJ3rAAAA trying to connect
+[19:13.19] [CHAT] Finished loading 2 banned users
+[19:13.19] [CHAT] Handshake for User /#Nxbzeoj0LGfeSJ3rAAAA completed
+[19:13.19] [CHAT] User [/#Nxbzeoj0LGfeSJ3rAAAA] requested status: Handshake ok
+[19:13.19] [CORE] New user with ID /#1XWQCJrLJfW5PA53AAAB trying to connect
+[19:13.19] [CHAT] Handshake for User /#1XWQCJrLJfW5PA53AAAB completed
+[19:13.19] [CHAT] User [/#1XWQCJrLJfW5PA53AAAB] requested status: Handshake ok
+[19:13.22] [CORE] User with ID /#1XWQCJrLJfW5PA53AAAB disconnected
+[19:14.19] [CHAT] Starting to load banned users
+[19:14.19] [CORE] Server is starting
+[19:14.19] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:14.19] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:14.19] [CORE] New user with ID /#TjNvrJIpzVG12UbPAAAA trying to connect
+[19:14.19] [CHAT] Finished loading 2 banned users
+[19:14.19] [CORE] New user with ID /#gWRGBzEZNe6epEGjAAAB trying to connect
+[19:14.19] [CHAT] Handshake for User /#gWRGBzEZNe6epEGjAAAB completed
+[19:14.19] [CHAT] User [/#gWRGBzEZNe6epEGjAAAB] requested status: Handshake ok
+[19:14.19] [CHAT] Handshake for User /#TjNvrJIpzVG12UbPAAAA completed
+[19:14.19] [CHAT] User [/#TjNvrJIpzVG12UbPAAAA] requested status: Handshake ok
+[19:14.25] [CORE] User with ID /#TjNvrJIpzVG12UbPAAAA disconnected
+[19:14.43] [CHAT] Starting to load banned users
+[19:14.43] [CORE] Server is starting
+[19:14.43] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:14.43] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:14.43] [CHAT] Finished loading 2 banned users
+[19:14.43] [CORE] New user with ID /#SEG0fL0BhZ9z-ExqAAAA trying to connect
+[19:14.43] [CORE] New user with ID /#5pL8aiJXqHz6aR6HAAAB trying to connect
+[19:14.43] [CHAT] Handshake for User /#5pL8aiJXqHz6aR6HAAAB completed
+[19:14.43] [CHAT] User [/#5pL8aiJXqHz6aR6HAAAB] requested status: Handshake ok
+[19:14.43] [CHAT] Handshake for User /#SEG0fL0BhZ9z-ExqAAAA completed
+[19:14.43] [CHAT] User [/#SEG0fL0BhZ9z-ExqAAAA] requested status: Handshake ok
+[19:14.47] [CORE] User with ID /#SEG0fL0BhZ9z-ExqAAAA disconnected
+[19:15.49] [CHAT] Starting to load banned users
+[19:15.49] [CORE] Server is starting
+[19:15.49] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:15.49] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:15.49] [CHAT] Finished loading 2 banned users
+[19:15.49] [CORE] New user with ID /#S0REA4X_ZVMjzc55AAAA trying to connect
+[19:15.49] [CHAT] Handshake for User /#S0REA4X_ZVMjzc55AAAA completed
+[19:15.50] [CHAT] User [/#S0REA4X_ZVMjzc55AAAA] requested status: Handshake ok
+[19:15.50] [CORE] New user with ID /#-dpnEIQC9uij5YXoAAAB trying to connect
+[19:15.50] [CHAT] Handshake for User /#-dpnEIQC9uij5YXoAAAB completed
+[19:15.50] [CHAT] User [/#-dpnEIQC9uij5YXoAAAB] requested status: Handshake ok
+[19:16.2] [CORE] New user with ID /#9VISOr64FRpd0DWwAAAC trying to connect
+[19:16.2] [CHAT] Handshake for User /#9VISOr64FRpd0DWwAAAC completed
+[19:16.2] [CHAT] User [/#9VISOr64FRpd0DWwAAAC] requested status: Handshake ok
+[19:16.5] [CORE] User with ID /#9VISOr64FRpd0DWwAAAC disconnected
+[19:16.5] [CORE] New user with ID /#ScUoP6-4yMNdXemcAAAD trying to connect
+[19:16.5] [CHAT] Handshake for User /#ScUoP6-4yMNdXemcAAAD completed
+[19:16.5] [CHAT] User [/#ScUoP6-4yMNdXemcAAAD] requested status: Handshake ok
+[19:16.21] [CORE] User with ID /#ScUoP6-4yMNdXemcAAAD disconnected
+[19:16.21] [CORE] New user with ID /#T-GwnY7S-IVyCJERAAAE trying to connect
+[19:16.21] [CHAT] Handshake for User /#T-GwnY7S-IVyCJERAAAE completed
+[19:16.21] [CHAT] User [/#T-GwnY7S-IVyCJERAAAE] requested status: Handshake ok
+[19:16.22] [CORE] User with ID /#T-GwnY7S-IVyCJERAAAE disconnected
+[19:16.22] [CORE] New user with ID /#GOGgGEuAoIUtCyRPAAAF trying to connect
+[19:16.22] [CHAT] Handshake for User /#GOGgGEuAoIUtCyRPAAAF completed
+[19:16.22] [CHAT] User [/#GOGgGEuAoIUtCyRPAAAF] requested status: Handshake ok
+[19:16.22] [CORE] User with ID /#GOGgGEuAoIUtCyRPAAAF disconnected
+[19:16.22] [CORE] New user with ID /#YvggvavjTZ3b_wMAAAAG trying to connect
+[19:16.22] [CHAT] Handshake for User /#YvggvavjTZ3b_wMAAAAG completed
+[19:16.22] [CHAT] User [/#YvggvavjTZ3b_wMAAAAG] requested status: Handshake ok
+[19:16.22] [CORE] User with ID /#YvggvavjTZ3b_wMAAAAG disconnected
+[19:16.22] [CORE] New user with ID /#9-XLE9kg5KMgJs87AAAH trying to connect
+[19:16.22] [CHAT] Handshake for User /#9-XLE9kg5KMgJs87AAAH completed
+[19:16.22] [CHAT] User [/#9-XLE9kg5KMgJs87AAAH] requested status: Handshake ok
+[19:17.15] [CORE] User with ID /#9-XLE9kg5KMgJs87AAAH disconnected
+[19:17.16] [CORE] New user with ID /#4Nd2egnCP4s4aZttAAAI trying to connect
+[19:17.16] [CHAT] Handshake for User /#4Nd2egnCP4s4aZttAAAI completed
+[19:17.16] [CHAT] User [/#4Nd2egnCP4s4aZttAAAI] requested status: Handshake ok
+[19:21.38] [CHAT] Starting to load banned users
+[19:21.38] [CORE] Server is starting
+[19:21.38] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[19:21.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:21.38] [CHAT] Finished loading 2 banned users
+[19:21.38] [CORE] New user with ID /#PeTSpgjxZo3VZ40XAAAA trying to connect
+[19:21.38] [CHAT] Handshake for User /#PeTSpgjxZo3VZ40XAAAA completed
+[19:21.38] [CHAT] User [/#PeTSpgjxZo3VZ40XAAAA] requested status: Handshake ok
+[19:21.38] [CORE] New user with ID /#tXry3mTpGC68OscOAAAB trying to connect
+[19:21.38] [CORE] New user with ID /#JVa4rIECX3J0mcxyAAAC trying to connect
+[19:21.38] [CHAT] Handshake for User /#tXry3mTpGC68OscOAAAB completed
+[19:21.38] [CHAT] Banned user Testuser tried to connect
+[19:21.39] [CHAT] User [/#tXry3mTpGC68OscOAAAB] requested status: Handshake ok
+[20:33.3] [CORE] User with ID /#PeTSpgjxZo3VZ40XAAAA disconnected
+[20:33.15] [CORE] User with ID /#tXry3mTpGC68OscOAAAB disconnected
+[20:35.22] [CORE] New user with ID /#JF0Axf3afep8kHq_AAAD trying to connect
+[20:35.22] [CHAT] Handshake for User /#JF0Axf3afep8kHq_AAAD completed
+[20:35.22] [CHAT] User [/#JF0Axf3afep8kHq_AAAD] requested status: Handshake ok
+[20:35.23] [CORE] New user with ID /#_ymhbTb6pg9MZVZJAAAE trying to connect
+[20:35.23] [CHAT] Handshake for User /#_ymhbTb6pg9MZVZJAAAE completed
+[20:35.23] [CHAT] User [/#_ymhbTb6pg9MZVZJAAAE] requested status: Handshake ok
+[20:35.35] [CORE] User with ID /#_ymhbTb6pg9MZVZJAAAE disconnected
+[16:28.14] [CHAT] Starting to load banned users
+[16:28.14] [CORE] Server is starting
+[16:28.14] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:28.14] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:28.14] [CHAT] Finished loading 0 banned users
+[16:29.40] [CORE] New user with ID /#6WE8osO1VLOjTj5wAAAA trying to connect
+[16:30.35] [CHAT] Starting to load banned users
+[16:30.35] [CORE] Server is starting
+[16:30.35] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:30.35] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:30.35] [CHAT] Finished loading 0 banned users
+[16:30.35] [CORE] New user with ID /#l7Z2nnN-CXzygWW_AAAA trying to connect
+[16:30.35] [CHAT] Handshake for User /#l7Z2nnN-CXzygWW_AAAA completed
+[16:30.35] [CHAT] User [/#l7Z2nnN-CXzygWW_AAAA] requested status: Handshake ok
+[16:33.5] [CORE] User with ID /#l7Z2nnN-CXzygWW_AAAA disconnected
+[16:33.5] [CORE] New user with ID /#e78YkDnaqyMQ9wTsAAAB trying to connect
+[16:33.5] [CHAT] Banned user user tried to connect
+[16:45.52] [CHAT] Starting to load banned users
+[16:45.52] [CORE] Server is starting
+[16:45.52] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:45.52] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:45.52] [CHAT] Finished loading 1 banned users
+[16:48.39] [CHAT] Starting to load banned users
+[16:48.39] [CORE] Server is starting
+[16:48.39] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[16:48.39] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:48.39] [CHAT] Finished loading 1 banned users
+[16:48.46] [CORE] New user with ID /#mXD1ARl8gHZUDEovAAAA trying to connect
+[16:48.46] [CHAT] Banned user user tried to connect
+[16:48.50] [CORE] New user with ID /#L8Dsx_P2KS3G5eiqAAAB trying to connect
+[16:48.50] [CHAT] Handshake for User /#L8Dsx_P2KS3G5eiqAAAB completed
+[16:48.50] [CHAT] User [/#L8Dsx_P2KS3G5eiqAAAB] requested status: Handshake ok
+[17:24.2] [CORE] User with ID /#L8Dsx_P2KS3G5eiqAAAB disconnected
+[17:27.42] [CHAT] Starting to load banned users
+[17:27.42] [CORE] Server is starting
+[17:27.42] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:27.42] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:27.42] [CHAT] Finished loading 1 banned users
+[17:27.55] [CORE] New user with ID /#b0_1tdCARdcvRSHTAAAA trying to connect
+[17:30.2] [CHAT] Starting to load banned users
+[17:30.2] [CORE] Server is starting
+[17:30.2] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:30.2] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:30.2] [CHAT] Finished loading 1 banned users
+[17:30.4] [CORE] New user with ID /#9YQRsbDbYyE-kbaWAAAA trying to connect
+[17:30.4] [CHAT] Handshake for User /#9YQRsbDbYyE-kbaWAAAA completed
+[17:30.4] [CHAT] User [/#9YQRsbDbYyE-kbaWAAAA] requested status: Handshake ok
+[17:30.7] [CHAT] User [/#9YQRsbDbYyE-kbaWAAAA] sent message : asdf
+[17:30.40] [CHAT] Starting to load banned users
+[17:30.40] [CORE] Server is starting
+[17:30.40] [CORE] Webserver reachable under http://127.0.0.1:3000/
+[17:30.40] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:30.40] [CHAT] Finished loading 2 banned users
+[17:30.44] [CORE] New user with ID /#cqdZ2T1xGEPAkvUtAAAA trying to connect
+[17:30.44] [CHAT] Banned user 1 tried to connect
+[15:44.53] [CHAT] Starting to load banned users
+[15:44.53] [CORE] Server is starting
+[15:44.53] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:44.53] [CHAT] Finished loading 2 banned users
+[15:49.48] [CORE] New user with ID /#9f0lulTH2FtjZk-oAAAA trying to connect
+[15:49.48] [CHAT] Handshake for User /#9f0lulTH2FtjZk-oAAAA completed
+[15:49.48] [CHAT] User [/#9f0lulTH2FtjZk-oAAAA] requested status: Handshake ok
+[16:6.46] [CORE] User with ID /#9f0lulTH2FtjZk-oAAAA disconnected
+[16:6.46] [CORE] New user with ID /#PXRB9VXchCl-sRp8AAAB trying to connect
+[16:6.46] [CHAT] Handshake for User /#PXRB9VXchCl-sRp8AAAB completed
+[16:6.46] [CHAT] User [/#PXRB9VXchCl-sRp8AAAB] requested status: Handshake ok
+[16:7.19] [CORE] User with ID /#PXRB9VXchCl-sRp8AAAB disconnected
+[16:7.19] [CORE] New user with ID /#yiKg2FEftg8ej-mQAAAC trying to connect
+[16:7.19] [CHAT] Handshake for User /#yiKg2FEftg8ej-mQAAAC completed
+[16:7.19] [CHAT] User [/#yiKg2FEftg8ej-mQAAAC] requested status: Handshake ok
+[16:7.20] [CORE] User with ID /#yiKg2FEftg8ej-mQAAAC disconnected
+[16:7.20] [CORE] New user with ID /#RQz_EgxgSc2BzNlPAAAD trying to connect
+[16:7.20] [CHAT] Handshake for User /#RQz_EgxgSc2BzNlPAAAD completed
+[16:7.20] [CHAT] User [/#RQz_EgxgSc2BzNlPAAAD] requested status: Handshake ok
+[16:7.21] [CORE] User with ID /#RQz_EgxgSc2BzNlPAAAD disconnected
+[16:7.21] [CORE] New user with ID /#tnN6CCcvUo51V3rJAAAE trying to connect
+[16:7.21] [CHAT] Handshake for User /#tnN6CCcvUo51V3rJAAAE completed
+[16:7.21] [CHAT] User [/#tnN6CCcvUo51V3rJAAAE] requested status: Handshake ok
+[16:7.21] [CORE] User with ID /#tnN6CCcvUo51V3rJAAAE disconnected
+[16:7.21] [CORE] New user with ID /#gX_39DcwLvR-ecIGAAAF trying to connect
+[16:7.21] [CHAT] Handshake for User /#gX_39DcwLvR-ecIGAAAF completed
+[16:7.21] [CHAT] User [/#gX_39DcwLvR-ecIGAAAF] requested status: Handshake ok
+[16:7.21] [CORE] User with ID /#gX_39DcwLvR-ecIGAAAF disconnected
+[16:7.21] [CORE] New user with ID /#_82BADltPuMWpDSlAAAG trying to connect
+[16:7.21] [CHAT] Handshake for User /#_82BADltPuMWpDSlAAAG completed
+[16:7.21] [CHAT] User [/#_82BADltPuMWpDSlAAAG] requested status: Handshake ok
+[16:7.21] [CORE] User with ID /#_82BADltPuMWpDSlAAAG disconnected
+[16:7.21] [CORE] New user with ID /#L7Tk7bUSIdKYOtQJAAAH trying to connect
+[16:7.21] [CHAT] Handshake for User /#L7Tk7bUSIdKYOtQJAAAH completed
+[16:7.21] [CHAT] User [/#L7Tk7bUSIdKYOtQJAAAH] requested status: Handshake ok
+[16:7.22] [CORE] User with ID /#L7Tk7bUSIdKYOtQJAAAH disconnected
+[16:7.22] [CORE] New user with ID /#CeIALGYPFPRV9IwHAAAI trying to connect
+[16:7.22] [CHAT] Handshake for User /#CeIALGYPFPRV9IwHAAAI completed
+[16:7.22] [CHAT] User [/#CeIALGYPFPRV9IwHAAAI] requested status: Handshake ok
+[16:7.24] [CORE] User with ID /#CeIALGYPFPRV9IwHAAAI disconnected
+[16:7.25] [CORE] New user with ID /#db3PkSFEdz-nfpTZAAAJ trying to connect
+[16:7.25] [CHAT] Handshake for User /#db3PkSFEdz-nfpTZAAAJ completed
+[16:7.25] [CHAT] User [/#db3PkSFEdz-nfpTZAAAJ] requested status: Handshake ok
+[16:7.57] [CORE] User with ID /#db3PkSFEdz-nfpTZAAAJ disconnected
+[16:7.57] [CORE] New user with ID /#BJKDVr9jZ7UNNrzIAAAK trying to connect
+[16:7.57] [CHAT] Handshake for User /#BJKDVr9jZ7UNNrzIAAAK completed
+[16:7.57] [CHAT] User [/#BJKDVr9jZ7UNNrzIAAAK] requested status: Handshake ok
+[16:8.3] [CHAT] User [/#BJKDVr9jZ7UNNrzIAAAK] sent message : asdf
+[16:8.22] [CORE] User with ID /#BJKDVr9jZ7UNNrzIAAAK disconnected
+[16:8.22] [CORE] New user with ID /#bUeeAPR4e3-L5JuCAAAL trying to connect
+[16:8.22] [CHAT] Handshake for User /#bUeeAPR4e3-L5JuCAAAL completed
+[16:8.22] [CHAT] User [/#bUeeAPR4e3-L5JuCAAAL] requested status: Handshake ok
+[16:8.24] [CHAT] User [/#bUeeAPR4e3-L5JuCAAAL] sent message : gf
+[16:55.15] [CHAT] Starting to load banned users
+[16:55.15] [CORE] Server is starting
+[16:55.15] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:55.15] [CHAT] Finished loading 2 banned users
+[16:55.44] [CORE] New user with ID /#pdkO2_J_NK-Aq-WSAAAA trying to connect
+[16:55.44] [CHAT] Handshake for User /#pdkO2_J_NK-Aq-WSAAAA completed
+[16:55.44] [CHAT] User [/#pdkO2_J_NK-Aq-WSAAAA] requested status: Handshake ok
+[16:55.53] [CORE] User with ID /#pdkO2_J_NK-Aq-WSAAAA disconnected
+[16:57.5] [CHAT] Starting to load banned users
+[16:57.5] [CORE] Server is starting
+[16:57.5] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:57.5] [CHAT] Finished loading 2 banned users
+[16:57.7] [CORE] New user with ID /#kZzhQRRHvvxwKrzNAAAA trying to connect
+[16:57.7] [CHAT] Handshake for User /#kZzhQRRHvvxwKrzNAAAA completed
+[16:57.7] [CHAT] User [/#kZzhQRRHvvxwKrzNAAAA] requested status: Handshake ok
+[16:57.12] [CORE] User with ID /#kZzhQRRHvvxwKrzNAAAA disconnected
+[16:57.42] [CHAT] Starting to load banned users
+[16:57.42] [CORE] Server is starting
+[16:57.42] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:57.42] [CHAT] Finished loading 2 banned users
+[16:57.42] [CORE] New user with ID /#CCbF83QCis9xxskjAAAA trying to connect
+[16:57.42] [CHAT] Handshake for User /#CCbF83QCis9xxskjAAAA completed
+[16:57.42] [CHAT] User [/#CCbF83QCis9xxskjAAAA] requested status: Handshake ok
+[16:57.48] [CORE] User with ID /#CCbF83QCis9xxskjAAAA disconnected
+[16:58.19] [CHAT] Starting to load banned users
+[16:58.19] [CORE] Server is starting
+[16:58.19] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:58.19] [CHAT] Finished loading 2 banned users
+[16:58.19] [CORE] New user with ID /#6KcM4zEeF9gJXdgoAAAA trying to connect
+[16:58.19] [CHAT] Handshake for User /#6KcM4zEeF9gJXdgoAAAA completed
+[16:58.19] [CHAT] User [/#6KcM4zEeF9gJXdgoAAAA] requested status: Handshake ok
+[16:58.21] [CORE] User with ID /#6KcM4zEeF9gJXdgoAAAA disconnected
+[16:59.0] [CHAT] Starting to load banned users
+[16:59.0] [CORE] Server is starting
+[16:59.0] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:59.0] [CHAT] Finished loading 2 banned users
+[16:59.1] [CORE] New user with ID /#wM4pHQBy611W9JePAAAA trying to connect
+[16:59.1] [CHAT] Handshake for User /#wM4pHQBy611W9JePAAAA completed
+[16:59.1] [CHAT] User [/#wM4pHQBy611W9JePAAAA] requested status: Handshake ok
+[17:2.59] [CHAT] Starting to load banned users
+[17:2.59] [CORE] Server is starting
+[17:2.59] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:2.59] [CHAT] Finished loading 2 banned users
+[17:2.59] [CORE] New user with ID /#96q63nuWW1-l8xr4AAAA trying to connect
+[17:2.59] [CHAT] Handshake for User /#96q63nuWW1-l8xr4AAAA completed
+[17:2.59] [CHAT] User [/#96q63nuWW1-l8xr4AAAA] requested status: Handshake ok
+[17:3.10] [CHAT] User Peter has been renamed to Alex by Alex
+[17:9.49] [CORE] User with ID /#96q63nuWW1-l8xr4AAAA disconnected
+[16:31.2] [CHAT] Starting to load banned users
+[16:31.2] [CORE] Server is starting
+[16:31.2] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:31.2] [CHAT] Finished loading 2 banned users
+[16:37.12] [CHAT] Starting to load banned users
+[16:37.12] [CORE] Server is starting
+[16:37.12] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:37.12] [CHAT] Finished loading 2 banned users
+[16:53.14] [CHAT] Starting to load banned users
+[16:53.14] [CORE] Server is starting
+[16:53.14] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:53.14] [CHAT] Finished loading 2 banned users
+[16:54.30] [CHAT] Starting to load banned users
+[16:54.30] [CORE] Server is starting
+[16:54.30] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:54.30] [CHAT] Finished loading 2 banned users
+[16:55.15] [CHAT] Starting to load banned users
+[16:55.15] [CORE] Server is starting
+[16:55.15] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:55.15] [CHAT] Finished loading 2 banned users
+[16:55.38] [CHAT] Starting to load banned users
+[16:55.38] [CORE] Server is starting
+[16:55.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:55.38] [CHAT] Finished loading 2 banned users
+[16:56.16] [CORE] New user with ID /#2i_MTlCpKboGt_A1AAAA trying to connect
+[16:57.28] [CHAT] Starting to load banned users
+[16:57.28] [CORE] Server is starting
+[16:57.28] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:57.28] [CHAT] Finished loading 2 banned users
+[16:57.28] [CORE] New user with ID /#H3iEHzTbl8SexwYzAAAA trying to connect
+[16:58.14] [CHAT] Starting to load banned users
+[16:58.14] [CORE] Server is starting
+[16:58.14] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[16:58.14] [CHAT] Finished loading 2 banned users
+[16:58.14] [CORE] New user with ID /#WasgLvv1ts4LLlN5AAAA trying to connect
+[16:58.14] [CHAT] Handshake for User /#WasgLvv1ts4LLlN5AAAA completed
+[16:58.14] [CHAT] User [/#WasgLvv1ts4LLlN5AAAA] requested status: Handshake ok
+[16:58.46] [CHAT] User [/#WasgLvv1ts4LLlN5AAAA] sent message : sdfrg
+[17:10.9] [CHAT] Starting to load banned users
+[17:10.9] [CORE] Server is starting
+[17:10.9] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:10.10] [CHAT] Finished loading 2 banned users
+[17:10.10] [CORE] New user with ID /#IazwUHuyvKbLX6ArAAAA trying to connect
+[17:10.10] [CHAT] Handshake for User /#IazwUHuyvKbLX6ArAAAA completed
+[17:10.10] [CHAT] User [/#IazwUHuyvKbLX6ArAAAA] requested status: Handshake ok
+[17:10.16] [CORE] User with ID /#IazwUHuyvKbLX6ArAAAA disconnected
+[17:10.40] [CORE] New user with ID /#H9U7DxlHxpjJdFlxAAAB trying to connect
+[17:10.40] [CHAT] Handshake for User /#H9U7DxlHxpjJdFlxAAAB completed
+[17:10.41] [CHAT] User [/#H9U7DxlHxpjJdFlxAAAB] requested status: Handshake ok
+[17:10.44] [CORE] User with ID /#H9U7DxlHxpjJdFlxAAAB disconnected
+[17:12.40] [CORE] New user with ID /#cjyu0jzF96bnM254AAAC trying to connect
+[17:12.40] [CHAT] Handshake for User /#cjyu0jzF96bnM254AAAC completed
+[17:12.40] [CHAT] User [/#cjyu0jzF96bnM254AAAC] requested status: Handshake ok
+[17:12.40] [CORE] User with ID /#cjyu0jzF96bnM254AAAC disconnected
+[17:12.40] [CORE] New user with ID /#OSaEKO4jCiQvBYK0AAAD trying to connect
+[17:12.40] [CHAT] Handshake for User /#OSaEKO4jCiQvBYK0AAAD completed
+[17:12.40] [CHAT] User [/#OSaEKO4jCiQvBYK0AAAD] requested status: Handshake ok
+[17:12.40] [CORE] User with ID /#OSaEKO4jCiQvBYK0AAAD disconnected
+[17:12.40] [CORE] New user with ID /#NCf1QaLc_dVbzoDvAAAE trying to connect
+[17:12.40] [CHAT] Handshake for User /#NCf1QaLc_dVbzoDvAAAE completed
+[17:12.40] [CHAT] User [/#NCf1QaLc_dVbzoDvAAAE] requested status: Handshake ok
+[17:12.41] [CORE] User with ID /#NCf1QaLc_dVbzoDvAAAE disconnected
+[17:12.41] [CORE] New user with ID /#wFRmmFEDBdoRAG_9AAAF trying to connect
+[17:12.41] [CHAT] Handshake for User /#wFRmmFEDBdoRAG_9AAAF completed
+[17:12.41] [CHAT] User [/#wFRmmFEDBdoRAG_9AAAF] requested status: Handshake ok
+[17:12.41] [CORE] User with ID /#wFRmmFEDBdoRAG_9AAAF disconnected
+[17:12.41] [CORE] New user with ID /#KmTo2MChCGyAD6Q3AAAG trying to connect
+[17:12.41] [CHAT] Handshake for User /#KmTo2MChCGyAD6Q3AAAG completed
+[17:12.41] [CHAT] User [/#KmTo2MChCGyAD6Q3AAAG] requested status: Handshake ok
+[17:12.41] [CORE] User with ID /#KmTo2MChCGyAD6Q3AAAG disconnected
+[17:12.41] [CORE] New user with ID /#FpcuKyhjX2sJgAKwAAAH trying to connect
+[17:12.41] [CHAT] Handshake for User /#FpcuKyhjX2sJgAKwAAAH completed
+[17:12.41] [CHAT] User [/#FpcuKyhjX2sJgAKwAAAH] requested status: Handshake ok
+[17:12.41] [CORE] User with ID /#FpcuKyhjX2sJgAKwAAAH disconnected
+[17:12.41] [CORE] New user with ID /#ur0sKeoUQVI0OTsmAAAI trying to connect
+[17:12.41] [CHAT] Handshake for User /#ur0sKeoUQVI0OTsmAAAI completed
+[17:12.41] [CHAT] User [/#ur0sKeoUQVI0OTsmAAAI] requested status: Handshake ok
+[17:12.41] [CORE] User with ID /#ur0sKeoUQVI0OTsmAAAI disconnected
+[17:12.41] [CORE] New user with ID /#5sIFhJGH0XkCqtWBAAAJ trying to connect
+[17:12.41] [CHAT] Handshake for User /#5sIFhJGH0XkCqtWBAAAJ completed
+[17:12.41] [CHAT] User [/#5sIFhJGH0XkCqtWBAAAJ] requested status: Handshake ok
+[17:12.41] [CORE] User with ID /#5sIFhJGH0XkCqtWBAAAJ disconnected
+[17:12.41] [CORE] New user with ID /#1yIxZPFHFTxAbqxMAAAK trying to connect
+[17:12.41] [CHAT] Handshake for User /#1yIxZPFHFTxAbqxMAAAK completed
+[17:12.41] [CHAT] User [/#1yIxZPFHFTxAbqxMAAAK] requested status: Handshake ok
+[17:12.41] [CORE] User with ID /#1yIxZPFHFTxAbqxMAAAK disconnected
+[17:12.42] [CORE] New user with ID /#307XMJ5IsIrMTG29AAAL trying to connect
+[17:12.42] [CHAT] Handshake for User /#307XMJ5IsIrMTG29AAAL completed
+[17:12.42] [CHAT] User [/#307XMJ5IsIrMTG29AAAL] requested status: Handshake ok
+[17:12.46] [CHAT] User [/#307XMJ5IsIrMTG29AAAL] sent message : asdf
+[17:12.48] [CORE] User with ID /#307XMJ5IsIrMTG29AAAL disconnected
+[17:13.36] [CHAT] Starting to load banned users
+[17:13.36] [CORE] Server is starting
+[17:13.36] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:13.36] [CHAT] Finished loading 2 banned users
+[17:13.36] [CORE] New user with ID /#ILngk5bsgnZZteiDAAAA trying to connect
+[17:13.37] [CHAT] Handshake for User /#ILngk5bsgnZZteiDAAAA completed
+[17:13.37] [CHAT] User [/#ILngk5bsgnZZteiDAAAA] requested status: Handshake ok
+[17:14.8] [CORE] User with ID /#ILngk5bsgnZZteiDAAAA disconnected
+[17:14.8] [CORE] New user with ID /#vJi2DpkdN6TimzHxAAAB trying to connect
+[17:14.8] [CHAT] Handshake for User /#vJi2DpkdN6TimzHxAAAB completed
+[17:14.8] [CHAT] User [/#vJi2DpkdN6TimzHxAAAB] requested status: Handshake ok
+[17:14.8] [CORE] User with ID /#vJi2DpkdN6TimzHxAAAB disconnected
+[17:14.8] [CORE] New user with ID /#bk69UZPrukYSYd4ZAAAC trying to connect
+[17:14.8] [CHAT] Handshake for User /#bk69UZPrukYSYd4ZAAAC completed
+[17:14.8] [CHAT] User [/#bk69UZPrukYSYd4ZAAAC] requested status: Handshake ok
+[17:14.8] [CORE] User with ID /#bk69UZPrukYSYd4ZAAAC disconnected
+[17:14.8] [CORE] New user with ID /#z1ev_bTji6ruFFBHAAAD trying to connect
+[17:14.8] [CHAT] Handshake for User /#z1ev_bTji6ruFFBHAAAD completed
+[17:14.8] [CHAT] User [/#z1ev_bTji6ruFFBHAAAD] requested status: Handshake ok
+[17:14.8] [CORE] User with ID /#z1ev_bTji6ruFFBHAAAD disconnected
+[17:14.8] [CORE] New user with ID /#7tZza6hlYLPqMaOHAAAE trying to connect
+[17:14.8] [CHAT] Handshake for User /#7tZza6hlYLPqMaOHAAAE completed
+[17:14.9] [CHAT] User [/#7tZza6hlYLPqMaOHAAAE] requested status: Handshake ok
+[17:15.57] [CHAT] Starting to load banned users
+[17:15.57] [CORE] Server is starting
+[17:15.57] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:15.57] [CHAT] Finished loading 2 banned users
+[17:16.0] [CORE] New user with ID /#uyZHgpC43_ZOb1UhAAAA trying to connect
+[17:16.0] [CHAT] Handshake for User /#uyZHgpC43_ZOb1UhAAAA completed
+[17:16.0] [CHAT] User [/#uyZHgpC43_ZOb1UhAAAA] requested status: Handshake ok
+[17:16.4] [CHAT] User /#uyZHgpC43_ZOb1UhAAAA tried calling command : /ban
+[17:26.20] [CHAT] Starting to load banned users
+[17:26.20] [CORE] Server is starting
+[17:26.20] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:26.20] [CHAT] Finished loading 2 banned users
+[17:26.24] [CORE] New user with ID /#W7BEIZdKx8XEYkTMAAAA trying to connect
+[17:26.24] [CORE] New user with ID /#ynLxi6TiL_jQ9KzUAAAB trying to connect
+[17:27.55] [CHAT] Starting to load banned users
+[17:27.55] [CORE] Server is starting
+[17:27.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:27.55] [CHAT] Finished loading 2 banned users
+[17:27.56] [CORE] New user with ID /#lAirRXgjCloYOFFfAAAA trying to connect
+[17:27.56] [CHAT] Handshake for User [/#lAirRXgjCloYOFFfAAAA] completed
+[17:27.56] [CHAT] User [/#lAirRXgjCloYOFFfAAAA] requested status: Handshake ok
+[17:28.1] [CHAT] User [/#lAirRXgjCloYOFFfAAAA] tried calling command : /ban
+[17:28.41] [CORE] User with ID [/#lAirRXgjCloYOFFfAAAA] disconnected
+[17:28.41] [CORE] New user with ID /#ImZX4B5RQGb5XbvnAAAB trying to connect
+[17:28.41] [CHAT] Handshake for User [/#ImZX4B5RQGb5XbvnAAAB] completed
+[17:28.41] [CHAT] User [/#ImZX4B5RQGb5XbvnAAAB] requested status: Handshake ok
+[17:28.44] [CHAT] User [/#ImZX4B5RQGb5XbvnAAAB] tried calling command : /ban
+[17:28.46] [CORE] User with ID [/#ImZX4B5RQGb5XbvnAAAB] disconnected
+[17:28.47] [CORE] New user with ID /#2gCfcorO3vRnT78pAAAC trying to connect
+[17:28.47] [CHAT] Handshake for User [/#2gCfcorO3vRnT78pAAAC] completed
+[17:28.47] [CHAT] User [/#2gCfcorO3vRnT78pAAAC] requested status: Handshake ok
+[17:28.47] [CORE] User with ID [/#2gCfcorO3vRnT78pAAAC] disconnected
+[17:28.47] [CORE] New user with ID /#AQjHoYDAGMBzXxclAAAD trying to connect
+[17:28.47] [CHAT] Handshake for User [/#AQjHoYDAGMBzXxclAAAD] completed
+[17:28.47] [CHAT] User [/#AQjHoYDAGMBzXxclAAAD] requested status: Handshake ok
+[17:28.47] [CORE] User with ID [/#AQjHoYDAGMBzXxclAAAD] disconnected
+[17:28.47] [CORE] New user with ID /#9EXJ75e_PRKnrVo0AAAE trying to connect
+[17:28.47] [CHAT] Handshake for User [/#9EXJ75e_PRKnrVo0AAAE] completed
+[17:28.47] [CHAT] User [/#9EXJ75e_PRKnrVo0AAAE] requested status: Handshake ok
+[17:29.12] [CHAT] Starting to load banned users
+[17:29.12] [CORE] Server is starting
+[17:29.12] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:29.12] [CHAT] Finished loading 2 banned users
+[17:29.12] [CORE] New user with ID /#g_Vfv8sxewymFgCLAAAA trying to connect
+[17:30.26] [CHAT] Starting to load banned users
+[17:30.26] [CORE] Server is starting
+[17:30.26] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:30.26] [CHAT] Finished loading 2 banned users
+[17:30.26] [CORE] New user with ID /#BdIF9Gn_exlM6BSeAAAA trying to connect
+[17:32.38] [CHAT] Starting to load banned users
+[17:32.38] [CORE] Server is starting
+[17:32.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:32.38] [CHAT] Finished loading 2 banned users
+[17:32.38] [CORE] New user with ID /#0Mf-8ao3EsTdgiSmAAAA trying to connect
+[17:35.6] [CHAT] Starting to load banned users
+[17:35.6] [CORE] Server is starting
+[17:35.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:35.6] [CHAT] Finished loading 2 banned users
+[17:35.6] [CORE] New user with ID /#DxcWEUzMBwDJsAl2AAAA trying to connect
+[17:36.3] [CHAT] Starting to load banned users
+[17:36.3] [CORE] Server is starting
+[17:36.3] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:36.3] [CHAT] Finished loading 2 banned users
+[17:36.3] [CORE] New user with ID /#-YXGoOLjkJZrLeEsAAAA trying to connect
+[17:36.53] [CHAT] Starting to load banned users
+[17:36.53] [CORE] Server is starting
+[17:36.53] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:36.53] [CHAT] Finished loading 2 banned users
+[17:36.55] [CORE] New user with ID /#xxqiasbAyYnVWTEbAAAA trying to connect
+[17:36.55] [CHAT] Handshake for User [/#xxqiasbAyYnVWTEbAAAA] completed
+[17:36.55] [CHAT] User [/#xxqiasbAyYnVWTEbAAAA] requested status: Handshake ok
+[17:40.10] [CHAT] Starting to load banned users
+[17:40.10] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:40.10] [CORE] Server is starting
+[17:40.10] [CHAT] Finished loading 3 banned users
+[17:40.16] [CORE] New user with ID /#m58yH41HxAHju1kGAAAA trying to connect
+[17:40.16] [CHAT] Handshake for User [/#m58yH41HxAHju1kGAAAA] completed
+[17:40.16] [CHAT] User [/#m58yH41HxAHju1kGAAAA] requested status: Handshake ok
+[17:40.19] [CHAT] User [/#m58yH41HxAHju1kGAAAA] tried calling command : /ban
+[17:41.21] [CHAT] Starting to load banned users
+[17:41.21] [CORE] Server is starting
+[17:41.21] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[17:41.21] [CHAT] Finished loading 3 banned users
+[17:41.21] [CORE] New user with ID /#iebPB8KKjMl8w_vwAAAA trying to connect
+[17:41.21] [CHAT] Handshake for User [/#iebPB8KKjMl8w_vwAAAA] completed
+[17:41.21] [CHAT] User [/#iebPB8KKjMl8w_vwAAAA] requested status: Handshake ok
+[17:41.25] [CHAT] User [/#iebPB8KKjMl8w_vwAAAA] tried calling command : /ban
+[17:41.28] [CORE] User with ID [/#iebPB8KKjMl8w_vwAAAA] disconnected
+[17:41.28] [CORE] New user with ID /#NFSOsQ-LSI7bs4yNAAAB trying to connect
+[17:41.28] [CHAT] Handshake for User [/#NFSOsQ-LSI7bs4yNAAAB] completed
+[17:41.28] [CHAT] User [/#NFSOsQ-LSI7bs4yNAAAB] requested status: Handshake ok
+[17:41.35] [CHAT] User [asdf] banned User asdfff
+[17:45.53] [CORE] New user with ID /#Vu1NHo92G4nRnC1pAAAC trying to connect
+[17:45.54] [CHAT] Handshake for User [/#Vu1NHo92G4nRnC1pAAAC] completed
+[17:45.54] [CHAT] User [/#Vu1NHo92G4nRnC1pAAAC] requested status: Handshake ok
+[17:46.8] [CHAT] User [asdf] banned User i
+[17:46.18] [CORE] User with ID [/#Vu1NHo92G4nRnC1pAAAC] disconnected
+[17:46.18] [CORE] New user with ID /#iFwxwloZKTUXEwT4AAAD trying to connect
+[17:46.18] [CHAT] Handshake for User [/#iFwxwloZKTUXEwT4AAAD] completed
+[17:46.18] [CHAT] User [/#iFwxwloZKTUXEwT4AAAD] requested status: Handshake ok
+[17:46.29] [CHAT] User [/#iFwxwloZKTUXEwT4AAAD] tried calling command : /ban
+[17:46.52] [CORE] User with ID [/#iFwxwloZKTUXEwT4AAAD] disconnected
+[18:36.56] [CHAT] Starting to load banned users
+[18:36.56] [CORE] Server is starting
+[18:36.56] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:36.56] [CHAT] Finished loading 5 banned users
+[18:38.18] [CORE] New user with ID /#idEQUBixEEVAcEOrAAAA trying to connect
+[18:38.18] [CHAT] Handshake for User [/#idEQUBixEEVAcEOrAAAA] completed
+[18:38.18] [CHAT] User [/#idEQUBixEEVAcEOrAAAA] requested status: Handshake ok
+[18:38.36] [CORE] User with ID [/#idEQUBixEEVAcEOrAAAA] disconnected
+[19:9.35] [CHAT] Starting to load banned users
+[19:9.35] [CORE] Server is starting
+[19:9.35] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:9.35] [CHAT] Finished loading 5 banned users
+[19:9.58] [CORE] New user with ID /#9LzNCNGi4VL6eVVTAAAA trying to connect
+[19:9.58] [CHAT] Handshake for User [/#9LzNCNGi4VL6eVVTAAAA] completed
+[19:9.58] [CHAT] User [/#9LzNCNGi4VL6eVVTAAAA] requested status: Handshake ok
+[19:10.2] [CORE] User with ID [/#9LzNCNGi4VL6eVVTAAAA] disconnected
+[19:18.43] [CHAT] Starting to load banned users
+[19:18.43] [CORE] Server is starting
+[19:18.43] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:18.43] [CHAT] Finished loading 5 banned users
+[19:18.43] [CORE] New user with ID /#_2-Etamr6Dlo20lqAAAA trying to connect
+[19:18.43] [CHAT] Handshake for User [/#_2-Etamr6Dlo20lqAAAA] completed
+[19:18.43] [CHAT] User [/#_2-Etamr6Dlo20lqAAAA] requested status: Handshake ok
+[19:18.47] [CHAT] User [/#_2-Etamr6Dlo20lqAAAA] sent message : fasf
+[19:21.40] [CHAT] Starting to load banned users
+[19:21.40] [CORE] Server is starting
+[19:21.40] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:21.40] [CHAT] Finished loading 5 banned users
+[19:21.40] [CORE] New user with ID /#jYoNm7Rp2OksFbjRAAAA trying to connect
+[19:21.40] [CHAT] Handshake for User [/#jYoNm7Rp2OksFbjRAAAA] completed
+[19:21.40] [CHAT] User [/#jYoNm7Rp2OksFbjRAAAA] requested status: Handshake ok
+[19:28.4] [CHAT] Starting to load banned users
+[19:28.4] [CORE] Server is starting
+[19:28.4] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:28.4] [CHAT] Finished loading 5 banned users
+[19:28.4] [CORE] New user with ID /#Jxzu9NnvZvVPxVi8AAAA trying to connect
+[19:28.4] [CHAT] Handshake for User [/#Jxzu9NnvZvVPxVi8AAAA] completed
+[19:28.4] [CHAT] User [/#Jxzu9NnvZvVPxVi8AAAA] requested status: Handshake ok
+[19:28.24] [CHAT] User [/#Jxzu9NnvZvVPxVi8AAAA] tried calling command : /ban
+[19:40.33] [CORE] User with ID [/#Jxzu9NnvZvVPxVi8AAAA] disconnected
+[19:40.33] [CORE] New user with ID /#Pgb9LQo9NKTSSsR_AAAB trying to connect
+[19:40.33] [CHAT] Handshake for User [/#Pgb9LQo9NKTSSsR_AAAB] completed
+[19:40.34] [CHAT] User [/#Pgb9LQo9NKTSSsR_AAAB] requested status: Handshake ok
+[19:49.31] [CORE] User with ID [/#Pgb9LQo9NKTSSsR_AAAB] disconnected
+[19:52.49] [CHAT] Starting to load banned users
+[19:52.49] [CORE] Server is starting
+[19:52.49] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:52.49] [CHAT] Finished loading 5 banned users
+[19:52.58] [CORE] New user with ID /#veyPQw4NpeAAAxSjAAAA trying to connect
+[19:52.58] [CHAT] Handshake for User [/#veyPQw4NpeAAAxSjAAAA] completed
+[19:52.58] [CHAT] User [/#veyPQw4NpeAAAxSjAAAA] requested status: Handshake ok
+[19:53.6] [CORE] User with ID [/#veyPQw4NpeAAAxSjAAAA] disconnected
+[19:53.35] [CHAT] Starting to load banned users
+[19:53.35] [CORE] Server is starting
+[19:53.35] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:53.35] [CHAT] Finished loading 5 banned users
+[19:53.36] [CORE] New user with ID /#iRYqgVIIRSX-XSIGAAAA trying to connect
+[19:53.36] [CHAT] Handshake for User [/#iRYqgVIIRSX-XSIGAAAA] completed
+[19:53.36] [CHAT] User [/#iRYqgVIIRSX-XSIGAAAA] requested status: Handshake ok
+[19:53.37] [CORE] User with ID [/#iRYqgVIIRSX-XSIGAAAA] disconnected
+[19:53.37] [CORE] New user with ID /#pdhI_uJSEIlPhj73AAAB trying to connect
+[19:53.37] [CHAT] Handshake for User [/#pdhI_uJSEIlPhj73AAAB] completed
+[19:53.37] [CHAT] User [/#pdhI_uJSEIlPhj73AAAB] requested status: Handshake ok
+[19:53.42] [CORE] User with ID [/#pdhI_uJSEIlPhj73AAAB] disconnected
+[20:7.8] [CHAT] Starting to load banned users
+[20:7.8] [CORE] Server is starting
+[20:7.8] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:7.8] [CHAT] Finished loading 5 banned users
+[20:36.22] [CHAT] Starting to load banned users
+[20:36.22] [CORE] Server is starting
+[20:36.22] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:36.22] [CHAT] Finished loading 5 banned users
+[20:37.8] [CORE] New user with ID /#7MxNbvzoSyDxcPvoAAAA trying to connect
+[20:37.8] [CHAT] Handshake for User [/#7MxNbvzoSyDxcPvoAAAA] completed
+[20:37.8] [CHAT] User [/#7MxNbvzoSyDxcPvoAAAA] requested status: Handshake ok
+[20:39.14] [CHAT] Starting to load banned users
+[20:39.14] [CORE] Server is starting
+[20:39.14] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:39.14] [CHAT] Finished loading 5 banned users
+[20:39.15] [CORE] New user with ID /#vfZ9sfDdBRrrLDq6AAAA trying to connect
+[20:39.15] [CHAT] Handshake for User [/#vfZ9sfDdBRrrLDq6AAAA] completed
+[20:39.15] [CHAT] User [/#vfZ9sfDdBRrrLDq6AAAA] requested status: Handshake ok
+[20:40.17] [CHAT] Starting to load banned users
+[20:40.17] [CORE] Server is starting
+[20:40.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:40.17] [CHAT] Finished loading 5 banned users
+[20:40.17] [CORE] New user with ID /#z11CKsKHTGnRzYZUAAAA trying to connect
+[20:40.17] [CHAT] Handshake for User [/#z11CKsKHTGnRzYZUAAAA] completed
+[20:40.17] [CHAT] User [/#z11CKsKHTGnRzYZUAAAA] requested status: Handshake ok
+[20:41.55] [CHAT] Starting to load banned users
+[20:41.55] [CORE] Server is starting
+[20:41.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:41.55] [CHAT] Finished loading 5 banned users
+[20:41.55] [CORE] New user with ID /#PnRQURsz9JVVrRnMAAAA trying to connect
+[20:41.55] [CHAT] Handshake for User [/#PnRQURsz9JVVrRnMAAAA] completed
+[20:41.55] [CHAT] User [/#PnRQURsz9JVVrRnMAAAA] requested status: Handshake ok
+[20:41.58] [CORE] User with ID [/#PnRQURsz9JVVrRnMAAAA] disconnected
+[20:47.53] [CHAT] Starting to load banned users
+[20:47.53] [CORE] Server is starting
+[20:47.53] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:47.53] [CHAT] Finished loading 5 banned users
+[20:47.53] [CORE] New user with ID /#M7-bWFbZuxkSAItYAAAA trying to connect
+[20:47.53] [CHAT] Handshake for User [/#M7-bWFbZuxkSAItYAAAA] completed
+[20:47.53] [CHAT] User [/#M7-bWFbZuxkSAItYAAAA] requested status: Handshake ok
+[20:47.56] [CORE] User with ID [/#M7-bWFbZuxkSAItYAAAA] disconnected
+[20:48.16] [CHAT] Starting to load banned users
+[20:48.16] [CORE] Server is starting
+[20:48.16] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:48.16] [CHAT] Finished loading 5 banned users
+[20:48.16] [CORE] New user with ID /#N9smYf6S4XBrlucgAAAA trying to connect
+[20:48.16] [CHAT] Handshake for User [/#N9smYf6S4XBrlucgAAAA] completed
+[20:48.16] [CHAT] User [/#N9smYf6S4XBrlucgAAAA] requested status: Handshake ok
+[20:51.21] [CORE] User with ID [/#N9smYf6S4XBrlucgAAAA] disconnected
+[20:8.22] [CHAT] Starting to load banned users
+[20:8.22] [CORE] Server is starting
+[20:8.22] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:8.22] [CHAT] Finished loading 5 banned users
+[20:17.40] [CHAT] Starting to load banned users
+[20:17.40] [CORE] Server is starting
+[20:17.40] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:17.40] [CHAT] Finished loading 5 banned users
+[20:17.45] [CORE] New user with ID [/#xqxqR18NFmD_ZHecAAAA] trying to connect
+[20:17.46] [CHAT] Handshake for User [/#xqxqR18NFmD_ZHecAAAA] completed
+[20:17.46] [CHAT] User [/#xqxqR18NFmD_ZHecAAAA] indetified as name [asdf]
+[20:17.46] [CHAT] User [/#xqxqR18NFmD_ZHecAAAA] requested status: Handshake ok
+[20:18.18] [CORE] User with ID [/#xqxqR18NFmD_ZHecAAAA] disconnected
+[20:18.18] [CORE] New user with ID [/#bGlh69ESzv42cRNUAAAB] trying to connect
+[20:18.18] [CHAT] Handshake for User [/#bGlh69ESzv42cRNUAAAB] completed
+[20:18.18] [CHAT] User [/#bGlh69ESzv42cRNUAAAB] indetified as name [asdf]
+[20:18.18] [CHAT] User [/#bGlh69ESzv42cRNUAAAB] requested status: Handshake ok
+[20:19.4] [CORE] User with ID [/#bGlh69ESzv42cRNUAAAB] disconnected
+[20:19.4] [CORE] New user with ID [/#snWXGhZt0AF_CDMmAAAC] trying to connect
+[20:19.4] [CHAT] Handshake for User [/#snWXGhZt0AF_CDMmAAAC] completed
+[20:19.4] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] indetified as name [asdf]
+[20:19.4] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] requested status: Handshake ok
+[20:21.17] [CHAT] User [hello] banned User ui
+[20:22.22] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] sent message : ass
+[20:22.39] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] sent message : asdf
+[20:23.8] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] sent message : asdf
+[20:23.18] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] sent message : asd
+[20:23.56] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] sent message : jasfd
+[20:23.58] [CHAT] User [/#snWXGhZt0AF_CDMmAAAC] sent message : qwerl
+[20:25.2] [CORE] New user with ID [/#DLAMV0BMBmSSNJNjAAAD] trying to connect
+[20:25.2] [CHAT] Handshake for User [/#DLAMV0BMBmSSNJNjAAAD] completed
+[20:25.2] [CHAT] User [/#DLAMV0BMBmSSNJNjAAAD] indetified as name [asdf]
+[20:25.2] [CHAT] User [/#DLAMV0BMBmSSNJNjAAAD] requested status: Handshake ok
+[20:25.7] [CORE] User with ID [/#DLAMV0BMBmSSNJNjAAAD] disconnected
+[20:25.7] [CORE] New user with ID [/#sXkcBwgGr8EWEpcMAAAE] trying to connect
+[20:25.20] [CHAT] Starting to load banned users
+[20:25.20] [CORE] Server is starting
+[20:25.20] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:25.20] [CHAT] Finished loading 6 banned users
+[20:25.20] [CORE] New user with ID [/#cZORV11OsZBXN24UAAAA] trying to connect
+[20:25.21] [CORE] New user with ID [/#1kLYzmonWVfxrtjCAAAB] trying to connect
+[20:25.21] [CHAT] Handshake for User [/#1kLYzmonWVfxrtjCAAAB] completed
+[20:25.21] [CHAT] User [/#1kLYzmonWVfxrtjCAAAB] indentified as name [asdf]
+[20:25.22] [CHAT] User [/#1kLYzmonWVfxrtjCAAAB] requested status: Handshake ok
+[20:27.30] [CHAT] Starting to load banned users
+[20:27.30] [CORE] Server is starting
+[20:27.30] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:27.30] [CHAT] Finished loading 6 banned users
+[20:27.30] [CORE] New user with ID [/#f-xOQYuDnwcNzYHyAAAA] trying to connect
+[20:27.30] [CHAT] Handshake for User [/#f-xOQYuDnwcNzYHyAAAA] completed
+[20:27.30] [CHAT] User [/#f-xOQYuDnwcNzYHyAAAA] indentified as name [asdf]
+[20:27.30] [CHAT] User [/#f-xOQYuDnwcNzYHyAAAA] requested status: Handshake ok
+[20:27.30] [CORE] New user with ID [/#diJbcFQveCR4UkZNAAAB] trying to connect
+[20:27.30] [CHAT] Handshake for User [/#diJbcFQveCR4UkZNAAAB] completed
+[20:27.30] [CHAT] User [/#diJbcFQveCR4UkZNAAAB] indentified as name [asdff]
+[20:27.30] [CHAT] User [/#diJbcFQveCR4UkZNAAAB] requested status: Handshake ok
+[20:27.43] [CHAT] User [/#diJbcFQveCR4UkZNAAAB] sent message : asdf
+[20:29.23] [CHAT] Starting to load banned users
+[20:29.23] [CORE] Server is starting
+[20:29.23] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:29.23] [CHAT] Finished loading 6 banned users
+[20:29.23] [CORE] New user with ID [/#C0C4xGDqU2hhCKAHAAAA] trying to connect
+[20:29.23] [CHAT] Handshake for User [/#C0C4xGDqU2hhCKAHAAAA] completed
+[20:29.23] [CHAT] User [/#C0C4xGDqU2hhCKAHAAAA] indentified as name [asdf]
+[20:29.24] [CHAT] User [/#C0C4xGDqU2hhCKAHAAAA] requested status: Handshake ok
+[20:29.24] [CORE] New user with ID [/#tAs8L5G3u17Dm8hSAAAB] trying to connect
+[20:29.24] [CHAT] Handshake for User [/#tAs8L5G3u17Dm8hSAAAB] completed
+[20:29.24] [CHAT] User [/#tAs8L5G3u17Dm8hSAAAB] indentified as name [asdff]
+[20:29.25] [CHAT] User [/#tAs8L5G3u17Dm8hSAAAB] requested status: Handshake ok
+[20:29.38] [CHAT] User [/#tAs8L5G3u17Dm8hSAAAB] sent message : asdf
+[20:30.14] [CHAT] Starting to load banned users
+[20:30.14] [CORE] Server is starting
+[20:30.14] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:30.14] [CHAT] Finished loading 6 banned users
+[20:30.15] [CORE] New user with ID [/#t9orgs0mgl2w4mIVAAAA] trying to connect
+[20:30.15] [CHAT] Handshake for User [/#t9orgs0mgl2w4mIVAAAA] completed
+[20:30.15] [CHAT] User [/#t9orgs0mgl2w4mIVAAAA] indentified as name [asdff]
+[20:30.15] [CHAT] User [/#t9orgs0mgl2w4mIVAAAA] requested status: Handshake ok
+[20:30.15] [CORE] New user with ID [/#x70ePX9dSa3eCjEVAAAB] trying to connect
+[20:30.15] [CHAT] Handshake for User [/#x70ePX9dSa3eCjEVAAAB] completed
+[20:30.15] [CHAT] User [/#x70ePX9dSa3eCjEVAAAB] indentified as name [asdf]
+[20:30.16] [CHAT] User [/#x70ePX9dSa3eCjEVAAAB] requested status: Handshake ok
+[20:30.24] [CHAT] User [/#t9orgs0mgl2w4mIVAAAA] sent message : asdf
+[20:30.55] [CHAT] Starting to load banned users
+[20:30.55] [CORE] Server is starting
+[20:30.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:30.55] [CHAT] Finished loading 6 banned users
+[20:30.55] [CORE] New user with ID [/#0hHfM-3vYtAbTINoAAAA] trying to connect
+[20:30.55] [CHAT] Handshake for User [/#0hHfM-3vYtAbTINoAAAA] completed
+[20:30.55] [CHAT] User [/#0hHfM-3vYtAbTINoAAAA] indentified as name [asdff]
+[20:30.55] [CHAT] User [/#0hHfM-3vYtAbTINoAAAA] requested status: Handshake ok
+[20:30.58] [CORE] New user with ID [/#U9MBdB4rXItuMAd4AAAB] trying to connect
+[20:30.58] [CHAT] Handshake for User [/#U9MBdB4rXItuMAd4AAAB] completed
+[20:30.58] [CHAT] User [/#U9MBdB4rXItuMAd4AAAB] indentified as name [asdf]
+[20:30.58] [CHAT] User [/#U9MBdB4rXItuMAd4AAAB] requested status: Handshake ok
+[20:31.7] [CHAT] User [/#0hHfM-3vYtAbTINoAAAA] sent message : asdf
+[20:31.30] [CHAT] User [/#0hHfM-3vYtAbTINoAAAA] sent message : asdf
+[20:31.59] [CHAT] Starting to load banned users
+[20:31.59] [CORE] Server is starting
+[20:32.0] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:32.0] [CHAT] Finished loading 6 banned users
+[20:32.0] [CORE] New user with ID [/#LrO90xlBbV8CTwSHAAAA] trying to connect
+[20:32.0] [CHAT] Handshake for User [/#LrO90xlBbV8CTwSHAAAA] completed
+[20:32.0] [CHAT] User [/#LrO90xlBbV8CTwSHAAAA] indentified as name [asdff]
+[20:32.0] [CORE] New user with ID [/#KwL39orZUZwTcl1qAAAB] trying to connect
+[20:32.0] [CHAT] User [/#LrO90xlBbV8CTwSHAAAA] requested status: Handshake ok
+[20:32.0] [CHAT] Handshake for User [/#KwL39orZUZwTcl1qAAAB] completed
+[20:32.0] [CHAT] User [/#KwL39orZUZwTcl1qAAAB] indentified as name [asdf]
+[20:32.0] [CHAT] User [/#KwL39orZUZwTcl1qAAAB] requested status: Handshake ok
+[20:32.7] [CHAT] User [/#LrO90xlBbV8CTwSHAAAA] sent message : asdf
+[20:32.37] [CHAT] Starting to load banned users
+[20:32.37] [CORE] Server is starting
+[20:32.37] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:32.37] [CORE] New user with ID [/#uwCGp2xqEFOjKnY8AAAA] trying to connect
+[20:32.37] [CHAT] Finished loading 6 banned users
+[20:32.37] [CHAT] Handshake for User [/#uwCGp2xqEFOjKnY8AAAA] completed
+[20:32.37] [CHAT] User [/#uwCGp2xqEFOjKnY8AAAA] indentified as name [asdf]
+[20:32.37] [CHAT] User [/#uwCGp2xqEFOjKnY8AAAA] requested status: Handshake ok
+[20:32.37] [CORE] New user with ID [/#4_T8-hz56oooKjAQAAAB] trying to connect
+[20:32.37] [CHAT] Handshake for User [/#4_T8-hz56oooKjAQAAAB] completed
+[20:32.37] [CHAT] User [/#4_T8-hz56oooKjAQAAAB] indentified as name [asdff]
+[20:32.37] [CHAT] User [/#4_T8-hz56oooKjAQAAAB] requested status: Handshake ok
+[20:33.6] [CHAT] Starting to load banned users
+[20:33.6] [CORE] Server is starting
+[20:33.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:33.6] [CHAT] Finished loading 6 banned users
+[20:33.9] [CORE] New user with ID [/#NWadITWEWgYXaoSHAAAA] trying to connect
+[20:33.9] [CHAT] Handshake for User [/#NWadITWEWgYXaoSHAAAA] completed
+[20:33.9] [CHAT] User [/#NWadITWEWgYXaoSHAAAA] indentified as name [asdff]
+[20:33.9] [CHAT] User [/#NWadITWEWgYXaoSHAAAA] requested status: Handshake ok
+[20:33.9] [CORE] New user with ID [/#3Lz3sCukMhusncZLAAAB] trying to connect
+[20:33.9] [CHAT] Handshake for User [/#3Lz3sCukMhusncZLAAAB] completed
+[20:33.9] [CHAT] User [/#3Lz3sCukMhusncZLAAAB] indentified as name [asdf]
+[20:33.9] [CHAT] User [/#3Lz3sCukMhusncZLAAAB] requested status: Handshake ok
+[20:33.57] [CHAT] Starting to load banned users
+[20:33.57] [CORE] Server is starting
+[20:33.57] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:33.57] [CHAT] Finished loading 6 banned users
+[20:33.57] [CORE] New user with ID [/#vIzM94tUtlhj-vtiAAAA] trying to connect
+[20:33.57] [CORE] New user with ID [/#d9ByiFUot_Sw0INOAAAB] trying to connect
+[20:33.57] [CHAT] Handshake for User [/#vIzM94tUtlhj-vtiAAAA] completed
+[20:33.57] [CHAT] User [/#vIzM94tUtlhj-vtiAAAA] indentified as name [asdf]
+[20:33.57] [CHAT] User [/#vIzM94tUtlhj-vtiAAAA] requested status: Handshake ok
+[20:33.58] [CHAT] Handshake for User [/#d9ByiFUot_Sw0INOAAAB] completed
+[20:33.58] [CHAT] User [/#d9ByiFUot_Sw0INOAAAB] indentified as name [asdff]
+[20:33.58] [CHAT] User [/#d9ByiFUot_Sw0INOAAAB] requested status: Handshake ok
+[20:35.22] [CHAT] Starting to load banned users
+[20:35.22] [CORE] Server is starting
+[20:35.22] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:35.22] [CHAT] Finished loading 6 banned users
+[20:35.22] [CORE] New user with ID [/#swRVzJnOI9YVHFPDAAAA] trying to connect
+[20:35.22] [CHAT] Handshake for User [/#swRVzJnOI9YVHFPDAAAA] completed
+[20:35.22] [CHAT] User [/#swRVzJnOI9YVHFPDAAAA] indentified as name [asdf]
+[20:35.22] [CHAT] User [/#swRVzJnOI9YVHFPDAAAA] requested status: Handshake ok
+[20:35.23] [CORE] New user with ID [/#h-onTxmU5OvY6SEkAAAB] trying to connect
+[20:35.23] [CHAT] Handshake for User [/#h-onTxmU5OvY6SEkAAAB] completed
+[20:35.23] [CHAT] User [/#h-onTxmU5OvY6SEkAAAB] indentified as name [asdff]
+[20:35.24] [CHAT] User [/#h-onTxmU5OvY6SEkAAAB] requested status: Handshake ok
+[20:35.26] [CORE] User with ID [/#swRVzJnOI9YVHFPDAAAA] disconnected
+[20:37.9] [CHAT] Starting to load banned users
+[20:37.9] [CORE] Server is starting
+[20:37.9] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:37.9] [CHAT] Finished loading 6 banned users
+[20:37.9] [CORE] New user with ID [/#Zj_wvlIZI0lBSfN9AAAA] trying to connect
+[20:37.9] [CORE] New user with ID [/#AK87nQI09fFRCPYyAAAB] trying to connect
+[20:37.9] [CHAT] Handshake for User [/#AK87nQI09fFRCPYyAAAB] completed
+[20:37.9] [CHAT] User [/#AK87nQI09fFRCPYyAAAB] indentified as name [asdff]
+[20:37.9] [CHAT] Handshake for User [/#Zj_wvlIZI0lBSfN9AAAA] completed
+[20:37.9] [CHAT] User [/#Zj_wvlIZI0lBSfN9AAAA] indentified as name [asdf]
+[20:37.9] [CHAT] User [/#AK87nQI09fFRCPYyAAAB] requested status: Handshake ok
+[20:37.9] [CHAT] User [/#Zj_wvlIZI0lBSfN9AAAA] requested status: Handshake ok
+[20:37.16] [CHAT] User [/#AK87nQI09fFRCPYyAAAB] sent message : sa
+[20:37.56] [CHAT] Starting to load banned users
+[20:37.56] [CORE] Server is starting
+[20:37.56] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:37.56] [CHAT] Finished loading 6 banned users
+[20:37.57] [CORE] New user with ID [/#GfGKK4CHZmrCVKNKAAAA] trying to connect
+[20:37.57] [CORE] New user with ID [/#YHcsH87gdtkSdk0ZAAAB] trying to connect
+[20:37.57] [CHAT] Handshake for User [/#YHcsH87gdtkSdk0ZAAAB] completed
+[20:37.57] [CHAT] User [/#YHcsH87gdtkSdk0ZAAAB] indentified as name [asdff]
+[20:37.57] [CHAT] Handshake for User [/#GfGKK4CHZmrCVKNKAAAA] completed
+[20:37.57] [CHAT] User [/#GfGKK4CHZmrCVKNKAAAA] indentified as name [asdf]
+[20:37.57] [CHAT] User [/#YHcsH87gdtkSdk0ZAAAB] requested status: Handshake ok
+[20:37.57] [CHAT] User [/#GfGKK4CHZmrCVKNKAAAA] requested status: Handshake ok
+[20:38.55] [CHAT] Starting to load banned users
+[20:38.55] [CORE] Server is starting
+[20:38.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:38.55] [CHAT] Finished loading 6 banned users
+[20:38.55] [CORE] New user with ID [/#h45wx68TyXKkvSdKAAAA] trying to connect
+[20:38.55] [CHAT] Handshake for User [/#h45wx68TyXKkvSdKAAAA] completed
+[20:38.55] [CHAT] User [/#h45wx68TyXKkvSdKAAAA] indentified as name [asdf]
+[20:38.55] [CHAT] User [/#h45wx68TyXKkvSdKAAAA] requested status: Handshake ok
+[20:38.56] [CORE] New user with ID [/#vjLhjg2F4TGfPGmFAAAB] trying to connect
+[20:38.56] [CHAT] Handshake for User [/#vjLhjg2F4TGfPGmFAAAB] completed
+[20:38.56] [CHAT] User [/#vjLhjg2F4TGfPGmFAAAB] indentified as name [asdff]
+[20:38.57] [CHAT] User [/#vjLhjg2F4TGfPGmFAAAB] requested status: Handshake ok
+[20:39.12] [CHAT] User [/#vjLhjg2F4TGfPGmFAAAB] sent message : ysdf
+[20:40.24] [CHAT] Starting to load banned users
+[20:40.24] [CORE] Server is starting
+[20:40.24] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:40.24] [CHAT] Finished loading 6 banned users
+[20:40.24] [CORE] New user with ID [/#5vw_7Yq8oNZtPR1XAAAA] trying to connect
+[20:40.24] [CHAT] Handshake for User [/#5vw_7Yq8oNZtPR1XAAAA] completed
+[20:40.24] [CHAT] User [/#5vw_7Yq8oNZtPR1XAAAA] indentified as name [asdf]
+[20:40.24] [CHAT] User [/#5vw_7Yq8oNZtPR1XAAAA] requested status: Handshake ok
+[20:40.24] [CORE] New user with ID [/#_RxxE5QM9Dr0THmnAAAB] trying to connect
+[20:40.25] [CHAT] Handshake for User [/#_RxxE5QM9Dr0THmnAAAB] completed
+[20:40.25] [CHAT] User [/#_RxxE5QM9Dr0THmnAAAB] indentified as name [asdff]
+[20:40.25] [CHAT] User [/#_RxxE5QM9Dr0THmnAAAB] requested status: Handshake ok
+[20:40.32] [CHAT] User [/#_RxxE5QM9Dr0THmnAAAB] sent message : asdf
+[20:41.0] [CHAT] Starting to load banned users
+[20:41.0] [CORE] Server is starting
+[20:41.0] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:41.0] [CHAT] Finished loading 6 banned users
+[20:41.1] [CORE] New user with ID [/#Mq1jdduJt9MyC17UAAAA] trying to connect
+[20:41.1] [CHAT] Handshake for User [/#Mq1jdduJt9MyC17UAAAA] completed
+[20:41.1] [CHAT] User [/#Mq1jdduJt9MyC17UAAAA] indentified as name [asdff]
+[20:41.1] [CHAT] User [/#Mq1jdduJt9MyC17UAAAA] requested status: Handshake ok
+[20:41.1] [CORE] New user with ID [/#kbZO9TVkaUycreEgAAAB] trying to connect
+[20:41.1] [CHAT] Handshake for User [/#kbZO9TVkaUycreEgAAAB] completed
+[20:41.1] [CHAT] User [/#kbZO9TVkaUycreEgAAAB] indentified as name [asdf]
+[20:41.1] [CHAT] User [/#kbZO9TVkaUycreEgAAAB] requested status: Handshake ok
+[20:41.5] [CHAT] User [/#Mq1jdduJt9MyC17UAAAA] sent message : as
+[20:41.25] [CHAT] Starting to load banned users
+[20:41.25] [CORE] Server is starting
+[20:41.25] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:41.25] [CHAT] Finished loading 6 banned users
+[20:41.25] [CORE] New user with ID [/#bNZbEvqVEFPj1ieYAAAA] trying to connect
+[20:41.25] [CHAT] Handshake for User [/#bNZbEvqVEFPj1ieYAAAA] completed
+[20:41.25] [CHAT] User [/#bNZbEvqVEFPj1ieYAAAA] indentified as name [asdff]
+[20:41.25] [CHAT] User [/#bNZbEvqVEFPj1ieYAAAA] requested status: Handshake ok
+[20:41.26] [CORE] New user with ID [/#ZxsHpP1NmKeXoQhhAAAB] trying to connect
+[20:41.26] [CHAT] Handshake for User [/#ZxsHpP1NmKeXoQhhAAAB] completed
+[20:41.26] [CHAT] User [/#ZxsHpP1NmKeXoQhhAAAB] indentified as name [asdf]
+[20:41.27] [CHAT] User [/#ZxsHpP1NmKeXoQhhAAAB] requested status: Handshake ok
+[20:41.29] [CORE] User with ID [/#ZxsHpP1NmKeXoQhhAAAB] disconnected
+[20:42.17] [CHAT] Starting to load banned users
+[20:42.17] [CORE] Server is starting
+[20:42.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:42.17] [CHAT] Finished loading 6 banned users
+[20:42.17] [CORE] New user with ID [/#NKm2pkQGCMdjt5wWAAAA] trying to connect
+[20:42.17] [CHAT] Handshake for User [/#NKm2pkQGCMdjt5wWAAAA] completed
+[20:42.17] [CHAT] User [/#NKm2pkQGCMdjt5wWAAAA] indentified as name [asdf]
+[20:42.17] [CHAT] User [/#NKm2pkQGCMdjt5wWAAAA] requested status: Handshake ok
+[20:42.18] [CORE] New user with ID [/#Hlo_2Qj44TD7UfPdAAAB] trying to connect
+[20:42.18] [CHAT] Handshake for User [/#Hlo_2Qj44TD7UfPdAAAB] completed
+[20:42.18] [CHAT] User [/#Hlo_2Qj44TD7UfPdAAAB] indentified as name [asdff]
+[20:42.19] [CHAT] User [/#Hlo_2Qj44TD7UfPdAAAB] requested status: Handshake ok
+[21:10.44] [CHAT] Starting to load banned users
+[21:10.44] [CORE] Server is starting
+[21:10.44] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:10.44] [CHAT] Finished loading 6 banned users
+[21:10.44] [CORE] New user with ID [/#n2AqKfa_yxSIDMZiAAAA] trying to connect
+[21:10.44] [CORE] New user with ID [/#UZL6CFm8mKbcQ-klAAAB] trying to connect
+[21:10.44] [CHAT] Handshake for User [/#UZL6CFm8mKbcQ-klAAAB] completed
+[21:10.44] [CHAT] User [/#UZL6CFm8mKbcQ-klAAAB] indentified as name [asdff]
+[21:10.44] [CHAT] Handshake for User [/#n2AqKfa_yxSIDMZiAAAA] completed
+[21:10.44] [CHAT] User [/#n2AqKfa_yxSIDMZiAAAA] indentified as name [asdf]
+[21:10.44] [CHAT] User [/#UZL6CFm8mKbcQ-klAAAB] requested status: Handshake ok
+[21:10.44] [CHAT] User [/#n2AqKfa_yxSIDMZiAAAA] requested status: Handshake ok
+[21:11.2] [CORE] User with ID [/#UZL6CFm8mKbcQ-klAAAB] disconnected
+[21:11.2] [CORE] New user with ID [/#nJAqIjKoerBoBuh2AAAC] trying to connect
+[21:11.2] [CHAT] Handshake for User [/#nJAqIjKoerBoBuh2AAAC] completed
+[21:11.2] [CHAT] User [/#nJAqIjKoerBoBuh2AAAC] indentified as name [asdff]
+[21:11.2] [CHAT] User [/#nJAqIjKoerBoBuh2AAAC] requested status: Handshake ok
+[21:11.29] [CORE] User with ID [/#n2AqKfa_yxSIDMZiAAAA] disconnected
+[21:11.29] [CORE] New user with ID [/#HQghR_yVmJvfRvRuAAAD] trying to connect
+[21:11.29] [CHAT] Handshake for User [/#HQghR_yVmJvfRvRuAAAD] completed
+[21:11.29] [CHAT] User [/#HQghR_yVmJvfRvRuAAAD] indentified as name [asdf]
+[21:11.29] [CHAT] User [/#HQghR_yVmJvfRvRuAAAD] requested status: Handshake ok
+[21:11.31] [CORE] User with ID [/#nJAqIjKoerBoBuh2AAAC] disconnected
+[21:11.31] [CORE] New user with ID [/#0yK1n0yugnGzRw7oAAAE] trying to connect
+[21:11.31] [CHAT] Handshake for User [/#0yK1n0yugnGzRw7oAAAE] completed
+[21:11.31] [CHAT] User [/#0yK1n0yugnGzRw7oAAAE] indentified as name [asdff]
+[21:11.31] [CHAT] User [/#0yK1n0yugnGzRw7oAAAE] requested status: Handshake ok
+[21:13.1] [CHAT] Starting to load banned users
+[21:13.1] [CORE] Server is starting
+[21:13.1] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:13.1] [CHAT] Finished loading 6 banned users
+[21:13.1] [CORE] New user with ID [/#qa-05Blq37em-BrDAAAA] trying to connect
+[21:13.1] [CHAT] Handshake for User [/#qa-05Blq37em-BrDAAAA] completed
+[21:13.1] [CHAT] User [/#qa-05Blq37em-BrDAAAA] indentified as name [asdff]
+[21:13.1] [CHAT] User [/#qa-05Blq37em-BrDAAAA] requested status: Handshake ok
+[21:13.3] [CORE] New user with ID [/#V76pKgrPYwKL9s7mAAAB] trying to connect
+[21:13.3] [CHAT] Handshake for User [/#V76pKgrPYwKL9s7mAAAB] completed
+[21:13.3] [CHAT] User [/#V76pKgrPYwKL9s7mAAAB] indentified as name [asdf]
+[21:13.3] [CHAT] User [/#V76pKgrPYwKL9s7mAAAB] requested status: Handshake ok
+[21:13.56] [CHAT] Starting to load banned users
+[21:13.56] [CORE] Server is starting
+[21:13.56] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:13.56] [CHAT] Finished loading 6 banned users
+[21:13.56] [CORE] New user with ID [/#iJkU08Murk8jjGNJAAAA] trying to connect
+[21:13.56] [CORE] New user with ID [/#N4xiPE7S_3biRIcVAAAB] trying to connect
+[21:13.56] [CHAT] Handshake for User [/#iJkU08Murk8jjGNJAAAA] completed
+[21:13.56] [CHAT] User [/#iJkU08Murk8jjGNJAAAA] indentified as name [asdff]
+[21:13.56] [CHAT] Handshake for User [/#N4xiPE7S_3biRIcVAAAB] completed
+[21:13.56] [CHAT] User [/#N4xiPE7S_3biRIcVAAAB] indentified as name [asdf]
+[21:13.56] [CHAT] User [/#N4xiPE7S_3biRIcVAAAB] requested status: Handshake ok
+[21:13.56] [CHAT] User [/#iJkU08Murk8jjGNJAAAA] requested status: Handshake ok
+[21:13.59] [CHAT] User [/#N4xiPE7S_3biRIcVAAAB] sent message : sxcv
+[21:14.5] [CORE] User with ID [/#iJkU08Murk8jjGNJAAAA] disconnected
+[21:14.48] [CHAT] Starting to load banned users
+[21:14.48] [CORE] Server is starting
+[21:14.48] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:14.48] [CHAT] Finished loading 6 banned users
+[21:14.48] [CORE] New user with ID [/#wKPShULu7Tz7WiNaAAAA] trying to connect
+[21:14.48] [CORE] New user with ID [/#u9m0M97sF21-gZr8AAAB] trying to connect
+[21:14.48] [CHAT] Handshake for User [/#u9m0M97sF21-gZr8AAAB] completed
+[21:14.48] [CHAT] User [/#u9m0M97sF21-gZr8AAAB] indentified as name [asdf]
+[21:14.48] [CHAT] User [/#u9m0M97sF21-gZr8AAAB] requested status: Handshake ok
+[21:14.48] [CHAT] Handshake for User [/#wKPShULu7Tz7WiNaAAAA] completed
+[21:14.48] [CHAT] User [/#wKPShULu7Tz7WiNaAAAA] indentified as name [asdff]
+[21:14.48] [CHAT] User [/#wKPShULu7Tz7WiNaAAAA] requested status: Handshake ok
+[21:15.30] [CHAT] Starting to load banned users
+[21:15.30] [CORE] Server is starting
+[21:15.30] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:15.30] [CHAT] Finished loading 6 banned users
+[21:15.30] [CORE] New user with ID [/#kms2RxcPNsZNZ9oTAAAA] trying to connect
+[21:15.30] [CHAT] Handshake for User [/#kms2RxcPNsZNZ9oTAAAA] completed
+[21:15.30] [CHAT] User [/#kms2RxcPNsZNZ9oTAAAA] indentified as name [asdff]
+[21:15.30] [CHAT] User [/#kms2RxcPNsZNZ9oTAAAA] requested status: Handshake ok
+[21:15.31] [CORE] New user with ID [/#v5qPNdOgkreeCTiZAAAB] trying to connect
+[21:15.31] [CHAT] Handshake for User [/#v5qPNdOgkreeCTiZAAAB] completed
+[21:15.31] [CHAT] User [/#v5qPNdOgkreeCTiZAAAB] indentified as name [asdf]
+[21:15.32] [CHAT] User [/#v5qPNdOgkreeCTiZAAAB] requested status: Handshake ok
+[21:16.25] [CHAT] Starting to load banned users
+[21:16.25] [CORE] Server is starting
+[21:16.25] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:16.25] [CHAT] Finished loading 6 banned users
+[21:16.28] [CORE] New user with ID [/#gXCkIhY9VgbpNCSzAAAA] trying to connect
+[21:16.28] [CHAT] Handshake for User [/#gXCkIhY9VgbpNCSzAAAA] completed
+[21:16.28] [CHAT] User [/#gXCkIhY9VgbpNCSzAAAA] indentified as name [asdf]
+[21:16.28] [CHAT] User [/#gXCkIhY9VgbpNCSzAAAA] requested status: Handshake ok
+[21:16.28] [CORE] New user with ID [/#sx4mkj-UqquQeN5vAAAB] trying to connect
+[21:16.28] [CHAT] Handshake for User [/#sx4mkj-UqquQeN5vAAAB] completed
+[21:16.28] [CHAT] User [/#sx4mkj-UqquQeN5vAAAB] indentified as name [asdff]
+[21:16.28] [CHAT] User [/#sx4mkj-UqquQeN5vAAAB] requested status: Handshake ok
+[21:17.39] [CHAT] Starting to load banned users
+[21:17.39] [CORE] Server is starting
+[21:17.39] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:17.39] [CHAT] Finished loading 6 banned users
+[21:17.42] [CORE] New user with ID [/#Jyt36Z0V_VjDsLPbAAAA] trying to connect
+[21:17.42] [CORE] New user with ID [/#oapUNvqmsuJvnaDcAAAB] trying to connect
+[21:17.42] [CHAT] Handshake for User [/#Jyt36Z0V_VjDsLPbAAAA] completed
+[21:17.42] [CHAT] User [/#Jyt36Z0V_VjDsLPbAAAA] indentified as name [asdf]
+[21:17.42] [CHAT] Handshake for User [/#oapUNvqmsuJvnaDcAAAB] completed
+[21:17.42] [CHAT] User [/#oapUNvqmsuJvnaDcAAAB] indentified as name [asdff]
+[21:17.42] [CHAT] User [/#Jyt36Z0V_VjDsLPbAAAA] requested status: Handshake ok
+[21:17.42] [CHAT] User [/#oapUNvqmsuJvnaDcAAAB] requested status: Handshake ok
+[21:17.45] [CORE] User with ID [/#Jyt36Z0V_VjDsLPbAAAA] disconnected
+[21:17.45] [CORE] New user with ID [/#GEC2lJzdHh6imbYPAAAC] trying to connect
+[21:17.45] [CHAT] Handshake for User [/#GEC2lJzdHh6imbYPAAAC] completed
+[21:17.45] [CHAT] User [/#GEC2lJzdHh6imbYPAAAC] indentified as name [asdf]
+[21:17.45] [CHAT] User [/#GEC2lJzdHh6imbYPAAAC] requested status: Handshake ok
+[21:18.27] [CHAT] Starting to load banned users
+[21:18.27] [CORE] Server is starting
+[21:18.27] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:18.27] [CHAT] Finished loading 6 banned users
+[21:18.27] [CORE] New user with ID [/#dY9kYTnSJRtobm9KAAAA] trying to connect
+[21:18.27] [CHAT] Handshake for User [/#dY9kYTnSJRtobm9KAAAA] completed
+[21:18.27] [CHAT] User [/#dY9kYTnSJRtobm9KAAAA] indentified as name [asdff]
+[21:18.27] [CHAT] User [/#dY9kYTnSJRtobm9KAAAA] requested status: Handshake ok
+[21:18.28] [CORE] New user with ID [/#jM5qNzfmYWDjzuQ0AAAB] trying to connect
+[21:18.28] [CHAT] Handshake for User [/#jM5qNzfmYWDjzuQ0AAAB] completed
+[21:18.28] [CHAT] User [/#jM5qNzfmYWDjzuQ0AAAB] indentified as name [asdf]
+[21:18.29] [CHAT] User [/#jM5qNzfmYWDjzuQ0AAAB] requested status: Handshake ok
+[21:18.43] [CHAT] Starting to load banned users
+[21:18.43] [CORE] Server is starting
+[21:18.43] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:18.43] [CHAT] Finished loading 6 banned users
+[21:18.44] [CORE] New user with ID [/#n1rcViwmellB5MSTAAAA] trying to connect
+[21:18.44] [CHAT] Handshake for User [/#n1rcViwmellB5MSTAAAA] completed
+[21:18.44] [CHAT] User [/#n1rcViwmellB5MSTAAAA] indentified as name [asdff]
+[21:18.44] [CHAT] User [/#n1rcViwmellB5MSTAAAA] requested status: Handshake ok
+[21:18.44] [CORE] New user with ID [/#1eUgWUOxuSqqr6IpAAAB] trying to connect
+[21:18.44] [CHAT] Handshake for User [/#1eUgWUOxuSqqr6IpAAAB] completed
+[21:18.44] [CHAT] User [/#1eUgWUOxuSqqr6IpAAAB] indentified as name [asdf]
+[21:18.45] [CHAT] User [/#1eUgWUOxuSqqr6IpAAAB] requested status: Handshake ok
+[21:19.58] [CHAT] Starting to load banned users
+[21:19.58] [CORE] Server is starting
+[21:19.58] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:19.58] [CHAT] Finished loading 6 banned users
+[21:19.58] [CORE] New user with ID [/#MIIxBFsNbzNgAgesAAAA] trying to connect
+[21:19.58] [CHAT] Handshake for User [/#MIIxBFsNbzNgAgesAAAA] completed
+[21:19.58] [CHAT] User [/#MIIxBFsNbzNgAgesAAAA] indentified as name [asdff]
+[21:19.58] [CHAT] User [/#MIIxBFsNbzNgAgesAAAA] requested status: Handshake ok
+[21:19.59] [CORE] New user with ID [/#3Br_IY5G36HKCpO5AAAB] trying to connect
+[21:20.0] [CHAT] Handshake for User [/#3Br_IY5G36HKCpO5AAAB] completed
+[21:20.0] [CHAT] User [/#3Br_IY5G36HKCpO5AAAB] indentified as name [asdf]
+[21:20.0] [CHAT] User [/#3Br_IY5G36HKCpO5AAAB] requested status: Handshake ok
+[21:24.9] [CORE] New user with ID [/#jy733m-ZTZ1D0ysXAAAC] trying to connect
+[21:24.9] [CHAT] Handshake for User [/#jy733m-ZTZ1D0ysXAAAC] completed
+[21:24.9] [CHAT] User [/#jy733m-ZTZ1D0ysXAAAC] indentified as name [asdf]
+[21:24.9] [CHAT] User [/#jy733m-ZTZ1D0ysXAAAC] requested status: Handshake ok
+[21:25.3] [CORE] New user with ID [/#Lh5MuFh7V1mPEAZLAAAD] trying to connect
+[21:25.3] [CHAT] Handshake for User [/#Lh5MuFh7V1mPEAZLAAAD] completed
+[21:25.3] [CHAT] User [/#Lh5MuFh7V1mPEAZLAAAD] indentified as name [Papa]
+[21:25.3] [CHAT] User [/#Lh5MuFh7V1mPEAZLAAAD] requested status: Handshake ok
+[21:27.29] [CORE] User with ID [/#Lh5MuFh7V1mPEAZLAAAD] disconnected
+[21:27.29] [CORE] New user with ID [/#SNq4XLpKOULwGplAAAAE] trying to connect
+[21:27.29] [CHAT] Handshake for User [/#SNq4XLpKOULwGplAAAAE] completed
+[21:27.29] [CHAT] User [/#SNq4XLpKOULwGplAAAAE] indentified as name [Papa2]
+[21:27.29] [CHAT] User [/#SNq4XLpKOULwGplAAAAE] requested status: Handshake ok
+[21:27.36] [CHAT] User [/#SNq4XLpKOULwGplAAAAE] sent message : Aha
+[21:28.8] [CHAT] User [/#SNq4XLpKOULwGplAAAAE] sent message : 😘😛😛😛
+[21:28.33] [CHAT] User [Papa2] banned User asdf
+[21:28.33] [CORE] User with ID [/#jy733m-ZTZ1D0ysXAAAC] disconnected
+[21:28.34] [CORE] New user with ID [/#ANlysWrUsgcMPkxKAAAF] trying to connect
+[21:28.34] [CHAT] Banned user asdf tried to connect
+[21:29.1] [CORE] New user with ID [/#L8nXIQGzqm2SpYyfAAAG] trying to connect
+[21:29.1] [CHAT] Handshake for User [/#L8nXIQGzqm2SpYyfAAAG] completed
+[21:29.1] [CHAT] User [/#L8nXIQGzqm2SpYyfAAAG] indentified as name [asdf]
+[21:29.1] [CHAT] User [/#L8nXIQGzqm2SpYyfAAAG] requested status: Handshake ok
+[21:29.5] [CHAT] User [/#L8nXIQGzqm2SpYyfAAAG] sent message : Ddd
+[21:29.13] [CHAT] User [/#SNq4XLpKOULwGplAAAAE] sent message : Das ist gut
+[21:29.18] [CHAT] User [/#L8nXIQGzqm2SpYyfAAAG] sent message : Ijjvisjvss
+[21:29.19] [CHAT] User [/#SNq4XLpKOULwGplAAAAE] sent message : Ikrifjirjifjirjfijrif
+[21:29.50] [CHAT] User [/#SNq4XLpKOULwGplAAAAE] sent message : Eeee
+[21:30.3] [CORE] User with ID [/#SNq4XLpKOULwGplAAAAE] disconnected
+[21:30.4] [CORE] New user with ID [/#QnHJ-7ISxyCUP6EFAAAH] trying to connect
+[21:30.4] [CHAT] Handshake for User [/#QnHJ-7ISxyCUP6EFAAAH] completed
+[21:30.4] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] indentified as name [Papa2]
+[21:30.4] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] requested status: Handshake ok
+[21:30.16] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : Aaaal
+[21:30.59] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : 7
+[21:31.1] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : 7
+[21:32.20] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : P
+[21:33.5] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : E
+[21:33.11] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : Wwww
+[21:33.26] [CORE] User with ID [/#L8nXIQGzqm2SpYyfAAAG] disconnected
+[21:33.29] [CORE] New user with ID [/#H2-iglBFZQOe21osAAAI] trying to connect
+[21:33.29] [CHAT] Handshake for User [/#H2-iglBFZQOe21osAAAI] completed
+[21:33.29] [CHAT] User [/#H2-iglBFZQOe21osAAAI] indentified as name [asdf]
+[21:33.29] [CHAT] User [/#H2-iglBFZQOe21osAAAI] requested status: Handshake ok
+[21:33.29] [CHAT] User [/#H2-iglBFZQOe21osAAAI] sent message : Jjjjjjj
+[21:34.31] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : Fhrhehrhhd
+[21:34.33] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : Eurje
+[21:34.35] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : E
+[21:34.35] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : E
+[21:34.35] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : E
+[21:34.36] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : E
+[21:34.36] [CHAT] User [/#QnHJ-7ISxyCUP6EFAAAH] sent message : D
+[21:35.47] [CORE] User with ID [/#H2-iglBFZQOe21osAAAI] disconnected
+[21:36.54] [CORE] User with ID [/#QnHJ-7ISxyCUP6EFAAAH] disconnected
+[13:30.18] [CHAT] Starting to load banned users
+[13:30.18] [CORE] Server is starting
+[13:30.18] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:30.18] [CHAT] Finished loading 6 banned users
+[13:30.31] [CORE] New user with ID [/#27eVQi1jwSbotqbjAAAA] trying to connect
+[13:30.31] [CHAT] Banned user asdf tried to connect
+[13:30.34] [CORE] New user with ID [/#Na1uUSYdpikVEgTjAAAB] trying to connect
+[13:30.34] [CHAT] Handshake for User [/#Na1uUSYdpikVEgTjAAAB] completed
+[13:30.34] [CHAT] User [/#Na1uUSYdpikVEgTjAAAB] indentified as name [asdfg]
+[13:30.35] [CHAT] User [/#Na1uUSYdpikVEgTjAAAB] requested status: Handshake ok
+[13:30.55] [CORE] New user with ID [/#qyJSd5HBrCKEGJLEAAAC] trying to connect
+[13:30.55] [CHAT] Banned user asdf tried to connect
+[13:31.0] [CHAT] Starting to load banned users
+[13:31.0] [CORE] Server is starting
+[13:31.0] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:31.0] [CHAT] Finished loading 5 banned users
+[13:31.0] [CORE] New user with ID [/#z2jIFkC9P1_bcynFAAAA] trying to connect
+[13:31.0] [CHAT] Handshake for User [/#z2jIFkC9P1_bcynFAAAA] completed
+[13:31.0] [CHAT] User [/#z2jIFkC9P1_bcynFAAAA] indentified as name [asdfg]
+[13:31.0] [CHAT] User [/#z2jIFkC9P1_bcynFAAAA] requested status: Handshake ok
+[13:31.2] [CORE] New user with ID [/#xyF44Jy0VFZrTCXLAAAB] trying to connect
+[13:31.2] [CHAT] Handshake for User [/#xyF44Jy0VFZrTCXLAAAB] completed
+[13:31.2] [CHAT] User [/#xyF44Jy0VFZrTCXLAAAB] indentified as name [asdf]
+[13:31.2] [CHAT] User [/#xyF44Jy0VFZrTCXLAAAB] requested status: Handshake ok
+[13:31.13] [CHAT] User asdfg has been renamed to hello by asdf
+[13:31.17] [CHAT] User [/#z2jIFkC9P1_bcynFAAAA] sent message : asdf
+[15:34.44] [CHAT] Starting to load banned users
+[15:34.44] [CORE] Server is starting
+[15:34.44] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:34.44] [CHAT] Finished loading 5 banned users
+[15:34.46] [CORE] New user with ID [/#mUFVkOoFY3MyaYFRAAAA] trying to connect
+[15:34.46] [CORE] New user with ID [/#BRboqOgqqHq-NIMwAAAB] trying to connect
+[15:34.46] [CHAT] Handshake for User [/#mUFVkOoFY3MyaYFRAAAA] completed
+[15:34.46] [CHAT] User [/#mUFVkOoFY3MyaYFRAAAA] indentified as name [asdf]
+[15:34.46] [CHAT] Handshake for User [/#BRboqOgqqHq-NIMwAAAB] completed
+[15:34.46] [CHAT] User [/#BRboqOgqqHq-NIMwAAAB] indentified as name [asdfg]
+[15:34.46] [CHAT] User [/#BRboqOgqqHq-NIMwAAAB] requested status: Handshake ok
+[15:34.46] [CHAT] User [/#mUFVkOoFY3MyaYFRAAAA] requested status: Handshake ok
+[15:34.59] [CORE] New user with ID [/#FFdMzDPlSxqzivyXAAAC] trying to connect
+[15:34.59] [CHAT] Handshake for User [/#FFdMzDPlSxqzivyXAAAC] completed
+[15:34.59] [CHAT] User [/#FFdMzDPlSxqzivyXAAAC] indentified as name [asdf]
+[15:34.59] [CHAT] User [/#FFdMzDPlSxqzivyXAAAC] requested status: Handshake ok
+[15:35.1] [CORE] New user with ID [/#p0hR0qLqX1Q72agpAAAD] trying to connect
+[15:35.1] [CHAT] Handshake for User [/#p0hR0qLqX1Q72agpAAAD] completed
+[15:35.1] [CHAT] User [/#p0hR0qLqX1Q72agpAAAD] indentified as name [asdf]
+[15:35.1] [CHAT] User [/#p0hR0qLqX1Q72agpAAAD] requested status: Handshake ok
+[15:35.5] [CORE] User with ID [/#p0hR0qLqX1Q72agpAAAD] disconnected
+[15:35.5] [CORE] New user with ID [/#uivi3FuPGNJ5t2p6AAAE] trying to connect
+[15:35.5] [CHAT] Handshake for User [/#uivi3FuPGNJ5t2p6AAAE] completed
+[15:35.5] [CHAT] User [/#uivi3FuPGNJ5t2p6AAAE] indentified as name [asdff]
+[15:35.6] [CHAT] User [/#uivi3FuPGNJ5t2p6AAAE] requested status: Handshake ok
+[15:35.15] [CORE] User with ID [/#FFdMzDPlSxqzivyXAAAC] disconnected
+[15:35.30] [CHAT] Starting to load banned users
+[15:35.30] [CORE] Server is starting
+[15:35.30] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:35.30] [CHAT] Finished loading 5 banned users
+[15:35.31] [CORE] New user with ID [/#3QM9Ws0NA6LUDf4ZAAAA] trying to connect
+[15:35.31] [CORE] New user with ID [/#-cEhMF05dA4ZLC7qAAAB] trying to connect
+[15:35.31] [CHAT] Handshake for User [/#-cEhMF05dA4ZLC7qAAAB] completed
+[15:35.31] [CHAT] User [/#-cEhMF05dA4ZLC7qAAAB] indentified as name [asdff]
+[15:35.31] [CHAT] User [/#-cEhMF05dA4ZLC7qAAAB] requested status: Handshake ok
+[15:35.31] [CHAT] Handshake for User [/#3QM9Ws0NA6LUDf4ZAAAA] completed
+[15:35.31] [CHAT] User [/#3QM9Ws0NA6LUDf4ZAAAA] indentified as name [asdfg]
+[15:35.31] [CHAT] User [/#3QM9Ws0NA6LUDf4ZAAAA] requested status: Handshake ok
+[15:35.31] [CORE] New user with ID [/#fshrxKrewR46WH2FAAAC] trying to connect
+[15:35.31] [CHAT] Handshake for User [/#fshrxKrewR46WH2FAAAC] completed
+[15:35.31] [CHAT] User [/#fshrxKrewR46WH2FAAAC] indentified as name [asdf]
+[15:35.31] [CHAT] User [/#fshrxKrewR46WH2FAAAC] requested status: Handshake ok
+[15:35.31] [CORE] New user with ID [/#GLSOft64aEs4ckYxAAAD] trying to connect
+[15:35.31] [CHAT] Handshake for User [/#GLSOft64aEs4ckYxAAAD] completed
+[15:35.31] [CHAT] User [/#GLSOft64aEs4ckYxAAAD] indentified as name [asdf]
+[15:35.31] [CHAT] User [/#GLSOft64aEs4ckYxAAAD] requested status: Handshake ok
+[15:36.44] [CHAT] Starting to load banned users
+[15:36.44] [CORE] Server is starting
+[15:36.44] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:36.44] [CHAT] Finished loading 5 banned users
+[15:36.44] [CORE] New user with ID [/#pgNgpI_coxMNDMSCAAAA] trying to connect
+[15:36.44] [CORE] New user with ID [/#8pNL5ZgjNU-JyaBpAAAB] trying to connect
+[15:36.44] [CHAT] Handshake for User [/#pgNgpI_coxMNDMSCAAAA] completed
+[15:36.44] [CHAT] User [/#8pNL5ZgjNU-JyaBpAAAB] indentified as name [asdfg]
+[15:36.44] [CHAT] User [/#pgNgpI_coxMNDMSCAAAA] indentified as name [asdf]
+[15:36.44] [CHAT] Handshake for User [/#8pNL5ZgjNU-JyaBpAAAB] completed
+[15:36.44] [CHAT] User [/#pgNgpI_coxMNDMSCAAAA] requested status: Handshake ok
+[15:36.44] [CHAT] User [/#8pNL5ZgjNU-JyaBpAAAB] requested status: Handshake ok
+[15:36.45] [CORE] New user with ID [/#-5SiVxL-OV5yLtVxAAAC] trying to connect
+[15:36.45] [CHAT] Handshake for User [/#-5SiVxL-OV5yLtVxAAAC] completed
+[15:36.45] [CHAT] User [/#-5SiVxL-OV5yLtVxAAAC] indentified as name [asdff]
+[15:36.45] [CHAT] User [/#-5SiVxL-OV5yLtVxAAAC] requested status: Handshake ok
+[15:36.45] [CORE] New user with ID [/#uWGnIoD3o2jPgfcnAAAD] trying to connect
+[15:36.45] [CHAT] Handshake for User [/#uWGnIoD3o2jPgfcnAAAD] completed
+[15:36.45] [CHAT] User [/#uWGnIoD3o2jPgfcnAAAD] indentified as name [asdf]
+[15:36.45] [CHAT] User [/#uWGnIoD3o2jPgfcnAAAD] requested status: Handshake ok
+[15:38.2] [CHAT] Starting to load banned users
+[15:38.2] [CORE] Server is starting
+[15:38.2] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:38.2] [CHAT] Finished loading 5 banned users
+[15:38.2] [CORE] New user with ID [/#Skvwc_yVn4EY_CzLAAAA] trying to connect
+[15:38.2] [CHAT] Handshake for User [/#Skvwc_yVn4EY_CzLAAAA] completed
+[15:38.2] [CHAT] User [/#Skvwc_yVn4EY_CzLAAAA] indentified as name [asdff]
+[15:38.2] [CHAT] User [/#Skvwc_yVn4EY_CzLAAAA] requested status: Handshake ok
+[15:38.2] [CORE] New user with ID [/#ivRz0cTz2ymn8YJYAAAB] trying to connect
+[15:38.2] [CORE] New user with ID [/#wStR-aZLW27uhaO7AAAC] trying to connect
+[15:38.2] [CORE] New user with ID [/#Hx3e8MX4TM7SyEdpAAAD] trying to connect
+[15:38.2] [CHAT] Handshake for User [/#Hx3e8MX4TM7SyEdpAAAD] completed
+[15:38.2] [CHAT] User [/#Hx3e8MX4TM7SyEdpAAAD] indentified as name [asdfg]
+[15:38.2] [CHAT] Handshake for User [/#ivRz0cTz2ymn8YJYAAAB] completed
+[15:38.2] [CHAT] User [/#ivRz0cTz2ymn8YJYAAAB] indentified as name [asdf]
+[15:38.2] [CHAT] User [/#Hx3e8MX4TM7SyEdpAAAD] requested status: Handshake ok
+[15:38.2] [CHAT] User [/#ivRz0cTz2ymn8YJYAAAB] requested status: Handshake ok
+[15:38.2] [CHAT] Handshake for User [/#wStR-aZLW27uhaO7AAAC] completed
+[15:38.2] [CHAT] User [/#wStR-aZLW27uhaO7AAAC] indentified as name [asdf]
+[15:38.2] [CHAT] User [/#wStR-aZLW27uhaO7AAAC] requested status: Handshake ok
+[15:38.36] [CHAT] User [/#Skvwc_yVn4EY_CzLAAAA] sent message : asdf
+[15:38.37] [CHAT] User [/#Skvwc_yVn4EY_CzLAAAA] sent message : asdf
+[15:38.38] [CHAT] User [/#Skvwc_yVn4EY_CzLAAAA] sent message : asdf
+[15:44.6] [CHAT] Starting to load banned users
+[15:44.6] [CORE] Server is starting
+[15:44.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:44.6] [CHAT] Finished loading 5 banned users
+[15:44.6] [CORE] New user with ID [/#4gT3r_F0Rx6gq4s0AAAA] trying to connect
+[15:44.6] [CHAT] Handshake for User [/#4gT3r_F0Rx6gq4s0AAAA] completed
+[15:44.6] [CHAT] User [/#4gT3r_F0Rx6gq4s0AAAA] indentified as name [asdff]
+[15:44.6] [CHAT] User [/#4gT3r_F0Rx6gq4s0AAAA] requested status: Handshake ok
+[15:44.6] [CORE] New user with ID [/#afzL5BPdYhWBCSJgAAAB] trying to connect
+[15:44.6] [CHAT] Handshake for User [/#afzL5BPdYhWBCSJgAAAB] completed
+[15:44.6] [CHAT] User [/#afzL5BPdYhWBCSJgAAAB] indentified as name [asdfg]
+[15:44.6] [CHAT] User [/#afzL5BPdYhWBCSJgAAAB] requested status: Handshake ok
+[15:44.7] [CORE] New user with ID [/#kp9urbQMnrcpp_HaAAAC] trying to connect
+[15:44.7] [CORE] New user with ID [/#dSjXezzet30NDhoQAAAD] trying to connect
+[15:44.7] [CHAT] Handshake for User [/#kp9urbQMnrcpp_HaAAAC] completed
+[15:44.7] [CHAT] User [/#kp9urbQMnrcpp_HaAAAC] indentified as name [asdf]
+[15:44.7] [CHAT] User [/#kp9urbQMnrcpp_HaAAAC] requested status: Handshake ok
+[15:44.7] [CHAT] Handshake for User [/#dSjXezzet30NDhoQAAAD] completed
+[15:44.7] [CHAT] User [/#dSjXezzet30NDhoQAAAD] indentified as name [asdf]
+[15:44.7] [CHAT] User [/#dSjXezzet30NDhoQAAAD] requested status: Handshake ok
+[15:44.40] [CHAT] User [/#4gT3r_F0Rx6gq4s0AAAA] sent message : d
+[15:48.21] [CHAT] Starting to load banned users
+[15:48.21] [CORE] Server is starting
+[15:48.21] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:48.21] [CHAT] Finished loading 5 banned users
+[15:48.21] [CORE] New user with ID [/#CW0DD2tUfQnwN46KAAAA] trying to connect
+[15:48.21] [CHAT] Handshake for User [/#CW0DD2tUfQnwN46KAAAA] completed
+[15:48.21] [CHAT] User [/#CW0DD2tUfQnwN46KAAAA] indentified as name [asdf]
+[15:48.21] [CORE] New user with ID [/#GD1p5_iuryORDdaNAAAB] trying to connect
+[15:48.21] [CORE] New user with ID [/#WDZ8F9HtpAORZ4jHAAAC] trying to connect
+[15:48.21] [CHAT] User [/#CW0DD2tUfQnwN46KAAAA] requested status: Handshake ok
+[15:48.21] [CHAT] Handshake for User [/#WDZ8F9HtpAORZ4jHAAAC] completed
+[15:48.21] [CHAT] User [/#WDZ8F9HtpAORZ4jHAAAC] indentified as name [asdfg]
+[15:48.21] [CHAT] Handshake for User [/#GD1p5_iuryORDdaNAAAB] completed
+[15:48.21] [CHAT] User [/#GD1p5_iuryORDdaNAAAB] indentified as name [asdf]
+[15:48.21] [CHAT] User [/#WDZ8F9HtpAORZ4jHAAAC] requested status: Handshake ok
+[15:48.21] [CHAT] User [/#GD1p5_iuryORDdaNAAAB] requested status: Handshake ok
+[15:48.22] [CORE] New user with ID [/#U-XVelBLVo-85GDJAAAD] trying to connect
+[15:48.22] [CHAT] Handshake for User [/#U-XVelBLVo-85GDJAAAD] completed
+[15:48.22] [CHAT] User [/#U-XVelBLVo-85GDJAAAD] indentified as name [asdff]
+[15:48.22] [CHAT] User [/#U-XVelBLVo-85GDJAAAD] requested status: Handshake ok
+[15:48.27] [CORE] User with ID [/#U-XVelBLVo-85GDJAAAD] disconnected
+[15:48.41] [CHAT] Starting to load banned users
+[15:48.41] [CORE] Server is starting
+[15:48.41] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:48.41] [CHAT] Finished loading 5 banned users
+[15:48.41] [CORE] New user with ID [/#iWuK9JtmEDo5q9nNAAAA] trying to connect
+[15:48.41] [CHAT] Handshake for User [/#iWuK9JtmEDo5q9nNAAAA] completed
+[15:48.41] [CHAT] User [/#iWuK9JtmEDo5q9nNAAAA] indentified as name [asdff]
+[15:48.41] [CHAT] User [/#iWuK9JtmEDo5q9nNAAAA] requested status: Handshake ok
+[15:48.41] [CORE] New user with ID [/#ml5-UjWU-tkthJYMAAAB] trying to connect
+[15:48.41] [CORE] New user with ID [/#mjaOY93bVeNuZEfOAAAC] trying to connect
+[15:48.41] [CORE] New user with ID [/#hVMIfI6MW-HlCTAWAAAD] trying to connect
+[15:48.41] [CHAT] Handshake for User [/#ml5-UjWU-tkthJYMAAAB] completed
+[15:48.41] [CHAT] User [/#ml5-UjWU-tkthJYMAAAB] indentified as name [asdf]
+[15:48.41] [CHAT] Handshake for User [/#mjaOY93bVeNuZEfOAAAC] completed
+[15:48.41] [CHAT] User [/#mjaOY93bVeNuZEfOAAAC] indentified as name [asdf]
+[15:48.41] [CHAT] User [/#ml5-UjWU-tkthJYMAAAB] requested status: Handshake ok
+[15:48.41] [CHAT] Handshake for User [/#hVMIfI6MW-HlCTAWAAAD] completed
+[15:48.41] [CHAT] User [/#hVMIfI6MW-HlCTAWAAAD] indentified as name [asdfg]
+[15:48.41] [CHAT] User [/#mjaOY93bVeNuZEfOAAAC] requested status: Handshake ok
+[15:48.41] [CHAT] User [/#hVMIfI6MW-HlCTAWAAAD] requested status: Handshake ok
+[15:52.36] [CHAT] Starting to load banned users
+[15:52.36] [CORE] Server is starting
+[15:52.36] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:52.36] [CHAT] Finished loading 5 banned users
+[15:52.36] [CORE] New user with ID [/#9I2gEtRkk2RZnJJcAAAA] trying to connect
+[15:52.36] [CORE] New user with ID [/#UjvSgcAzR0zEAsyLAAAB] trying to connect
+[15:52.36] [CORE] New user with ID [/#ai-8MJ2BS1YIZV29AAAC] trying to connect
+[15:52.36] [CORE] New user with ID [/#Vpf9zcSXnAOqkXRQAAAD] trying to connect
+[15:52.36] [CHAT] Handshake for User [/#9I2gEtRkk2RZnJJcAAAA] completed
+[15:52.36] [CHAT] User [/#9I2gEtRkk2RZnJJcAAAA] indentified as name [asdf]
+[15:52.36] [CHAT] Handshake for User [/#UjvSgcAzR0zEAsyLAAAB] completed
+[15:52.36] [CHAT] User [/#UjvSgcAzR0zEAsyLAAAB] indentified as name [asdff]
+[15:52.36] [CHAT] Handshake for User [/#ai-8MJ2BS1YIZV29AAAC] completed
+[15:52.36] [CHAT] User [/#ai-8MJ2BS1YIZV29AAAC] indentified as name [asdfg]
+[15:52.36] [CHAT] User [/#9I2gEtRkk2RZnJJcAAAA] requested status: Handshake ok
+[15:52.36] [CHAT] User [/#UjvSgcAzR0zEAsyLAAAB] requested status: Handshake ok
+[15:52.36] [CHAT] User [/#ai-8MJ2BS1YIZV29AAAC] requested status: Handshake ok
+[15:52.36] [CHAT] Handshake for User [/#Vpf9zcSXnAOqkXRQAAAD] completed
+[15:52.36] [CHAT] User [/#Vpf9zcSXnAOqkXRQAAAD] indentified as name [asdf]
+[15:52.36] [CHAT] User [/#Vpf9zcSXnAOqkXRQAAAD] requested status: Handshake ok
+[15:56.52] [CHAT] Starting to load banned users
+[15:56.52] [CORE] Server is starting
+[15:56.52] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:56.52] [CHAT] Finished loading 5 banned users
+[15:56.52] [CORE] New user with ID [/#hfqTsmSaGXXL-6u7AAAA] trying to connect
+[15:56.52] [CORE] New user with ID [/#5MRhorwaSR9PbBIPAAAB] trying to connect
+[15:56.52] [CORE] New user with ID [/#D7LnGegN8VW5YS8rAAAC] trying to connect
+[15:56.52] [CORE] New user with ID [/#xxz3QUxh0gbRIjysAAAD] trying to connect
+[15:56.52] [CHAT] Handshake for User [/#hfqTsmSaGXXL-6u7AAAA] completed
+[15:56.52] [CHAT] User [/#hfqTsmSaGXXL-6u7AAAA] indentified as name [asdff]
+[15:56.52] [CHAT] Handshake for User [/#5MRhorwaSR9PbBIPAAAB] completed
+[15:56.52] [CHAT] User [/#5MRhorwaSR9PbBIPAAAB] indentified as name [asdf]
+[15:56.52] [CHAT] Handshake for User [/#xxz3QUxh0gbRIjysAAAD] completed
+[15:56.52] [CHAT] User [/#xxz3QUxh0gbRIjysAAAD] indentified as name [asdfg]
+[15:56.52] [CHAT] Handshake for User [/#D7LnGegN8VW5YS8rAAAC] completed
+[15:56.52] [CHAT] User [/#D7LnGegN8VW5YS8rAAAC] indentified as name [asdf]
+[15:56.52] [CHAT] User [/#hfqTsmSaGXXL-6u7AAAA] requested status: Handshake ok
+[15:56.52] [CHAT] User [/#5MRhorwaSR9PbBIPAAAB] requested status: Handshake ok
+[15:56.52] [CHAT] User [/#xxz3QUxh0gbRIjysAAAD] requested status: Handshake ok
+[15:56.52] [CHAT] User [/#D7LnGegN8VW5YS8rAAAC] requested status: Handshake ok
+[15:56.55] [CORE] User with ID [/#D7LnGegN8VW5YS8rAAAC] disconnected
+[15:57.13] [CHAT] Starting to load banned users
+[15:57.13] [CORE] Server is starting
+[15:57.13] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:57.13] [CHAT] Finished loading 5 banned users
+[15:57.13] [CORE] New user with ID [/#8xd70Xn7YojdDIAMAAAA] trying to connect
+[15:57.13] [CORE] New user with ID [/#I4LTccNg0qC5w54hAAAB] trying to connect
+[15:57.13] [CHAT] Handshake for User [/#I4LTccNg0qC5w54hAAAB] completed
+[15:57.13] [CHAT] User [/#I4LTccNg0qC5w54hAAAB] indentified as name [asdff]
+[15:57.13] [CHAT] User [/#I4LTccNg0qC5w54hAAAB] requested status: Handshake ok
+[15:57.13] [CHAT] Handshake for User [/#8xd70Xn7YojdDIAMAAAA] completed
+[15:57.13] [CHAT] User [/#8xd70Xn7YojdDIAMAAAA] indentified as name [asdf]
+[15:57.13] [CHAT] User [/#8xd70Xn7YojdDIAMAAAA] requested status: Handshake ok
+[15:57.13] [CORE] New user with ID [/#SEfhC2AJk-MBgmRiAAAC] trying to connect
+[15:57.13] [CORE] New user with ID [/#EjMH2pYFLjMGqawlAAAD] trying to connect
+[15:57.13] [CHAT] Handshake for User [/#SEfhC2AJk-MBgmRiAAAC] completed
+[15:57.13] [CHAT] User [/#SEfhC2AJk-MBgmRiAAAC] indentified as name [asdf]
+[15:57.13] [CHAT] Handshake for User [/#EjMH2pYFLjMGqawlAAAD] completed
+[15:57.13] [CHAT] User [/#EjMH2pYFLjMGqawlAAAD] indentified as name [asdfg]
+[15:57.13] [CHAT] User [/#SEfhC2AJk-MBgmRiAAAC] requested status: Handshake ok
+[15:57.13] [CHAT] User [/#EjMH2pYFLjMGqawlAAAD] requested status: Handshake ok
+[15:57.56] [CHAT] User [/#I4LTccNg0qC5w54hAAAB] sent message : d
+[15:58.30] [CHAT] User [/#I4LTccNg0qC5w54hAAAB] sent message : a
+[16:0.15] [CHAT] User [/#I4LTccNg0qC5w54hAAAB] sent message : d
+[12:1.2] [CHAT] Starting to load banned users
+[12:1.2] [CORE] Server is starting
+[12:1.2] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[12:1.2] [CHAT] Finished loading 5 banned users
+[12:1.51] [CORE] New user with ID [/#ujq-QnWTe4TU8QiwAAAA] trying to connect
+[12:1.52] [CHAT] Handshake for User [/#ujq-QnWTe4TU8QiwAAAA] completed
+[12:1.52] [CHAT] User [/#ujq-QnWTe4TU8QiwAAAA] indentified as name [asdf]
+[12:1.52] [CHAT] User [/#ujq-QnWTe4TU8QiwAAAA] requested status: Handshake ok
+[12:6.59] [CHAT] User [asdf] banned User thisguz
+[12:16.58] [CHAT] Starting to load banned users
+[12:16.58] [CORE] Server is starting
+[12:16.58] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[12:16.58] [CHAT] Finished loading 0 banned users
+[12:16.58] [CORE] New user with ID [/#1QiouQaBgwKIB6ChAAAA] trying to connect
+[12:16.58] [CHAT] Handshake for User [/#1QiouQaBgwKIB6ChAAAA] completed
+[12:16.58] [CHAT] User [/#1QiouQaBgwKIB6ChAAAA] indentified as name [asdf]
+[12:16.58] [CHAT] User [/#1QiouQaBgwKIB6ChAAAA] requested status: Handshake ok
+[12:17.5] [CHAT] User [asdf] banned User his
+[12:17.8] [CHAT] User [asdf] banned User s
+[12:17.11] [CHAT] User [asdf] banned User d
+[12:18.19] [CHAT] User [asdf] banned User s
+[12:18.22] [CHAT] User [asdf] banned User d
+[13:9.7] [CHAT] User [/#1QiouQaBgwKIB6ChAAAA] sent message : sadf
+[13:38.26] [CORE] User with ID [/#1QiouQaBgwKIB6ChAAAA] disconnected
+[18:21.27] [CHAT] Starting to load banned users
+[18:21.27] [CORE] Server is starting
+[18:21.27] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:21.27] [CHAT] Finished loading 0 banned users
+[18:28.27] [CHAT] Starting to load banned users
+[18:28.27] [CORE] Server is starting
+[18:28.27] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:28.27] [CHAT] Finished loading 0 banned users
+[18:31.57] [CORE] New user with ID [/#wUOgEBSvS20APGowAAAA] trying to connect
+[18:31.57] [CHAT] Handshake for User [/#wUOgEBSvS20APGowAAAA] completed
+[18:31.57] [CHAT] User [/#wUOgEBSvS20APGowAAAA] indentified as name [asdf]
+[18:31.57] [CHAT] User [/#wUOgEBSvS20APGowAAAA] requested status: Handshake ok
+[19:19.32] [CHAT] Starting to load banned users
+[19:19.32] [CORE] Server is starting
+[19:19.32] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:19.32] [CHAT] Finished loading 0 banned users
+[19:19.32] [MONGOOSE] Mongoose Connection established!
+[19:46.12] [CORE] Server is starting
+[19:46.12] [CHAT] Starting to load banned users
+[19:46.12] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[19:46.12] [CHAT] Finished loading 0 banned users
+[19:46.12] [MONGOOSE] Mongoose Connection established!
+[21:25.43] [CORE] Server is starting
+[21:25.43] [CHAT] Starting to load banned users
+[21:25.43] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:25.43] [CHAT] Finished loading 0 banned users
+[21:25.43] [MONGOOSE] Mongoose Connection established!
+[21:26.10] [CORE] New user with ID [/#OxfKjNA2jNtOIGzTAAAA] trying to connect
+[21:26.10] [CHAT] Handshake for User [/#OxfKjNA2jNtOIGzTAAAA] completed
+[21:26.10] [CHAT] User [/#OxfKjNA2jNtOIGzTAAAA] indentified as name [asdf]
+[21:26.10] [CHAT] User [/#OxfKjNA2jNtOIGzTAAAA] requested status: Handshake ok
+[21:28.44] [CORE] User with ID [/#OxfKjNA2jNtOIGzTAAAA] disconnected
+[21:30.52] [CORE] Server is starting
+[21:30.52] [CHAT] Starting to load banned users
+[21:30.52] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:30.52] [CHAT] Finished loading 0 banned users
+[21:30.52] [MONGOOSE] Mongoose Connection established!
+[21:32.34] [CORE] Server is starting
+[21:32.34] [CHAT] Starting to load banned users
+[21:32.34] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:32.34] [CHAT] Finished loading 0 banned users
+[21:32.34] [MONGOOSE] Mongoose Connection established!
+[21:35.6] [CORE] Server is starting
+[21:35.6] [CHAT] Starting to load banned users
+[21:35.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:35.6] [CHAT] Finished loading 0 banned users
+[21:35.20] [CORE] Server is starting
+[21:35.20] [CHAT] Starting to load banned users
+[21:35.20] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:35.20] [CHAT] Finished loading 0 banned users
+[21:35.20] [MONGOOSE] Mongoose Connection established!
+[21:37.15] [CORE] Server is starting
+[21:37.15] [CHAT] Starting to load banned users
+[21:37.15] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:37.15] [CHAT] Finished loading 0 banned users
+[21:37.15] [MONGOOSE] Mongoose Connection established!
+[21:48.3] [CORE] Server is starting
+[21:48.3] [CHAT] Starting to load banned users
+[21:48.3] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:48.3] [CHAT] Finished loading 0 banned users
+[21:48.3] [MONGOOSE] Mongoose Connection established!
+[21:53.29] [CORE] Server is starting
+[21:53.29] [CHAT] Starting to load banned users
+[21:53.29] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:53.29] [CHAT] Finished loading 0 banned users
+[21:53.29] [MONGOOSE] Mongoose Connection established!
+[20:19.13] [CORE] Server is starting
+[20:19.13] [CHAT] Starting to load banned users
+[20:19.13] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:19.13] [CHAT] Finished loading 0 banned users
+[20:28.23] [CORE] Server is starting
+[20:28.23] [CHAT] Starting to load banned users
+[20:28.23] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:28.23] [CHAT] Finished loading 0 banned users
+[20:28.23] [MONGOOSE] Mongoose Connection established!
+[20:30.36] [CORE] Server is starting
+[20:30.36] [CHAT] Starting to load banned users
+[20:30.36] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:30.36] [CHAT] Finished loading 0 banned users
+[20:30.36] [MONGOOSE] Mongoose Connection established!
+[20:39.41] [CORE] Server is starting
+[20:39.41] [CHAT] Starting to load banned users
+[20:39.41] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:39.41] [CHAT] Finished loading 0 banned users
+[20:39.41] [MONGOOSE] Mongoose Connection established!
+[21:19.17] [CORE] Server is starting
+[21:19.17] [CHAT] Starting to load banned users
+[21:19.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:19.17] [CHAT] Finished loading 0 banned users
+[21:19.17] [MONGOOSE] Mongoose Connection established!
+[21:23.23] [CORE] New user with ID [/#AYg_Ol9Au_59dYB3AAAA] trying to connect
+[21:23.23] [CHAT] Handshake for User [/#AYg_Ol9Au_59dYB3AAAA] completed
+[21:23.23] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] indentified as name [uzhh]
+[21:23.23] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] requested status: Handshake ok
+[21:23.25] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : skdjfasdf
+[21:23.26] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : asdkfjasjdf
+[21:23.27] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : asdkfjaksdjf
+[21:23.41] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message :  asdfasdf
+[21:23.48] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : mkkajkfd
+[21:23.49] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : sofoajsdkfjkajskdfjaosd
+[21:23.49] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : fasdf
+[21:23.50] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : asd
+[21:23.50] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : fa
+[21:23.50] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : sdf
+[21:23.50] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : asd
+[21:23.51] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : fa
+[21:23.51] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : sdf
+[21:23.51] [CHAT] User [/#AYg_Ol9Au_59dYB3AAAA] sent message : asfd
+[21:24.42] [CORE] Server is starting
+[21:24.42] [CHAT] Starting to load banned users
+[21:24.42] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:24.42] [CHAT] Finished loading 0 banned users
+[21:24.42] [MONGOOSE] Mongoose Connection established!
+[21:24.42] [CORE] New user with ID [/#UnG8c-6NG9DWnfO3AAAA] trying to connect
+[21:24.42] [CHAT] Handshake for User [/#UnG8c-6NG9DWnfO3AAAA] completed
+[21:24.42] [CHAT] User [/#UnG8c-6NG9DWnfO3AAAA] indentified as name [uzhh]
+[21:24.42] [CHAT] User [/#UnG8c-6NG9DWnfO3AAAA] requested status: Handshake ok
+[21:26.47] [CORE] Server is starting
+[21:26.47] [CHAT] Starting to load banned users
+[21:26.47] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:26.48] [CHAT] Finished loading 0 banned users
+[21:26.48] [MONGOOSE] Mongoose Connection established!
+[21:26.48] [CORE] New user with ID [/#srMTVn9yCa2MXqLbAAAA] trying to connect
+[21:26.48] [CHAT] Handshake for User [/#srMTVn9yCa2MXqLbAAAA] completed
+[21:26.48] [CHAT] User [/#srMTVn9yCa2MXqLbAAAA] indentified as name [uzhh]
+[21:26.48] [CHAT] User [/#srMTVn9yCa2MXqLbAAAA] requested status: Handshake ok
+[21:27.14] [CORE] Server is starting
+[21:27.14] [CHAT] Starting to load banned users
+[21:27.14] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:27.15] [CHAT] Finished loading 0 banned users
+[21:27.15] [MONGOOSE] Mongoose Connection established!
+[21:27.15] [CORE] New user with ID [/#hgLmfn1pPWGX9xfBAAAA] trying to connect
+[21:27.15] [CHAT] Handshake for User [/#hgLmfn1pPWGX9xfBAAAA] completed
+[21:27.15] [CHAT] User [/#hgLmfn1pPWGX9xfBAAAA] indentified as name [uzhh]
+[21:27.15] [CHAT] User [/#hgLmfn1pPWGX9xfBAAAA] requested status: Handshake ok
+[21:28.55] [CORE] Server is starting
+[21:28.55] [CHAT] Starting to load banned users
+[21:28.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:28.55] [CHAT] Finished loading 0 banned users
+[21:28.55] [MONGOOSE] Mongoose Connection established!
+[21:28.57] [CORE] New user with ID [/#TgQv7R9cIUcV97A0AAAA] trying to connect
+[21:28.57] [CHAT] Handshake for User [/#TgQv7R9cIUcV97A0AAAA] completed
+[21:28.57] [CHAT] User [/#TgQv7R9cIUcV97A0AAAA] indentified as name [uzhh]
+[21:28.57] [CHAT] User [/#TgQv7R9cIUcV97A0AAAA] requested status: Handshake ok
+[8:57.15] [CORE] Server is starting
+[8:57.15] [CHAT] Starting to load banned users
+[8:57.15] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[8:57.15] [CHAT] Finished loading 0 banned users
+[8:57.15] [MONGOOSE] Mongoose Connection established!
+[8:57.26] [CORE] New user with ID [/#MuJ3SB6bvs9qHw5DAAAA] trying to connect
+[8:57.26] [CHAT] Handshake for User [/#MuJ3SB6bvs9qHw5DAAAA] completed
+[8:57.26] [CHAT] User [/#MuJ3SB6bvs9qHw5DAAAA] indentified as name [Alex]
+[8:57.26] [CHAT] User [/#MuJ3SB6bvs9qHw5DAAAA] requested status: Handshake ok
+[9:0.20] [CHAT] User [/#MuJ3SB6bvs9qHw5DAAAA] sent message : i
+[9:0.24] [CHAT] User [/#MuJ3SB6bvs9qHw5DAAAA] tried calling command : /ban
+[9:10.38] [CORE] Server is starting
+[9:10.38] [CHAT] Starting to load banned users
+[9:10.38] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[9:10.38] [CHAT] Finished loading 0 banned users
+[9:10.38] [MONGOOSE] Mongoose Connection established!
+[9:12.17] [CORE] Server is starting
+[9:12.17] [CHAT] Starting to load banned users
+[9:12.17] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[9:12.17] [CHAT] Finished loading 0 banned users
+[9:12.17] [MONGOOSE] Mongoose Connection established!
+[9:13.25] [CORE] Server is starting
+[9:13.25] [CHAT] Starting to load banned users
+[9:13.25] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[9:13.25] [CHAT] Finished loading 0 banned users
+[9:13.25] [MONGOOSE] Mongoose Connection established!
+[9:13.28] [CORE] New user with ID [/#3ac1kTHM6Te82ZvEAAAA] trying to connect
+[9:13.29] [CHAT] Handshake for User [/#3ac1kTHM6Te82ZvEAAAA] completed
+[9:13.29] [CHAT] User [/#3ac1kTHM6Te82ZvEAAAA] indentified as name [Alex]
+[9:13.29] [CHAT] User [/#3ac1kTHM6Te82ZvEAAAA] requested status: Handshake ok
+[9:14.58] [CORE] User with ID [/#3ac1kTHM6Te82ZvEAAAA] disconnected
+[9:14.58] [CORE] New user with ID [/#lW4ji35nX_VxjjC7AAAB] trying to connect
+[9:14.58] [CHAT] Handshake for User [/#lW4ji35nX_VxjjC7AAAB] completed
+[9:14.58] [CHAT] User [/#lW4ji35nX_VxjjC7AAAB] indentified as name [Alex]
+[9:14.58] [CHAT] User [/#lW4ji35nX_VxjjC7AAAB] requested status: Handshake ok
+[9:15.15] [CHAT] User [/#lW4ji35nX_VxjjC7AAAB] sent message : was geht?
+[9:15.26] [CHAT] User [/#lW4ji35nX_VxjjC7AAAB] tried calling command : /ban
+[9:15.34] [CORE] User with ID [/#lW4ji35nX_VxjjC7AAAB] disconnected
+[9:15.34] [CORE] New user with ID [/#riCxvjVLhLIvjJE2AAAC] trying to connect
+[9:15.34] [CHAT] Handshake for User [/#riCxvjVLhLIvjJE2AAAC] completed
+[9:15.34] [CHAT] User [/#riCxvjVLhLIvjJE2AAAC] indentified as name [asdf]
+[9:15.34] [CHAT] User [/#riCxvjVLhLIvjJE2AAAC] requested status: Handshake ok
+[9:15.41] [CHAT] User [asdf] banned User Ale
+[9:15.50] [CHAT] User [/#riCxvjVLhLIvjJE2AAAC] sent message : Alex
+[9:15.54] [CHAT] User [asdf] banned User Alex
+[9:37.25] [CORE] Server is starting
+[9:37.25] [CHAT] Starting to load banned users
+[9:37.25] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[9:37.25] [CHAT] Finished loading 2 banned users
+[9:37.25] [MONGOOSE] Mongoose Connection established!
+[9:37.27] [CORE] New user with ID [/#J2bSePlmO9F1e8VAAAAA] trying to connect
+[9:37.27] [CHAT] Handshake for User [/#J2bSePlmO9F1e8VAAAAA] completed
+[9:37.27] [CHAT] User [/#J2bSePlmO9F1e8VAAAAA] indentified as name [asdf]
+[9:37.27] [CHAT] User [/#J2bSePlmO9F1e8VAAAAA] requested status: Handshake ok
+[9:37.31] [CORE] User with ID [/#J2bSePlmO9F1e8VAAAAA] disconnected
+[9:37.31] [CORE] New user with ID [/#vQoKXBhk8lZtacwzAAAB] trying to connect
+[9:37.31] [CHAT] Handshake for User [/#vQoKXBhk8lZtacwzAAAB] completed
+[9:37.31] [CHAT] User [/#vQoKXBhk8lZtacwzAAAB] indentified as name [asd]
+[9:37.31] [CHAT] User [/#vQoKXBhk8lZtacwzAAAB] requested status: Handshake ok
+[9:37.34] [CORE] User with ID [/#vQoKXBhk8lZtacwzAAAB] disconnected
+[9:37.34] [CORE] New user with ID [/#OL-Fkb1vJdKgYONgAAAC] trying to connect
+[9:37.34] [CHAT] Handshake for User [/#OL-Fkb1vJdKgYONgAAAC] completed
+[9:37.34] [CHAT] User [/#OL-Fkb1vJdKgYONgAAAC] indentified as name [asdf]
+[9:37.34] [CHAT] User [/#OL-Fkb1vJdKgYONgAAAC] requested status: Handshake ok
+[9:37.40] [CHAT] User [asdf] banned User asd
+[9:41.21] [CORE] User with ID [/#OL-Fkb1vJdKgYONgAAAC] disconnected
+[9:41.21] [CORE] New user with ID [/#sjgJvIXTi96zUTLcAAAD] trying to connect
+[9:41.21] [CHAT] Banned user Alex tried to connect
+[9:41.29] [CORE] New user with ID [/#E9vRddrsCFqoYZf1AAAE] trying to connect
+[9:41.29] [CHAT] Handshake for User [/#E9vRddrsCFqoYZf1AAAE] completed
+[9:41.29] [CHAT] User [/#E9vRddrsCFqoYZf1AAAE] indentified as name [asdf]
+[9:41.29] [CHAT] User [/#E9vRddrsCFqoYZf1AAAE] requested status: Handshake ok
+[9:41.40] [CORE] User with ID [/#E9vRddrsCFqoYZf1AAAE] disconnected
+[9:41.40] [CORE] New user with ID [/#adVF6gbKRmOwbt-VAAAF] trying to connect
+[9:41.40] [CHAT] Handshake for User [/#adVF6gbKRmOwbt-VAAAF] completed
+[9:41.40] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] indentified as name [Alex]
+[9:41.40] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] requested status: Handshake ok
+[9:41.48] [CHAT] User [Alex] banned User somebody
+[9:49.41] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.42] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.42] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.43] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.43] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.44] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.44] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.45] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.45] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.46] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.47] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.47] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.48] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.49] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.49] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.50] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.51] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:49.52] [CHAT] User [/#adVF6gbKRmOwbt-VAAAF] sent message : asdf
+[9:50.8] [CORE] User with ID [/#adVF6gbKRmOwbt-VAAAF] disconnected
+[9:50.9] [CORE] New user with ID [/#uBMptSjKM6rxuA2WAAAG] trying to connect
+[9:50.9] [CHAT] Handshake for User [/#uBMptSjKM6rxuA2WAAAG] completed
+[9:50.9] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] indentified as name [Alex]
+[9:50.9] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] requested status: Handshake ok
+[9:50.10] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.11] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.11] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.12] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.12] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.13] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.13] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.14] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.14] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.14] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.15] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.15] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.16] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.16] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.17] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asd
+[9:50.17] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : fa
+[9:50.18] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : sdf
+[9:50.18] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.18] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.19] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[9:50.19] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asd
+[9:50.20] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : fas
+[9:50.20] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : dfas
+[9:50.20] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : df
+[9:50.21] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asd
+[9:50.23] [CHAT] User [/#uBMptSjKM6rxuA2WAAAG] sent message : asdf
+[10:8.28] [CORE] Server is starting
+[10:8.28] [CHAT] Starting to load banned users
+[10:8.28] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[10:8.28] [CHAT] Finished loading 3 banned users
+[10:8.28] [MONGOOSE] Mongoose Connection established!
+[10:8.31] [CORE] New user with ID [/#p8hpZdUR9F5x8g2kAAAA] trying to connect
+[10:8.31] [CHAT] Handshake for User [/#p8hpZdUR9F5x8g2kAAAA] completed
+[10:8.31] [CHAT] User [/#p8hpZdUR9F5x8g2kAAAA] indentified as name [Alex]
+[10:8.31] [CHAT] User [/#p8hpZdUR9F5x8g2kAAAA] requested status: Handshake ok
+[10:9.55] [CORE] Server is starting
+[10:9.55] [CHAT] Starting to load banned users
+[10:9.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[10:9.55] [CHAT] Finished loading 3 banned users
+[10:9.55] [MONGOOSE] Mongoose Connection established!
+[10:9.57] [CORE] New user with ID [/#_thDGOhODG_xiegcAAAA] trying to connect
+[10:9.57] [CHAT] Handshake for User [/#_thDGOhODG_xiegcAAAA] completed
+[10:9.57] [CHAT] User [/#_thDGOhODG_xiegcAAAA] indentified as name [Alex]
+[10:9.57] [CHAT] User [/#_thDGOhODG_xiegcAAAA] requested status: Handshake ok
+[10:10.21] [CORE] Server is starting
+[10:10.21] [CHAT] Starting to load banned users
+[10:10.21] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[10:10.53] [CORE] Server is starting
+[10:10.53] [CHAT] Starting to load banned users
+[10:10.53] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[10:10.53] [CHAT] Finished loading 3 banned users
+[10:10.53] [MONGOOSE] Mongoose Connection established!
+[10:10.58] [CORE] New user with ID [/#8iWFJYr7JrP93IV2AAAA] trying to connect
+[10:10.58] [CHAT] Handshake for User [/#8iWFJYr7JrP93IV2AAAA] completed
+[10:10.58] [CHAT] User [/#8iWFJYr7JrP93IV2AAAA] indentified as name [Alex]
+[10:10.58] [CHAT] User [/#8iWFJYr7JrP93IV2AAAA] requested status: Handshake ok
+[12:0.32] [CORE] User with ID [/#8iWFJYr7JrP93IV2AAAA] disconnected
+[12:38.14] [CORE] Server is starting
+[12:38.14] [CHAT] Starting to load banned users
+[12:38.14] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[12:38.14] [CHAT] Finished loading 3 banned users
+[12:38.14] [MONGOOSE] Mongoose Connection established!
+[21:3.55] [CORE] Server is starting
+[21:3.55] [CHAT] Starting to load banned users
+[21:3.55] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:3.55] [CHAT] Finished loading 3 banned users
+[21:3.55] [MONGOOSE] Mongoose Connection established!
+[21:4.21] [CORE] Server is starting
+[21:4.21] [CHAT] Starting to load banned users
+[21:4.21] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:4.21] [CHAT] Finished loading 3 banned users
+[21:4.21] [MONGOOSE] Mongoose Connection established!
+[21:5.6] [CORE] Server is starting
+[21:5.6] [CHAT] Starting to load banned users
+[21:5.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:5.6] [CHAT] Finished loading 3 banned users
+[21:5.6] [MONGOOSE] Mongoose Connection established!
+[21:7.25] [CORE] Server is starting
+[21:7.25] [CHAT] Starting to load banned users
+[21:7.25] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:7.25] [CHAT] Finished loading 3 banned users
+[21:7.25] [MONGOOSE] Mongoose Connection established!
+[21:8.37] [CORE] Server is starting
+[21:8.37] [CHAT] Starting to load banned users
+[21:8.37] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:8.37] [CHAT] Finished loading 3 banned users
+[21:8.37] [MONGOOSE] Mongoose Connection established!
+[21:10.52] [CORE] Server is starting
+[21:10.52] [CHAT] Starting to load banned users
+[21:10.52] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:10.52] [CHAT] Finished loading 3 banned users
+[21:10.52] [MONGOOSE] Mongoose Connection established!
+[21:16.29] [CORE] Server is starting
+[21:16.29] [CHAT] Starting to load banned users
+[21:16.29] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:16.29] [CHAT] Finished loading 3 banned users
+[21:16.29] [MONGOOSE] Mongoose Connection established!
+[21:17.9] [CORE] Server is starting
+[21:17.9] [CHAT] Starting to load banned users
+[21:17.9] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:17.10] [CHAT] Finished loading 3 banned users
+[21:17.10] [MONGOOSE] Mongoose Connection established!
+[21:19.1] [CORE] Server is starting
+[21:19.1] [CHAT] Starting to load banned users
+[21:19.1] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:19.1] [CHAT] Finished loading 3 banned users
+[21:19.1] [MONGOOSE] Mongoose Connection established!
+[21:19.23] [CORE] Server is starting
+[21:19.23] [CHAT] Starting to load banned users
+[21:19.23] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:19.23] [CHAT] Finished loading 3 banned users
+[21:19.23] [MONGOOSE] Mongoose Connection established!
+[15:29.6] [CORE] Server is starting
+[15:29.6] [CHAT] Starting to load banned users
+[15:29.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:29.6] [CHAT] Finished loading 3 banned users
+[15:29.7] [MONGOOSE] Mongoose Connection established!
+[15:29.20] [CORE] New user with ID [/#haMslw66E1f1W7hvAAAA] trying to connect
+[15:29.20] [CHAT] Handshake for User [/#haMslw66E1f1W7hvAAAA] completed
+[15:29.20] [CHAT] User [/#haMslw66E1f1W7hvAAAA] indentified as name [Alex]
+[15:29.21] [CHAT] User [/#haMslw66E1f1W7hvAAAA] requested status: Handshake ok
+[15:29.25] [CHAT] User [/#haMslw66E1f1W7hvAAAA] sent message : Na moin
+[15:29.35] [CORE] User with ID [/#haMslw66E1f1W7hvAAAA] disconnected
+[15:29.36] [CORE] New user with ID [/#lcQDoTcJ32jpvCbWAAAB] trying to connect
+[15:29.36] [CHAT] Handshake for User [/#lcQDoTcJ32jpvCbWAAAB] completed
+[15:29.36] [CHAT] User [/#lcQDoTcJ32jpvCbWAAAB] indentified as name [Alex]
+[15:29.36] [CHAT] User [/#lcQDoTcJ32jpvCbWAAAB] requested status: Handshake ok
+[15:29.41] [CHAT] User [/#lcQDoTcJ32jpvCbWAAAB] sent message : asd
+[15:30.0] [CHAT] User [/#lcQDoTcJ32jpvCbWAAAB] sent message : asd
+[15:30.13] [CHAT] User [Alex] banned User Alex
+[15:30.13] [CORE] User with ID [/#lcQDoTcJ32jpvCbWAAAB] disconnected
+[15:33.8] [CORE] Server is starting
+[15:33.8] [CHAT] Starting to load banned users
+[15:33.8] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:33.8] [CHAT] Finished loading 4 banned users
+[15:33.8] [MONGOOSE] Mongoose Connection established!
+[15:33.41] [CORE] Server is starting
+[15:33.41] [CHAT] Starting to load banned users
+[15:33.41] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:33.41] [CHAT] Finished loading 4 banned users
+[15:33.41] [MONGOOSE] Mongoose Connection established!
+[15:35.50] [CORE] Server is starting
+[15:35.50] [CHAT] Starting to load banned users
+[15:35.50] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:35.50] [CHAT] Finished loading 4 banned users
+[15:35.50] [MONGOOSE] Mongoose Connection established!
+[15:38.6] [CORE] Server is starting
+[15:38.6] [CHAT] Starting to load banned users
+[15:38.6] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:38.6] [CHAT] Finished loading 4 banned users
+[15:38.6] [MONGOOSE] Mongoose Connection established!
+[15:39.27] [CORE] Server is starting
+[15:39.27] [CHAT] Starting to load banned users
+[15:39.27] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:39.27] [CHAT] Finished loading 4 banned users
+[15:39.27] [MONGOOSE] Mongoose Connection established!
+[15:44.18] [CORE] Server is starting
+[15:44.18] [CHAT] Starting to load banned users
+[15:44.18] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[15:44.18] [CHAT] Finished loading 4 banned users
+[15:44.18] [MONGOOSE] Mongoose Connection established!
+[18:3.40] [CORE] Server is starting
+[18:3.40] [CHAT] Starting to load banned users
+[18:3.40] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[18:3.40] [CHAT] Finished loading 4 banned users
+[18:3.40] [MONGOOSE] Mongoose Connection established!

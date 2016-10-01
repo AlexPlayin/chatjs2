@@ -1,0 +1,19 @@
+{
+    "user": {
+        "ignore": true,
+        "name": true,
+        "displayname": "User"
+
+    },
+    "admin": {
+        "*": true,
+        "displayname": "Admin"
+    },
+    "mod": {
+        "mute": true,
+        "kick": true,
+        "rename": true,
+        "displayname": "Mod"
+    },
+    "default": "user"
+}

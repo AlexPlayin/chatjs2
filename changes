@@ -1,0 +1,12 @@
+- Logging der Commands --> promote, mute, name, rename
+- Event Listener --> e.g. costum commands
+- User Link Functions 
+- Rooms
+- "server" command
+- config files and text file viable
+- further investigations into unban bug
+- /myrank
+- "ignore" command on client side   
+- Authentification via Token
+--> Integration Token-Authentication into classes
+--> rank system via db

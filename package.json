@@ -1,0 +1,10 @@
+{
+  "name": "easy-Chat.js",
+  "description": "An easy to use and highly costumable node.js and javascript web chat application !!! IN DEVELOPMENT !!!",
+  "author": "https://github.com/AlexPlayin",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6",
+"big-integer": "*"
+  }
+}
