@@ -28,6 +28,9 @@ function Chat(port) {
     // Object for timeouted users
     var timeout = {};
 
+    // Object for different rooms
+    var rooms = {};
+
     // Creating the user-class
     function User(username, socketid, mysocket, doc) {
         var user = {
@@ -37,6 +40,25 @@ function Chat(port) {
             'doc': doc
         };
         return user;
+    }
+
+    // Creating room constructor 
+
+    function room(password, name, maxusers) {
+
+        var room_id = makeid();
+
+        var room = {
+            name: name,
+            password: password,
+            maxusers: maxusers,
+            users: [],
+            room_id: room_id
+        };
+
+        rooms[room_id] = room;
+
+        return room;
     }
 
     // Creating the rank-class
@@ -77,12 +99,14 @@ function Chat(port) {
     // Loading all banned users --> see Function
     getBans();
 
-    var db = mongoose.createConnection(conf.auth_token.connect_uri);
-    db.on('error', console.error.bind(console, 'connection error:'));
-    db.once('open', function () {
-        log("[MONGOOSE] Mongoose Connection established!");
-    });
-
+    if (conf.authentification === 'mongo') {
+        log('Starting mongo connection...')
+        var db = mongoose.createConnection(conf.auth_token.connect_uri);
+        db.on('error', console.error.bind(console, 'connection error:'));
+        db.once('open', function () {
+            log("[MONGOOSE] Mongoose Connection established!");
+        });
+    }
     // socket.io server listening
     chatserver.listen(port);
 
@@ -754,6 +778,17 @@ function Chat(port) {
             return 'no_timeout'
         }
     }
+
+    function makeid() {
+        var text = "";
+        var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+
+        for (var i = 0; i < 6; i++)
+            text += possible.charAt(Math.floor(Math.random() * possible.length));
+
+        return text;
+    }
+
     this.log = function (message) {
         log(message);
     }

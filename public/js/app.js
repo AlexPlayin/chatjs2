@@ -18,5 +18,5 @@ $(document).ready(function () {
 
     $('#user_name').html(myusername);
 
-    var client = new Client('http://localhost:8080', myusername);
+    var client = new Client('http://192.168.178.42:8080', myusername);
 });

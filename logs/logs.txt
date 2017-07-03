@@ -2771,3 +2771,1227 @@
 [18:3.40] [CORE] Chat server reachable under http://127.0.0.1:8080/
 [18:3.40] [CHAT] Finished loading 4 banned users
 [18:3.40] [MONGOOSE] Mongoose Connection established!
+[13:14.29] [CORE] Server is starting
+[13:14.29] [CHAT] Starting to load banned users
+[13:14.29] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:14.29] [CHAT] Finished loading 4 banned users
+[13:16.29] [CORE] New user with ID [/#v-tOvAElyvd2T8UXAAAA] trying to connect
+[13:17.59] [CORE] Server is starting
+[13:17.59] [CHAT] Starting to load banned users
+[13:17.59] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[13:17.59] [CHAT] Finished loading 4 banned users
+[13:18.0] [CORE] New user with ID [/#taxdIG35B5W0ZgcGAAAA] trying to connect
+[13:18.0] [CHAT] Banned user Alex tried to connect
+[13:18.11] [CORE] New user with ID [/#RCFSNHkkt069xQfsAAAB] trying to connect
+[13:18.11] [CHAT] Handshake for User [/#RCFSNHkkt069xQfsAAAB] completed
+[13:18.11] [CHAT] User [/#RCFSNHkkt069xQfsAAAB] indentified as name [aufufufu]
+[13:18.11] [CHAT] User [/#RCFSNHkkt069xQfsAAAB] requested status: Handshake ok
+[13:19.0] [CORE] User with ID [/#RCFSNHkkt069xQfsAAAB] disconnected
+[13:19.1] [CORE] New user with ID [/#FBj-g4w4MJ1Cl-QeAAAC] trying to connect
+[13:19.1] [CHAT] Handshake for User [/#FBj-g4w4MJ1Cl-QeAAAC] completed
+[13:19.1] [CHAT] User [/#FBj-g4w4MJ1Cl-QeAAAC] indentified as name [Papa]
+[13:19.1] [CHAT] User [/#FBj-g4w4MJ1Cl-QeAAAC] requested status: Handshake ok
+[13:19.16] [CORE] User with ID [/#FBj-g4w4MJ1Cl-QeAAAC] disconnected
+[13:19.17] [CORE] New user with ID [/#-JN8VAoKAXFxjJZhAAAD] trying to connect
+[13:19.17] [CHAT] Banned user Alex tried to connect
+[13:20.52] [CORE] New user with ID [/#KIX0EHz57zruvFnGAAAE] trying to connect
+[13:20.52] [CHAT] Handshake for User [/#KIX0EHz57zruvFnGAAAE] completed
+[13:20.52] [CHAT] User [/#KIX0EHz57zruvFnGAAAE] indentified as name [Papa2]
+[13:20.52] [CHAT] User [/#KIX0EHz57zruvFnGAAAE] requested status: Handshake ok
+[13:21.13] [CHAT] User [Papa2] banned User Alex
+[0:15.7] [CORE] Server is starting
+[0:15.7] [CHAT] Starting to load banned users
+[0:15.7] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[0:15.7] [CHAT] Finished loading 2 banned users
+[0:18.30] [CORE] New user with ID [/#8kn0Goj7NAjXWK__AAAA] trying to connect
+[0:18.32] [CHAT] Handshake for User [/#8kn0Goj7NAjXWK__AAAA] completed
+[0:18.32] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] indentified as name [alex]
+[0:18.32] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] requested status: Handshake ok
+[0:19.26] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : k
+[0:19.54] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : mij
+[0:20.24] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : k
+[0:20.29] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : l
+[0:20.53] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : k
+[0:20.53] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : k
+[0:20.54] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : k
+[0:20.57] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : k
+[0:21.17] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : jjj
+[0:21.22] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : mmf
+[0:21.30] [CHAT] User [/#8kn0Goj7NAjXWK__AAAA] sent message : kk
+[0:21.37] [CORE] User with ID [/#8kn0Goj7NAjXWK__AAAA] disconnected
+[0:21.38] [CORE] New user with ID [/#Xi-EmRPUjb0r3FEkAAAB] trying to connect
+[0:21.38] [CHAT] Handshake for User [/#Xi-EmRPUjb0r3FEkAAAB] completed
+[0:21.38] [CHAT] User [/#Xi-EmRPUjb0r3FEkAAAB] indentified as name [alex]
+[0:21.38] [CHAT] User [/#Xi-EmRPUjb0r3FEkAAAB] requested status: Handshake ok
+[0:21.42] [CHAT] User [/#Xi-EmRPUjb0r3FEkAAAB] sent message : f
+[0:21.57] [CHAT] User [/#Xi-EmRPUjb0r3FEkAAAB] sent message : asfsaf
+[0:22.13] [CHAT] User [/#Xi-EmRPUjb0r3FEkAAAB] sent message : af
+[0:22.20] [CHAT] User [/#Xi-EmRPUjb0r3FEkAAAB] sent message : q
+[0:24.52] [CORE] Server is starting
+[0:24.52] [CHAT] Starting to load banned users
+[0:24.52] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[0:24.53] [CHAT] Finished loading 2 banned users
+[0:24.55] [CORE] New user with ID [/#sf8p7FaFgSwXqf0KAAAA] trying to connect
+[0:24.55] [CHAT] Handshake for User [/#sf8p7FaFgSwXqf0KAAAA] completed
+[0:24.55] [CHAT] User [/#sf8p7FaFgSwXqf0KAAAA] indentified as name [alex]
+[0:24.55] [CHAT] User [/#sf8p7FaFgSwXqf0KAAAA] requested status: Handshake ok
+[0:25.8] [CHAT] User [/#sf8p7FaFgSwXqf0KAAAA] sent message : jbb
+[0:26.28] [CORE] Server is starting
+[0:26.28] [CHAT] Starting to load banned users
+[0:26.28] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[0:26.28] [CHAT] Finished loading 2 banned users
+[0:26.32] [CORE] New user with ID [/#aF4907HfK5queXjtAAAA] trying to connect
+[0:26.32] [CHAT] Handshake for User [/#aF4907HfK5queXjtAAAA] completed
+[0:26.32] [CHAT] User [/#aF4907HfK5queXjtAAAA] indentified as name [alex]
+[0:26.33] [CHAT] User [/#aF4907HfK5queXjtAAAA] requested status: Handshake ok
+[0:26.39] [CHAT] User [/#aF4907HfK5queXjtAAAA] sent message : dbdf
+[0:26.41] [CHAT] User [/#aF4907HfK5queXjtAAAA] sent message : zkuzuk
+[0:28.22] [CHAT] User [/#aF4907HfK5queXjtAAAA] sent message : df
+[0:28.24] [CHAT] User [/#aF4907HfK5queXjtAAAA] sent message : #
+[0:29.37] [CORE] User with ID [/#aF4907HfK5queXjtAAAA] disconnected
+[0:29.38] [CORE] New user with ID [/#Ezvu8ZD7eMIkd1NjAAAB] trying to connect
+[0:29.38] [CHAT] Handshake for User [/#Ezvu8ZD7eMIkd1NjAAAB] completed
+[0:29.38] [CHAT] User [/#Ezvu8ZD7eMIkd1NjAAAB] indentified as name [alex]
+[0:29.38] [CHAT] User [/#Ezvu8ZD7eMIkd1NjAAAB] requested status: Handshake ok
+[0:29.40] [CHAT] User [/#Ezvu8ZD7eMIkd1NjAAAB] sent message : sv
+[0:29.41] [CHAT] User [/#Ezvu8ZD7eMIkd1NjAAAB] sent message : ggjngh
+[0:29.43] [CHAT] User [/#Ezvu8ZD7eMIkd1NjAAAB] sent message : gzukgvz
+[0:29.44] [CHAT] User [/#Ezvu8ZD7eMIkd1NjAAAB] sent message : xhhxh
+[0:32.3] [CORE] User with ID [/#Ezvu8ZD7eMIkd1NjAAAB] disconnected
+[20:37.25] [CORE] Server is starting
+[20:37.25] [CHAT] Starting to load banned users
+[20:37.25] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[20:37.25] [CHAT] Finished loading 2 banned users
+[20:37.34] [CORE] New user with ID [/#W4w5TPb-05LOolk9AAAA] trying to connect
+[20:37.34] [CHAT] Handshake for User [/#W4w5TPb-05LOolk9AAAA] completed
+[20:37.34] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] indentified as name [alex]
+[20:37.34] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] requested status: Handshake ok
+[20:37.40] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] sent message : hallo
+[20:37.44] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] sent message : i bims lol
+[20:37.51] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] sent message : a
+[20:37.57] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] sent message : Hallo
+[20:37.59] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] tried calling command : /ban
+[20:38.16] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] tried calling command : /ban
+[20:38.36] [CORE] New user with ID [/#mE-iWxY16W391xu7AAAB] trying to connect
+[20:38.36] [CHAT] Handshake for User [/#mE-iWxY16W391xu7AAAB] completed
+[20:38.36] [CHAT] User [/#mE-iWxY16W391xu7AAAB] indentified as name [laura]
+[20:38.36] [CHAT] User [/#mE-iWxY16W391xu7AAAB] requested status: Handshake ok
+[20:38.39] [CHAT] User [/#mE-iWxY16W391xu7AAAB] sent message : hallo
+[20:38.47] [CHAT] User [/#W4w5TPb-05LOolk9AAAA] sent message : i bims alex loo
+[20:39.0] [CHAT] User [/#mE-iWxY16W391xu7AAAB] sent message : du bimst 1 spast lol
+[20:44.57] [CORE] User with ID [/#W4w5TPb-05LOolk9AAAA] disconnected
+[20:44.57] [CORE] User with ID [/#mE-iWxY16W391xu7AAAB] disconnected
+[11:17.2] [CORE] New user with ID [/#ou1_DBBcpHSMOm5SAAAC] trying to connect
+[11:17.2] [CHAT] Handshake for User [/#ou1_DBBcpHSMOm5SAAAC] completed
+[11:17.2] [CHAT] User [/#ou1_DBBcpHSMOm5SAAAC] indentified as name [alex]
+[11:17.2] [CHAT] User [/#ou1_DBBcpHSMOm5SAAAC] requested status: Handshake ok
+[11:20.6] [CORE] User with ID [/#ou1_DBBcpHSMOm5SAAAC] disconnected
+[11:20.6] [CORE] New user with ID [/#G4e7CWBtDyTrs3cpAAAD] trying to connect
+[11:20.6] [CHAT] Handshake for User [/#G4e7CWBtDyTrs3cpAAAD] completed
+[11:20.6] [CHAT] User [/#G4e7CWBtDyTrs3cpAAAD] indentified as name [alex]
+[11:20.7] [CHAT] User [/#G4e7CWBtDyTrs3cpAAAD] requested status: Handshake ok
+[11:20.46] [CORE] New user with ID [/#nuivEUWEct92_ouKAAAE] trying to connect
+[11:20.46] [CHAT] Handshake for User [/#nuivEUWEct92_ouKAAAE] completed
+[11:20.46] [CHAT] User [/#nuivEUWEct92_ouKAAAE] indentified as name [Alex]
+[11:20.46] [CHAT] User [/#nuivEUWEct92_ouKAAAE] requested status: Handshake ok
+[11:20.55] [CORE] New user with ID [/#V4WHo9v3iri7R8EhAAAF] trying to connect
+[11:20.55] [CHAT] Handshake for User [/#V4WHo9v3iri7R8EhAAAF] completed
+[11:20.55] [CHAT] User [/#V4WHo9v3iri7R8EhAAAF] indentified as name [Laura]
+[11:20.56] [CHAT] User [/#V4WHo9v3iri7R8EhAAAF] requested status: Handshake ok
+[11:21.6] [CHAT] User [/#nuivEUWEct92_ouKAAAE] sent message : Hi
+[11:21.6] [CHAT] User [/#V4WHo9v3iri7R8EhAAAF] sent message : Hi
+[11:21.16] [CHAT] User [/#G4e7CWBtDyTrs3cpAAAD] sent message : hi
+[11:21.35] [CHAT] User [/#V4WHo9v3iri7R8EhAAAF] sent message : Na ?
+[11:21.55] [CHAT] User [Alex] banned User alex
+[11:21.55] [CORE] User with ID [/#G4e7CWBtDyTrs3cpAAAD] disconnected
+[11:22.26] [CORE] New user with ID [/#ckU6mwiluSrjkAvcAAAG] trying to connect
+[11:22.26] [CHAT] Handshake for User [/#ckU6mwiluSrjkAvcAAAG] completed
+[11:22.26] [CHAT] User [/#ckU6mwiluSrjkAvcAAAG] indentified as name [alex]
+[11:22.26] [CHAT] User [/#ckU6mwiluSrjkAvcAAAG] requested status: Handshake ok
+[11:22.39] [CHAT] User [/#nuivEUWEct92_ouKAAAE] sent message : Was geht
+[11:24.15] [CORE] User with ID [/#V4WHo9v3iri7R8EhAAAF] disconnected
+[11:26.47] [CORE] User with ID [/#nuivEUWEct92_ouKAAAE] disconnected
+[11:27.49] [CORE] New user with ID [/#gkwCNJhp46fRug-qAAAH] trying to connect
+[11:27.49] [CHAT] Handshake for User [/#gkwCNJhp46fRug-qAAAH] completed
+[11:27.49] [CHAT] User [/#gkwCNJhp46fRug-qAAAH] indentified as name [Alex]
+[11:27.49] [CHAT] User [/#gkwCNJhp46fRug-qAAAH] requested status: Handshake ok
+[11:29.14] [CORE] User with ID [/#gkwCNJhp46fRug-qAAAH] disconnected
+[11:29.26] [CORE] New user with ID [/#rX6Fe1hlpdTvWtTMAAAI] trying to connect
+[11:57.13] [CORE] New user with ID [/#eGcPciOHZm0LSg2JAAAJ] trying to connect
+[11:57.13] [CHAT] Handshake for User [/#eGcPciOHZm0LSg2JAAAJ] completed
+[11:57.13] [CHAT] User [/#eGcPciOHZm0LSg2JAAAJ] indentified as name [Laura]
+[11:57.13] [CHAT] User [/#eGcPciOHZm0LSg2JAAAJ] requested status: Handshake ok
+[11:58.38] [CORE] User with ID [/#eGcPciOHZm0LSg2JAAAJ] disconnected
+[12:6.29] [CORE] New user with ID [/#IVeUtMAKSH_FZtSiAAAK] trying to connect
+[12:6.29] [CHAT] Handshake for User [/#IVeUtMAKSH_FZtSiAAAK] completed
+[12:6.29] [CHAT] User [/#IVeUtMAKSH_FZtSiAAAK] indentified as name [Laura]
+[12:6.29] [CHAT] User [/#IVeUtMAKSH_FZtSiAAAK] requested status: Handshake ok
+[12:7.54] [CORE] User with ID [/#IVeUtMAKSH_FZtSiAAAK] disconnected
+[13:45.3] [CORE] New user with ID [/#KD--JpDalLVjyCnAAAAL] trying to connect
+[13:45.3] [CHAT] Handshake for User [/#KD--JpDalLVjyCnAAAAL] completed
+[13:45.3] [CHAT] User [/#KD--JpDalLVjyCnAAAAL] indentified as name [Laura]
+[13:45.3] [CHAT] User [/#KD--JpDalLVjyCnAAAAL] requested status: Handshake ok
+[13:45.25] [CORE] User with ID [/#KD--JpDalLVjyCnAAAAL] disconnected
+[13:47.46] [CORE] New user with ID [/#G6kXbnV78TqXkRDKAAAM] trying to connect
+[13:47.46] [CHAT] Handshake for User [/#G6kXbnV78TqXkRDKAAAM] completed
+[13:47.46] [CHAT] User [/#G6kXbnV78TqXkRDKAAAM] indentified as name [Laura]
+[13:47.46] [CHAT] User [/#G6kXbnV78TqXkRDKAAAM] requested status: Handshake ok
+[13:49.11] [CORE] User with ID [/#G6kXbnV78TqXkRDKAAAM] disconnected
+[13:56.13] [CORE] New user with ID [/#XC3y2Pg9UIKAqPd4AAAN] trying to connect
+[13:56.13] [CHAT] Handshake for User [/#XC3y2Pg9UIKAqPd4AAAN] completed
+[13:56.13] [CHAT] User [/#XC3y2Pg9UIKAqPd4AAAN] indentified as name [Laura]
+[13:56.13] [CHAT] User [/#XC3y2Pg9UIKAqPd4AAAN] requested status: Handshake ok
+[13:56.32] [CORE] New user with ID [/#lkAOgX9oO_PMvJmMAAAO] trying to connect
+[13:56.32] [CHAT] Handshake for User [/#lkAOgX9oO_PMvJmMAAAO] completed
+[13:56.32] [CHAT] User [/#lkAOgX9oO_PMvJmMAAAO] indentified as name [Alex]
+[13:56.32] [CHAT] User [/#lkAOgX9oO_PMvJmMAAAO] requested status: Handshake ok
+[13:56.37] [CHAT] User [/#lkAOgX9oO_PMvJmMAAAO] sent message : Hi
+[13:57.38] [CORE] User with ID [/#XC3y2Pg9UIKAqPd4AAAN] disconnected
+[14:6.54] [CORE] User with ID [/#lkAOgX9oO_PMvJmMAAAO] disconnected
+[14:7.18] [CORE] New user with ID [/#afi9dAbMd4oRtODyAAAP] trying to connect
+[14:7.18] [CHAT] Handshake for User [/#afi9dAbMd4oRtODyAAAP] completed
+[14:7.18] [CHAT] User [/#afi9dAbMd4oRtODyAAAP] indentified as name [Laura]
+[14:7.18] [CHAT] User [/#afi9dAbMd4oRtODyAAAP] requested status: Handshake ok
+[14:7.22] [CORE] User with ID [/#afi9dAbMd4oRtODyAAAP] disconnected
+[14:18.34] [CORE] New user with ID [/#LaD_ulr8dAnKbwXjAAAQ] trying to connect
+[14:18.37] [CHAT] Handshake for User [/#LaD_ulr8dAnKbwXjAAAQ] completed
+[14:18.37] [CHAT] User [/#LaD_ulr8dAnKbwXjAAAQ] indentified as name [Laura]
+[14:18.37] [CHAT] User [/#LaD_ulr8dAnKbwXjAAAQ] requested status: Handshake ok
+[14:18.47] [CORE] User with ID [/#LaD_ulr8dAnKbwXjAAAQ] disconnected
+[15:41.54] [CORE] New user with ID [/#lE6NU5tpEBvEva4KAAAR] trying to connect
+[15:41.54] [CHAT] Handshake for User [/#lE6NU5tpEBvEva4KAAAR] completed
+[15:41.54] [CHAT] User [/#lE6NU5tpEBvEva4KAAAR] indentified as name [Alex]
+[15:41.54] [CHAT] User [/#lE6NU5tpEBvEva4KAAAR] requested status: Handshake ok
+[15:42.26] [CHAT] User [/#lE6NU5tpEBvEva4KAAAR] sent message : Hi
+[15:43.37] [CHAT] User [/#lE6NU5tpEBvEva4KAAAR] sent message : Ggg
+[15:43.42] [CORE] User with ID [/#lE6NU5tpEBvEva4KAAAR] disconnected
+[15:43.43] [CORE] New user with ID [/#ZULWMyGjduaAsrECAAAS] trying to connect
+[15:43.43] [CHAT] Handshake for User [/#ZULWMyGjduaAsrECAAAS] completed
+[15:43.43] [CHAT] User [/#ZULWMyGjduaAsrECAAAS] indentified as name [Alex]
+[15:43.43] [CHAT] User [/#ZULWMyGjduaAsrECAAAS] requested status: Handshake ok
+[15:45.0] [CORE] New user with ID [/#vNCiPHKbV0gaO6vhAAAT] trying to connect
+[15:45.0] [CHAT] Handshake for User [/#vNCiPHKbV0gaO6vhAAAT] completed
+[15:45.0] [CHAT] User [/#vNCiPHKbV0gaO6vhAAAT] indentified as name [Gut]
+[15:45.0] [CHAT] User [/#vNCiPHKbV0gaO6vhAAAT] requested status: Handshake ok
+[17:48.18] [CORE] User with ID [/#ZULWMyGjduaAsrECAAAS] disconnected
+[17:48.19] [CORE] User with ID [/#vNCiPHKbV0gaO6vhAAAT] disconnected
+[21:24.55] [CORE] New user with ID [/#N42j4g2EIBxvJJTyAAAU] trying to connect
+[21:29.10] [CORE] New user with ID [/#IkTN1B0ZmXQjwTtPAAAV] trying to connect
+[21:31.31] [CORE] New user with ID [/#DjpXKakM7gJsLKqFAAAW] trying to connect
+[21:31.31] [CHAT] Handshake for User [/#DjpXKakM7gJsLKqFAAAW] completed
+[21:31.31] [CHAT] User [/#DjpXKakM7gJsLKqFAAAW] indentified as name [undefined]
+[21:31.31] [CHAT] User [/#DjpXKakM7gJsLKqFAAAW] requested status: Handshake ok
+[21:31.31] [CORE] User with ID [/#DjpXKakM7gJsLKqFAAAW] disconnected
+[21:32.30] [CORE] New user with ID [/#xnYmC57J_nm5mnaRAAAX] trying to connect
+[21:32.30] [CHAT] Handshake for User [/#xnYmC57J_nm5mnaRAAAX] completed
+[21:32.30] [CHAT] User [/#xnYmC57J_nm5mnaRAAAX] indentified as name [undefined]
+[21:32.30] [CHAT] User [/#xnYmC57J_nm5mnaRAAAX] requested status: Handshake ok
+[21:32.30] [CORE] User with ID [/#xnYmC57J_nm5mnaRAAAX] disconnected
+[21:33.29] [CORE] New user with ID [/#VRAcX0FR99uwC7hbAAAY] trying to connect
+[21:33.29] [CHAT] Handshake for User [/#VRAcX0FR99uwC7hbAAAY] completed
+[21:33.29] [CHAT] User [/#VRAcX0FR99uwC7hbAAAY] indentified as name [undefined]
+[21:33.29] [CHAT] User [/#VRAcX0FR99uwC7hbAAAY] requested status: Handshake ok
+[21:33.29] [CORE] User with ID [/#VRAcX0FR99uwC7hbAAAY] disconnected
+[21:36.1] [CORE] New user with ID [/#ybI83hWdWgYJe_D2AAAZ] trying to connect
+[21:36.1] [CHAT] Handshake for User [/#ybI83hWdWgYJe_D2AAAZ] completed
+[21:36.1] [CHAT] User [/#ybI83hWdWgYJe_D2AAAZ] indentified as name [undefined]
+[21:36.1] [CHAT] User [/#ybI83hWdWgYJe_D2AAAZ] requested status: Handshake ok
+[21:36.1] [CORE] User with ID [/#ybI83hWdWgYJe_D2AAAZ] disconnected
+[21:36.22] [CORE] New user with ID [/#Qy9wDdxv_JDBVGYiAAAa] trying to connect
+[21:36.23] [CHAT] Handshake for User [/#Qy9wDdxv_JDBVGYiAAAa] completed
+[21:36.23] [CHAT] User [/#Qy9wDdxv_JDBVGYiAAAa] indentified as name [undefined]
+[21:36.23] [CHAT] User [/#Qy9wDdxv_JDBVGYiAAAa] requested status: Handshake ok
+[21:36.23] [CORE] User with ID [/#Qy9wDdxv_JDBVGYiAAAa] disconnected
+[21:37.21] [CORE] New user with ID [/#lj5U4lqM6338HQ6aAAAb] trying to connect
+[21:37.21] [CHAT] Handshake for User [/#lj5U4lqM6338HQ6aAAAb] completed
+[21:37.21] [CHAT] User [/#lj5U4lqM6338HQ6aAAAb] indentified as name [undefined]
+[21:37.21] [CHAT] User [/#lj5U4lqM6338HQ6aAAAb] requested status: Handshake ok
+[21:37.21] [CORE] User with ID [/#lj5U4lqM6338HQ6aAAAb] disconnected
+[21:37.57] [CORE] New user with ID [/#FQ4nPMOb_U0k47dTAAAc] trying to connect
+[21:37.57] [CHAT] Handshake for User [/#FQ4nPMOb_U0k47dTAAAc] completed
+[21:37.57] [CHAT] User [/#FQ4nPMOb_U0k47dTAAAc] indentified as name [undefined]
+[21:37.57] [CHAT] User [/#FQ4nPMOb_U0k47dTAAAc] requested status: Handshake ok
+[21:37.57] [CORE] User with ID [/#FQ4nPMOb_U0k47dTAAAc] disconnected
+[21:40.3] [CORE] New user with ID [/#6HctmnDLbWsNqKKHAAAd] trying to connect
+[21:40.3] [CHAT] Handshake for User [/#6HctmnDLbWsNqKKHAAAd] completed
+[21:40.3] [CHAT] User [/#6HctmnDLbWsNqKKHAAAd] indentified as name [undefined]
+[21:40.3] [CHAT] User [/#6HctmnDLbWsNqKKHAAAd] requested status: Handshake ok
+[21:40.3] [CORE] User with ID [/#6HctmnDLbWsNqKKHAAAd] disconnected
+[21:40.48] [CORE] New user with ID [/#5ZvFQwBkqMd2tF8BAAAe] trying to connect
+[21:40.48] [CHAT] Handshake for User [/#5ZvFQwBkqMd2tF8BAAAe] completed
+[21:40.48] [CHAT] User [/#5ZvFQwBkqMd2tF8BAAAe] indentified as name [undefined]
+[21:40.48] [CHAT] User [/#5ZvFQwBkqMd2tF8BAAAe] requested status: Handshake ok
+[21:40.48] [CORE] User with ID [/#5ZvFQwBkqMd2tF8BAAAe] disconnected
+[21:41.16] [CORE] New user with ID [/#RQ-2-NdxdNc9EOVpAAAf] trying to connect
+[21:41.16] [CHAT] Handshake for User [/#RQ-2-NdxdNc9EOVpAAAf] completed
+[21:41.16] [CHAT] User [/#RQ-2-NdxdNc9EOVpAAAf] indentified as name [undefined]
+[21:41.16] [CHAT] User [/#RQ-2-NdxdNc9EOVpAAAf] requested status: Handshake ok
+[21:41.16] [CORE] User with ID [/#RQ-2-NdxdNc9EOVpAAAf] disconnected
+[21:41.40] [CORE] New user with ID [/#6s-pOC6Hi81IIe1JAAAg] trying to connect
+[21:41.40] [CHAT] Handshake for User [/#6s-pOC6Hi81IIe1JAAAg] completed
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] indentified as name [undefined]
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] requested status: Handshake ok
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.40] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.41] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.42] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.43] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.44] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.45] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.46] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.47] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.48] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.49] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.50] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.51] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.52] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.53] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.54] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.55] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.56] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.57] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.58] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:41.59] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.0] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CHAT] User [/#6s-pOC6Hi81IIe1JAAAg] sent message : 
+[21:42.1] [CORE] User with ID [/#6s-pOC6Hi81IIe1JAAAg] disconnected
+[21:42.39] [CORE] New user with ID [/#yIHDxOxiFXjBIXcyAAAh] trying to connect
+[21:42.39] [CHAT] Handshake for User [/#yIHDxOxiFXjBIXcyAAAh] completed
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] indentified as name [undefined]
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] requested status: Handshake ok
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.39] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.40] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.41] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.42] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CHAT] User [/#yIHDxOxiFXjBIXcyAAAh] sent message : 
+[21:42.43] [CORE] User with ID [/#yIHDxOxiFXjBIXcyAAAh] disconnected
+[21:43.35] [CORE] New user with ID [/#oy5_bSXGuDKKC3h8AAAi] trying to connect
+[21:43.35] [CHAT] Handshake for User [/#oy5_bSXGuDKKC3h8AAAi] completed
+[21:43.35] [CHAT] User [/#oy5_bSXGuDKKC3h8AAAi] indentified as name [undefined]
+[21:43.35] [CHAT] User [/#oy5_bSXGuDKKC3h8AAAi] requested status: Handshake ok
+[21:43.35] [CORE] User with ID [/#oy5_bSXGuDKKC3h8AAAi] disconnected
+[21:44.7] [CORE] New user with ID [/#J1bwkPH_8FuEGihOAAAj] trying to connect
+[21:44.7] [CHAT] Handshake for User [/#J1bwkPH_8FuEGihOAAAj] completed
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] indentified as name [undefined]
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] requested status: Handshake ok
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.7] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.8] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.9] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.10] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.11] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.12] [CHAT] User [/#J1bwkPH_8FuEGihOAAAj] sent message : 
+[21:44.19] [CORE] Server is starting
+[21:44.19] [CHAT] Starting to load banned users
+[21:44.19] [CORE] Chat server reachable under http://127.0.0.1:8080/
+[21:44.19] [CHAT] Finished loading 2 banned users
+[21:44.22] [CORE] New user with ID [/#MF8Sr9KdEMkPPDA9AAAA] trying to connect
+[21:44.22] [CHAT] Handshake for User [/#MF8Sr9KdEMkPPDA9AAAA] completed
+[21:44.22] [CHAT] User [/#MF8Sr9KdEMkPPDA9AAAA] indentified as name [alex]
+[21:44.22] [CHAT] User [/#MF8Sr9KdEMkPPDA9AAAA] requested status: Handshake ok

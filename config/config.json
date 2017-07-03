@@ -1,5 +1,5 @@
 {
-    "authentification": "token",
+    "authentification": "name",
     "auth_token": {
         "connect_uri": "mongodb://localhost/chatjs",
         "usr_model_file": "/models/user.js",
