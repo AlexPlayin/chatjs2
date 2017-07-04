@@ -18,17 +18,13 @@ function Chat(port) {
         mongoose = require('mongoose');
 
 
-    setInterval(pusage.stat(process.pid, function (err, stat) {
+    var cpu = setInterval(function () {
+        pusage.stat(process.pid, function (err, stat) {
 
-        expect(err).to.be.null;
-        expect(stat).to.be.an('object');
-        expect(stat).to.have.property('cpu');
-        expect(stat).to.have.property('memory');
-
-        log2('Pcpu: %s', stat.cpu);
-        log2('Mem: %s', stat.memory / 1024); //those are bytes 
-
-    }))
+            log2('Pcpu: ' + stat.cpu);
+            log2('Mem: ' + stat.memory / 1024 / 1024); //those are bytes 
+        })
+    }, 10000);
 
     log('[CORE] Server is starting');
 

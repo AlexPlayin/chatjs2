@@ -3995,3 +3995,19 @@
 [21:44.22] [CHAT] Handshake for User [/#MF8Sr9KdEMkPPDA9AAAA] completed
 [21:44.22] [CHAT] User [/#MF8Sr9KdEMkPPDA9AAAA] indentified as name [alex]
 [21:44.22] [CHAT] User [/#MF8Sr9KdEMkPPDA9AAAA] requested status: Handshake ok
+[12:36.43] Pcpu: %s
+[12:36.43] Mem: %s
+[12:38.28] Pcpu: %s
+[12:38.28] Mem: %s
+[12:38.38] Pcpu: %s
+[12:38.38] Mem: %s
+[12:38.48] Pcpu: %s
+[12:38.48] Mem: %s
+[12:39.5] Pcpu: 1.3
+[12:39.5] Mem: 54956
+[12:39.15] Pcpu: 0
+[12:39.15] Mem: 55084
+[12:39.31] Pcpu: 0
+[12:39.31] Mem: 53.546875
+[12:39.41] Pcpu: 0
+[12:39.41] Mem: 53.71875
