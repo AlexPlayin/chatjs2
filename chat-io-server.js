@@ -14,8 +14,21 @@ function Chat(port) {
         conf = require('./config/config.json'), // General Config
         userranks = require('./config/users.json'), // User Savings
         ranks = require('./config/ranks.json'), // Ranks Config
+        pusage = require('pidusage'),
         mongoose = require('mongoose');
 
+
+    setInterval(pusage.stat(process.pid, function (err, stat) {
+
+        expect(err).to.be.null;
+        expect(stat).to.be.an('object');
+        expect(stat).to.have.property('cpu');
+        expect(stat).to.have.property('memory');
+
+        log2('Pcpu: %s', stat.cpu);
+        log2('Mem: %s', stat.memory / 1024); //those are bytes 
+
+    }))
 
     log('[CORE] Server is starting');
 
@@ -432,6 +445,24 @@ function Chat(port) {
 
     // Logging function
     function log(event) {
+        /*
+        // Getting timestamp
+        var timestamp = new Date();
+
+        // Creating log message
+        var logging = '[' + timestamp.getHours() + ':' + timestamp.getMinutes() + '.' + timestamp.getSeconds() + '] ' + event;
+
+        // Console logging and writing into file logs.txt
+        console.log(logging);
+        fs.appendFile('logs/logs.txt', logging + '\r\n', function (err) {
+            if (err) {
+                return console.log(err);
+            }
+        });
+        */
+    }
+
+    function log2(event) {
 
         // Getting timestamp
         var timestamp = new Date();
