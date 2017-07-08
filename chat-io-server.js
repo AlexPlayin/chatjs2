@@ -3,6 +3,8 @@
 // Chat-Class
 function Chat(port) {
 
+    var buffer = [];
+
     // Creating required variables
     var express = require('express'),
         chatapp = express(),
@@ -23,6 +25,8 @@ function Chat(port) {
 
             log2('Pcpu: ' + stat.cpu);
             log2('Mem: ' + stat.memory / 1024 / 1024); //those are bytes 
+            log2('Users connected: ' + Object.keys(users).length);
+
         })
     }, 10000);
 
@@ -39,6 +43,11 @@ function Chat(port) {
 
     // Object for different rooms
     var rooms = {};
+
+
+
+    console.log(buffer);
+
 
     // Creating the user-class
     function User(username, socketid, mysocket, doc) {
@@ -441,22 +450,34 @@ function Chat(port) {
 
     // Logging function
     function log(event) {
-        /*
+
         // Getting timestamp
         var timestamp = new Date();
 
         // Creating log message
         var logging = '[' + timestamp.getHours() + ':' + timestamp.getMinutes() + '.' + timestamp.getSeconds() + '] ' + event;
 
+
         // Console logging and writing into file logs.txt
-        console.log(logging);
-        fs.appendFile('logs/logs.txt', logging + '\r\n', function (err) {
-            if (err) {
-                return console.log(err);
-            }
-        });
-        */
+        // console.log(logging);
+
+        logging = logging + '\r\n';
+
+        buffer.push(logging);
+
     }
+
+    setInterval(function () {
+        var val = buffer[0];
+        if (!(val === undefined)) {
+            buffer.splice(0, 1);
+            fs.appendFile('logs/logs.txt', val, function (err) {
+                if (err) {
+                    return console.log(err);
+                }
+            });
+        }
+    }, 5);
 
     function log2(event) {
 
